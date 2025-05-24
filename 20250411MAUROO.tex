@@ -1,13 +1,21 @@
 \documentclass{book}
 
+\usepackage[backend=biber]{biblatex}
 \usepackage[margin=3cm]{geometry}
 \usepackage[spanish]{babel}
 \usepackage{caption}
 \usepackage{hyperref}
 \usepackage{csquotes}
-\usepackage[backend=biber]{biblatex}
+\usepackage{lastpage}
+%referencias
+\addbibresource{/home/candela/Descargas/originales/originales/files/gbTeXbib-20250411MAUROO.bib}
+%metadatos
+\input{/home/candela/Descargas/originales/originales/files/gbTeXmeta-20250411MAUROO.tex}
 
 \begin{document}
+
+
+
 \frontmatter
 
 
@@ -91,7 +99,7 @@ Lo juro por mi adhesión personal, por mi lealtad al equipo, por usted, por Lima
 
 \newpage
 
-\chapter
+\chapter{Periodistas en Debate. Aportes al Estudio del Campo Periodístico}
 
 \section{Introducción}
 
@@ -188,29 +196,29 @@ El análisis de la inversión publicitaria --su evolución y distribución en lo
 
 Los datos del \textbf{Cuadro 1} muestran con claridad el cambio de destino de la inversión publicitaria en los últimos años en Argentina. Hasta el año 2012, se puede apreciar la paridad en la inversión publicitaria entre los medios gráficos y la TV. En el año 2010, la sumatoria de medios gráficos y televisión concentraban el 86\% de la inversión total.\footnote{A los fines de nuestro análisis conviene considerar los siguientes datos. El conglomerado Área Metropolitana de Buenos Aires (AMBA), incluye la Ciudad de Buenos Aires y los cordones del conurbano bonaerense. Los medios del AMBA suelen tener alcance nacional. Los canales de aire de la región metropolitana tienen una cobertura superior al 80\% de la población nacional, y otro tanto ocurre con los diarios y revistas producidas en el AMBA que, en general, también tienen el mismo alcance.} Esta particular distribución destacaba a la Argentina a nivel regional, a diferencia de lo que ocurre en el resto de los países del Cono Sur donde la preponderancia de la televisión era --y es-- abrumadora, representando, solo este medio, dos tercios de la inversión publicitaria total.
 
-\begin{table}[!ht]
-	\centering
-	\caption{Evolución de la distribución de la inversión publicitaria por medio entre 2010 y 2018 en Argentina.Fuente: Cámara Argentina de Agencias de Medios.}
-	\begin{tabular}{1cccccccccc}
-		\toprule
-		\textbf{Medio} & \textbf{2010} & \textbf{2011} & \textbf{2012} & \textbf{2013} & \textbf{2014} & \textbf{2015} & \textbf{2016} & \textbf{2017} & \textbf{2018} \\
-		\midrule
-		\textbf{Televisión abierta y cable} & 47.7 & 44.4 & 45 & 46.9 & 39.5 & 38.6 & 39 & 41 & 41 \\
-		\midrule
-		\textbf{Radios en AMBA e interior} & 3.2 & 3.2 & 3.7 & 4.0 & 4.6 & 5 & 8 & 8 & 8 \\
-		\midrule
-		\textbf{Diarios en AMBA e interior} & 34 & 35 & 34 & 31 & 25 & 22 & 21 & 16 & 15 \\
-		\midrule
-		\textbf{Revistas} & 4.7 & 4.8 & 4.6 & 4.2 & 3.1 & 3 & 3 & 2 & 2 \\
-		\midrule
-		\textbf{Vía pública} & 5.5 & 5.2 & 4.3 & 4.3 & 4.5 & 5 & 5 & 5 & 7 \\
-		\midrule
-		\textbf{Cine} & 1.3 & 1.2 & 1.3 & 1.3 & 1.2 & 1 & 1 & 1 & 1 \\
-		\midrule
-		\textbf{Internet} & 4.3 & 6.1 & 7.4 & 8.0 & 16 & 20 & 20 & 24 & 25
-		\bottomrule
-	\end{tabular}
-\end{table}
+%\begin{table}[!ht]
+%	\centering
+%	\caption{Evolución de la distribución de la inversión publicitaria por medio entre 2010 y 2018 en Argentina.Fuente: Cámara Argentina de Agencias de Medios.}
+%	\begin{tabular}{1cccccccccc}
+%		\toprule
+%		\textbf{Medio} & \textbf{2010} & \textbf{2011} & \textbf{2012} & \textbf{2013} & %\textbf{2014} & \textbf{2015} & \textbf{2016} & \textbf{2017} & \textbf{2018} \\
+%		\midrule
+%		\textbf{Televisión abierta y cable} & 47.7 & 44.4 & 45 & 46.9 & 39.5 & 38.6 & 39 & 41 & 41 \\
+%		\midrule
+%		\textbf{Radios en AMBA e interior} & 3.2 & 3.2 & 3.7 & 4.0 & 4.6 & 5 & 8 & 8 & 8 \\
+%		\midrule
+%		\textbf{Diarios en AMBA e interior} & 34 & 35 & 34 & 31 & 25 & 22 & 21 & 16 & 15 \\
+%		\midrule
+%		\textbf{Revistas} & 4.7 & 4.8 & 4.6 & 4.2 & 3.1 & 3 & 3 & 2 & 2 \\
+%		\midrule
+%		\textbf{Vía pública} & 5.5 & 5.2 & 4.3 & 4.3 & 4.5 & 5 & 5 & 5 & 7 \\
+%		\midrule
+%		\textbf{Cine} & 1.3 & 1.2 & 1.3 & 1.3 & 1.2 & 1 & 1 & 1 & 1 \\
+%		\midrule
+%		\textbf{Internet} & 4.3 & 6.1 & 7.4 & 8.0 & 16 & 20 & 20 & 24 & 25
+%		\bottomrule
+%	\end{tabular}
+%\end{table}
 
 
 
@@ -362,17 +370,17 @@ Es de destacarse la particularidad del momento en que estos tres trabajos se pro
 
 Esta limitada producción sobre el colectivo periodístico parece estar fundada, entre otros motivos, en el carácter refractario a su indagación que evidencian los periodistas, tal como lo revelan Martini y Luchessi (2004: 13 y 14) en sus registros de campo. Estas autoras explicitan que su trabajo de investigación tuvo por objeto el estudio de las relaciones y prácticas productivas del periodismo desde ``la voz de los periodistas'' a través de una perspectiva etnográfica.
 
-El conflicto que reseña la presente investigación incidió en la promoción de una serie de trabajos académicos contemporáneos, evidentemente conmovidos por la violencia, fortaleza, y lo prolongado del conflicto entre periodistas. \alert{{En 2012, Baldoni}} percibe la disputa entre el \enquote{periodismo independiente} y el \enquote{periodismo militante} y se propone trazar los principales rasgos del conflicto, observando que son las premisas deontológicas las bases argumentativas para la defensa de uno u otro de los tipos de periodismo. De esta manera, los conceptos de \emph{periodismo militante} versus \emph{periodismo independiente} reciben en este trabajo, su bautismo académico.
+El conflicto que reseña la presente investigación incidió en la promoción de una serie de trabajos académicos contemporáneos, evidentemente conmovidos por la violencia, fortaleza, y lo prolongado del conflicto entre periodistas. {En 2012, Baldoni} percibe la disputa entre el \enquote{periodismo independiente} y el \enquote{periodismo militante} y se propone trazar los principales rasgos del conflicto, observando que son las premisas deontológicas las bases argumentativas para la defensa de uno u otro de los tipos de periodismo. De esta manera, los conceptos de \emph{periodismo militante} versus \emph{periodismo independiente} reciben en este trabajo, su bautismo académico.
 
-Unos meses más tarde\hl{, Arrueta (2012)} aborda también este conflicto, poniéndole nombre a las formas de periodismo enfrentadas --\emph{periodismo corporativo} y \emph{periodismo militante}- y rastrea su historia conceptual en el país. Más adelante, continúa con esta búsqueda y aborda los aspectos identitarios del campo periodístico en el proceso de relación con las empresas de medios.
+%Unos meses más tarde\hl{, Arrueta (2012)} aborda también este conflicto, poniéndole nombre a las formas de periodismo enfrentadas --\emph{periodismo corporativo} y \emph{periodismo militante}- y rastrea su historia conceptual en el país. Más adelante, continúa con esta búsqueda y aborda los aspectos identitarios del campo periodístico en el proceso de relación con las empresas de medios.
 
-\hl{En 2013, Stefoni} publica un trabajo que pretende vincular el conflicto entre periodistas alrededor de los conceptos de \emph{militantes} y \emph{profesionales}, a partir de los principios deontológicos. A pesar del esfuerzo, el trabajo revela que los periodistas independientes son críticos del concepto de \emph{militante}, pero que los que se oponen a la idea de independencia, en tanto que consideran que todo periodismo es político, también son reacios a catalogar su lugar como el de \emph{periodistas militantes}.
+%\hl{En 2013, Stefoni} publica un trabajo que pretende vincular el conflicto entre periodistas alrededor de los conceptos de \emph{militantes} y \emph{profesionales}, a partir de los principios deontológicos. A pesar del esfuerzo, el trabajo revela que los periodistas independientes son críticos del concepto de \emph{militante}, pero que los que se oponen a la idea de independencia, en tanto que consideran que todo periodismo es político, también son reacios a catalogar su lugar como el de \emph{periodistas militantes}.
 
 \begin{quote}
-Si bien la referencia a un periodismo independiente se presenta como una idea polémica, la voluntad del periodista es un valor que puede ser sostenido en ambas gramáticas. La incomodidad con el término militante que muestran quienes asumen un compromiso político da elementos para pensar en este sentido. A la inversa, quienes rechazan el compromiso político asumen que el periodismo tiene una función social trascendente para el orden democrático, esto es, contraponerse a los gobiernos y ejercer la crítica, para lo que es necesario también ganar en autonomía \parencite{Stefoni, 2013:415).}
+%Si bien la referencia a un periodismo independiente se presenta como una idea polémica, la voluntad del periodista es un valor que puede ser sostenido en ambas gramáticas. La incomodidad con el término militante que muestran quienes asumen un compromiso político da elementos para pensar en este sentido. A la inversa, quienes rechazan el compromiso político asumen que el periodismo tiene una función social trascendente para el orden democrático, esto es, contraponerse a los gobiernos y ejercer la crítica, para lo que es necesario también ganar en autonomía \parencite{Stefoni, 2013:415).}
 \end{quote}
 
-Por último, \hl{Ure y Schwarz (2014)} proponen un estudio cualitativo de \enquote{las identidades del periodismo argentino y conceptualizan la existencia de dos \enquote{modelos identitarios}}. Por un lado, el del periodismo militante y por el otro, de un periodismo profesional, aunque \enquote{débil}, para marcar las diferencias con el periodismo de países que consideran institucionalmente más afianzados.
+%Por último, \hl{Ure y Schwarz (2014)} proponen un estudio cualitativo de \enquote{las identidades del periodismo argentino y conceptualizan la existencia de dos \enquote{modelos identitarios}}. Por un lado, el del periodismo militante y por el otro, de un periodismo profesional, aunque \enquote{débil}, para marcar las diferencias con el periodismo de países que consideran institucionalmente más afianzados.
 
 Los últimos trabajos señalados muestran el interés por descubrir, en el conflicto, la constitución de identidades profesionales, que no parecen consolidarse de manera externa al campo periodístico.
 
@@ -431,7 +439,7 @@ Un campo -podría tratarse del campo científico- se define, entre otras cosas, 
 La primera cuestión que abordaremos es: ¿qué está en juego? O bien: ¿qué intereses específicos están en juego?
 
 Así como Max Weber caracteriza a la Iglesia como aquella institución que detenta el monopolio de la manipulación de los bienes de salvación, podemos afirmar que el campo periodístico detenta el monopolio de la producción de actualidad. En tal sentido, sostenemos, de manera hipotética, que el campo periodístico disputa por el capital de la credibilidad, sostenida sobre tres ejes: independencia, libertad de expresión y establecimiento de lo que debe ser considerado significativo (la agenda de actualidad).
-\textbf{\hl{La credibilidad}
+%\hl{La credibilidad}
 
 
 \textbf{Independencia Libertad de expresión Agenda de actualidad}
@@ -458,7 +466,7 @@ Más allá de cierta idealización que el autor desarrolla sobre el período, es
 
   https://www.perfil.com/noticias/medios/fontevecchia-quienes-critican-a-los-medios-estan-criticando-al-sitema-democratico.phtml}
 
-Definiremos la \emph{credibilidad} para la prensa, como la capacidad de lograr que lo que se informa en un mensaje periodístico llegue a ser significativo, es decir, la tarea de los medios de información no solo es convertir un hecho en verdadero, sino de crear un mundo verosímil en donde lo que no se ha publicado/informado es no significativo. Un mundo verosímil es aquel donde sea significativo lo que se publique.}
+Definiremos la \emph{credibilidad} para la prensa, como la capacidad de lograr que lo que se informa en un mensaje periodístico llegue a ser significativo, es decir, la tarea de los medios de información no solo es convertir un hecho en verdadero, sino de crear un mundo verosímil en donde lo que no se ha publicado/informado es no significativo. Un mundo verosímil es aquel donde sea significativo lo que se publique.
 
 Cuando un medio o un periodista alcanzan altos niveles de credibilidad logran que lo verosímil se convierta en verdadero. Es decir, accedieron a la condición de creadores de realidad, creadores de actualidad.
 
@@ -630,37 +638,7 @@ Es pertinente destacar que el inicio y el fin de las etapas o fases del desarrol
 
 \textbf{Gráfico 1:} Representación gráfica de los momentos de la prensa según la taxonomía de Jürgen Habermas (1994).
 
-\begin{longtable}[]{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 12\tabcolsep) * \real{0.1741}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 12\tabcolsep) * \real{0.1327}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 12\tabcolsep) * \real{0.1381}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 12\tabcolsep) * \real{0.1556}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 12\tabcolsep) * \real{0.1381}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 12\tabcolsep) * \real{0.1309}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 12\tabcolsep) * \real{0.1306}}@{}}
-\toprule\noalign{}
-\begin{minipage}[b]{\linewidth}\raggedright
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-Siglo XVI
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-Siglo XVII
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-Siglo XVIII
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-Siglo XIX
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-Siglo XX
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-Siglo XXI
-\end{minipage} \\
-\midrule\noalign{}
-\endhead
-\bottomrule\noalign{}
-\endlastfoot
-Crematística & & & & & & \\
-De opinión & & & & & & \\
-Comercial & & & & & & \\
-\end{longtable}
+%
 
 Durante el primer período, los protoperiodistas dependían de los imprenteros y casas editoriales. Con el Estatuto de la~Reina Ana de Inglaterra, promulgado el 10 de abril de 1710, comienzan los escritores a autonomizarse. Sin embargo, ello no aplicaba para los ``periodistas'' dado que, para entonces, los periódicos ya habían pasado de ser ``lugares de publicación de noticias frescas, a portadores y guías de la opinión pública, medios de lucha de la política partidista'' (Bücher, 1917, citado en Habermas, 1994: 210). Habermas (1994: 210) observa que esta transformación produjo modificaciones en la organización interna de la empresa periodística:
 
@@ -678,9 +656,9 @@ En la fase en la que la publicidad se impone como publicidad políticamente acti
 
 Habermas describe el proceso de sustitución de los salones de tertulias por el debate en la prensa política o prensa de escritores. Estos escritores, o mejor aún escribas del empresario políticamente activo, se correspondían en general a sectores plebeyos letrados de la incipiente ciudad moderna, que hallaban en las redacciones periodísticas un mecanismo de ascenso social, recursos económicos y, en muchos casos, acceso a una imprenta donde acercar sus trabajos literarios. A nuestro entender este proceso demandó un tiempo prolongado, entre principio del siglo XVIII y finales del XIX dando lugar, por un lado, al desarrollo de la autoconciencia de la autonomía periodística y su lugar estructural en el sistema republicano y, por otro, su contraparte: el desarrollo de audiencias masivas crédulas en la veracidad de las informaciones provistas por los medios.\footnote{Este fenómeno habilitó otro problema fundamental, -según Habermas- a lo largo del siglo XX, capaz de poner en crisis la composición misma de la esfera pública como espacio de convergencia y construcción de opinión pública resultante de un largo proceso de consenso. La aparición de una \emph{publicity} sistemática reconfigura la noción misma de destinatario de la comunicación periodística. Si el reclamo publicitario se dirigía ``a las personas privadas en tanto susceptibles de convertirse en consumidores, las \emph{public relations} se dirigen a la ``opinión pública'', a las personas privadas como público y no como ``consumidores''. La \emph{publicity} (relaciones públicas) se transforma en una actividad tan permanente y sistemática que la esfera pública entra en riesgo de dejar de ser un espacio de construcción de consensos (publicidad burguesa) para convertirse en un espacio de lucha de intereses, causando, en los términos metafóricos propuestos por Habermas, una suerte de ``refeudalización de la esfera pública''. (Habermas, 1994: 209 y ss.).}
 
-\section{3. Descripción del campo periodístico en la Argentina, 2009 - 2015}
+\section{Descripción del campo periodístico en la Argentina, 2009 - 2015}
 
-\subsection{3. 1. Los periodistas y el fenómeno editorial}
+\subsection{Los periodistas y el fenómeno editorial}
 
 El motivo por el que un libro es editado supone una serie de consideraciones diversas, entre las que se incluyen decisiones económicas, de venta y rentabilidad de la acción editorial, aunque no solamente, ya que en muchos casos existen intereses extraeconómicos: culturales, de catálogo, de prestigio personal e incluso transeconómicos. El rédito económico puede no estar en la venta de ejemplares, es decir que la edición de un título y su presentación pueden tener objetivos que no se agotan en la venta del producto, sino que el mismo es un medio para otras realizaciones. Además, el motivo puede conjugar dos o más de estas variables. Si bien no nos detendremos en esta cuestión es importante desmitificar la acción editorial y de escritura de un libro que, como todo bien cultural, está rodeado de un halo simbólico de alta densidad.
 
@@ -694,7 +672,7 @@ La saga se inicia con un libro extremadamente provocativo: \emph{Diario de Guerr
 
 Con excepción de \emph{678. La creación de otra realidad}, editado por \href{http://www.lecturalia.com/editoriales/79/paidos}{Paidós}/Planeta durante 2010 y apoyado en un éxito televisivo, serán las editoriales independientes las que tomarán a su cargo los primeros textos en el inicio del conflicto. Entre las editoriales independientes agrupamos, además de las nacionales, algunas pequeñas nacidas para la ocasión. Las editoriales más importantes, en general, se alinearon con los periodistas de los medios o multimedios de mayores audiencias.
 
-\subsection{3.2. El contexto político del conflicto en la mirada de la prensa}
+\subsection{El contexto político del conflicto en la mirada de la prensa}
 
 Durante el período establecido para la investigación, el campo periodístico mayoritario se percibió agredido por el gobierno. Probablemente la frase: ``¿Qué te pasa Clarín? ¿Estás nervioso?'',~que expresó Néstor Kirchner unos días antes de las elecciones legislativas del año 2009, reveló la intención del gobierno de confrontar con el grupo de medios más importante del país. Si bien el enfrentamiento contra este medio ya existía desde el año anterior, cuando ambos rompieron relaciones luego de que el gobierno de Cristina Kirchner presentara~la resolución 125 --que pretendía aumentar los impuestos a la actividad agropecuaria-- este conflicto no había sido verbalizado tan crudamente.
 
@@ -784,68 +762,10 @@ A modo de ejemplo, a los efectos de representar esquemáticamente estas nociones
 
 \textbf{Cuadro 5 Condiciones mínimas que reúnen los integrantes del campo de acuerdo a sus posiciones en el polígono de fuerzas}
 
-\begin{longtable}[]{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 16\tabcolsep) * \real{0.1344}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 16\tabcolsep) * \real{0.1194}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 16\tabcolsep) * \real{0.1046}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 16\tabcolsep) * \real{0.1043}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 16\tabcolsep) * \real{0.1194}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 16\tabcolsep) * \real{0.1046}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 16\tabcolsep) * \real{0.0896}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 16\tabcolsep) * \real{0.1194}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 16\tabcolsep) * \real{0.1043}}@{}}
-\toprule\noalign{}
-\begin{minipage}[b]{\linewidth}\raggedright
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{Medios masivos y dominan-tes}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{Medios alterna-}
-
-\textbf{tivos}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{Firman sus notas}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{Altos ingresos económi-}
-
-\textbf{cos}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{Grandes audien-}
-
-\textbf{cias}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{Autor de libros}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{Presencia}
-
-\textbf{en medios audiovi-}
-
-\textbf{suales}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{Objeto}
-
-\textbf{de}
-
-\textbf{Biogra-}
-
-\textbf{fías}
-\end{minipage} \\
-\midrule\noalign{}
-\endhead
-\bottomrule\noalign{}
-\endlastfoot
-\textbf{Hegemónicos Dominantes} & \textbf{Sí} & \textbf{No} & \textbf{Sí} & \textbf{Sí} & \textbf{Sí} & \textbf{Sí} & \textbf{Sí} & \textbf{Sí} \\
-\textbf{Hegemónicos}
-
-\textbf{alternativos} & \textbf{No} & \textbf{Sí} & \textbf{Sí} & \textbf{Sí/No} & \textbf{Sí/No} & \textbf{Sí} & \textbf{Sí/No} & \textbf{Sí} \\
-\textbf{Periféricos dominantes} & \textbf{Sí} & \textbf{No} & \textbf{No} & \textbf{No} & \textbf{Sí} & \textbf{No} & \textbf{No} & \textbf{No} \\
-\textbf{Periféricos}
-
-\textbf{alternativos} & \textbf{No} & \textbf{Sí} & \textbf{No} & \textbf{No} & \textbf{Sí/No} & \textbf{No} & \textbf{No} & \textbf{No} \\
-\end{longtable}
 
 Cuando iniciamos el análisis del \emph{corpus} bibliográfico, presuponíamos que existía cierta coherencia y unanimidad de criterios sobre los valores y principio de legitimidad del campo periodístico, sin importar si eran hegemónicos o periféricos y si trabajaban en un medio dominante o alternativo. Sin embargo, el análisis del \emph{corpus} nos permitió discernir tres categorías de periodistas de acuerdo a los valores y principios que rigen su pertenencia al campo, y dos subcategorías que, sin ser propiamente de periodistas, usufructúan su condición y actúan como tales en situaciones determinadas. A los fines de identificarlas proponemos la siguiente denominación, que intenta sintetizar sus principales características:
 
-\ul{Categorías de periodistas:}
+%\ul{Categorías de periodistas:}
 
 \begin{itemize}
 \item
@@ -856,7 +776,7 @@ Cuando iniciamos el análisis del \emph{corpus} bibliográfico, presuponíamos q
   Predicadores
 \end{itemize}
 
-\ul{Pseudoperiodistas}
+%\ul{Pseudoperiodistas}
 
 \begin{itemize}
 \item
@@ -908,9 +828,9 @@ Definiremos, al último grupo como los \emph{predicadores}, aquellos periodistas
 Estos periodistas pueden desempeñarse o no en empresas periodísticas centrales del campo, pero no suelen estar subordinados a las empresas en las que trabajan, ya que su presencia prestigia a las mismas y no a la inversa. Este grupo es coincidente, aunque no en todos sus términos, con lo que Baldoni denomina periodistas \emph{militantes}. A modo de ejemplo, ubicamos en esta categoría a Horacio Verbitsky, Roberto Caballero y Eduardo Aliverti.
 
 
-\subsubsection{3. 3. 3. Pseudoperiodistas}
+\subsubsection{Pseudoperiodistas}
 
-\alert{\textbf{Los emigrados}}
+\textbf{Los emigrados}
 
 Los emigrados no son estrictamente periodistas ya que, por diversos motivos, se autoexcluyeron del campo periodístico. La perspectiva que poseen del periodismo, quienes integran esta categoría, es profundamente escéptica, descreen de los principios que el campo sustenta o defiende. En general, tienen un recorrido prolongado dentro del campo en medios masivos dominantes, no han llegado a lugares centrales ni han tenido las firmas más cotizadas, pero poseen el reconocimiento de audiencias significativas. Ejemplos claros de esta tipología son Claudio Díaz, Orlando Barone y Jorge Asís. Este último se retiró del campo dando un portazo con su libro ``El diario de la Argentina'', aunque luego volvió en calidad de \emph{outsider}. Los emigrados tienden a transmitir a sus lectores/audiencias, el descubrimiento o la transformación sufrida al ``ver la realidad'' de la falacia periodística, como si hubieran tenido una revelación mística y sintieran la necesidad de transmitirla al resto de sus congéneres.
 
@@ -920,48 +840,16 @@ Como ya se señaló, esta es una categoría que introduce Bourdieu, a la que le 
 
 Si bien esta categoría de \emph{periodista intelectual}, como el resto de las categorías de la clasificación, es preexistentes al conflicto 2009-2015, este le dio una particular relevancia. Quienes la integran se ubicaron, mayoritariamente, en el polo antigubernamental. Entre los más significativos podemos mencionar a Marcos Novaro, Marcelo Birmajer, Santiago Kovadloff, como descalificadores del gobierno; y a Dante Palma, Horacio González y Cynthia Ottaviano, entre los progubernamentales (solo por mencionar algunos ejemplos de medios nacionales, ya que el fenómeno se reproducía, aunque con menor intensidad, en las provincias).
 
-\section{4. Análisis de Contenido del \emph{Corpus} Bibliográfico}
+\section{Análisis de Contenido del \emph{Corpus} Bibliográfico}
 
-\subsection{4.1. Corpus de Análisis}
+\subsection{Corpus de Análisis}
 
 El análisis de la producción ensayística ordenado en el tiempo permitirá apreciar el encadenamiento del debate al interior del campo periodístico y, simultáneamente, la existencia de relaciones causales entre los actores del conflicto, en algunos casos motivados por sus casas periodísticas y, en otros, por el fragor de las batallas políticas.
 
 \textbf{Cuadro 4: Universo de los libros considerados}
 
-%
 
-\begin{longtable}[]{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.3651}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.2541}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.0793}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.3016}}@{}}
-\toprule\noalign{}
-\begin{minipage}[b]{\linewidth}\raggedright
-La inconclusa ley de medios: la historia menos contada
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-Continente
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-29
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-Néstor Piccone
-\end{minipage} \\
-\midrule\noalign{}
-\endhead
-\bottomrule\noalign{}
-\endlastfoot
-Grandes y pequeñas mentiras que nos contaron & Planeta & 30 & \href{http://www.planetadelibros.com.ar/marcos-novaro-autor-000058154.html}{Marcos Novaro} y \href{http://www.planetadelibros.com.ar/marcelo-birmajer-autor-000021721.html}{Marcelo Birmajer} \\
-Doble agente. La biografía inesperada de Horacio Verbitsky & Sudamericana
-
-\href{https://es.wikipedia.org/wiki/Penguin_Random_House_Grupo_Editorial}{PenguinRandom House} & 31 & \href{http://www.megustaleer.com.ar/autor/gabriel-levinas/0000030467}{Gabriel Levinas} \\
-Mentime que me gusta & Aguilar & 32 & Víctor Hugo \href{http://www.cuspide.com/resultados.aspx?c=MORALES+VICTOR+HUGO\&por=AutorEstricto\&aut=278005\&orden=fecha}{Morales} \\
-\href{http://www.cuspide.com/9789876842686/El+Rebenque+Del+Diablo/}{El rebenque del diablo} & Colihue & 33 & Víctor Hugo \href{http://www.cuspide.com/resultados.aspx?c=MORALES+VICTOR+HUGO\&por=AutorEstricto\&aut=278005\&orden=fecha}{Morales} \\
-\href{http://www.cuspide.com/9789876275637/Todos+Contra+Branca+Contra+Todos/}{Todos contra Branca contra todos} & Ediciones B & 34 & Diego Brancatelli \\
-Diez ironías sobre la libertad de expresión & Colectivo de Trabajadores De Prensa (CTP) & 35 & Autores Varios \\
-\href{http://www.cuspide.com/9789504947066/Clarin++La+Era+Magnetto/}{Clarín, la era Magnetto} & Planeta & 36 & \href{http://www.planetadelibros.com.ar/sivak-martin-ernesto-autor-000057233.html}{Martin Ernesto}Sivak \\
-Periodistas depordivos & Ediciones al arco & 37 & Walter Vargas \\
-\end{longtable}
-
-\subsection{4. 2. Periodización}
+\subsection{Periodización}
 
 Consideramos que es posible identificar, dentro del período considerado, dos momentos diferenciables.
 
@@ -974,12 +862,12 @@ Por el contrario a partir del año 2013 y hasta el 2015, es posible observar lo 
 
 \subsubsection{Etapa Preparatoria}
 
-\alert{\textbf{Año 2009}}
+\textbf{Año 2009}
 
 Como señalamos anteriormente, en 2009, Claudio Díaz, publica \emph{Diario de guerra}. \emph{Clarín, el gran engaño argentino}. Si bien la estructura argumentativa de todo el libro es que el periodismo (¿campo periodístico?) ha sido profundamente antiperonista y que constituyó una ``oligarquía de la comunicación (\ldots), dueños de la riqueza pero también de las palabras'' (pp. 15 y 17), Díaz no puede abstraerse de los valores del campo e intentará mostrar que los prejuicios políticos impidieron la libertad de expresión. Es decir, que la violación del principio de libertad de expresión no estaba en el poder político, sino en el poder empresario o de los grandes grupos económicos.
 
 \begin{quote}
-La libre circulación de ``lo que pasa`` resulta imposible y hasta inimaginable. La imposición del pensamiento único por los países ricos a través de sus altavoces mediáticos determina la concepción de un único mundo posible, con un único sistema económico viable y con un unificado concepto de modernidad, desarrollo y progreso. En definitiva, la información, en contra de una genuina libertad de expresión, genera dogmas que se resumen en el simple \emph{`lo que no está en los medios, tal y como los medios lo publican y lo interpretan, no está en el mundoʹ} (Díaz, 2009: 30).
+%La libre circulación de "lo que pasa" resulta imposible y hasta inimaginable. La imposición del pensamiento único por los países ricos a través de sus altavoces mediáticos determina la concepción de un único mundo posible, con un único sistema económico viable y con un unificado concepto de modernidad, desarrollo y progreso. En definitiva, la información, en contra de una genuina libertad de expresión, genera dogmas que se resumen en el simple \emph{`lo que no está en los medios, tal y como los medios lo publican y lo interpretan, no está en el mundoʹ} (Díaz, 2009: 30).
 \end{quote}
 
 Más adelante ejemplifica nuevamente:
@@ -1262,7 +1150,7 @@ Los autores realizan una petición de principios: ``Clarín se ha caracterizado 
 Clarín negocia con Menem la destitución de Liliana López Foresi del noticiero de Canal 13, a cambio del despido de Patricio Kelly de Canal 7 (\ldots). También durante las elecciones presidenciales entrevisté a los tres candidatos mejor posicionados. Cavallo me recibió en su bunker de la calle Tagle. Duhalde acudió en persona al diario y aprovechó para saludar a quien se le cruzara, asumiendo su rol en la campaña. A De la Rúa se le permitió responder por escrito. Esa diferencia de trato me dio la certeza: el líder de la Alianza {[}De la Rúa{]} era el candidato elegido por el Holding (\ldots). Dicen que las casualidades no existen en política. Tal es así que el mismo 4 de noviembre, día que Clarín procedía al despido de 117 compañeros, se reunía con Magnetto, con el entonces presidente De la Rúa, para ratificar el Decreto que desregulaba la venta de diarios y revistas. Decreto por el cual, el diario, se hacía con la herramienta necesaria para concretar la asfixia económica de los canillitas (\ldots). Luego de lo cual, Magnetto, le habría solicitado a Pirillo, que dejara de publicar notas sobre los casos de apropiación y tráfico de bebés, alegando que ese era un tema que dañaba en especial, a la ``señora''. Él es dueño de La Razón, dice haberle confesado esta conversación a dos expresidentes, producto de lo cual, habría resultado en su particular perjuicio (Márquez y Ces, 2011: 29, 104, 106, 107).
 \end{quote}
 
-\subsubsection{4. 2. 2. Periodismo de Guerra}
+\subsubsection{Periodismo de Guerra}
 
 \textbf{Año 2012}
 
@@ -1272,11 +1160,11 @@ Una de las medidas más importantes que toma el \emph{Grupo Clarín}, en términ
 
 El 15 de abril del año 2012 comienza el programa y en noviembre del mismo año sale el libro de Majul, precedido por una gran campaña publicitaria, casi en simultáneo con el lanzamiento del proyecto televisivo, a tal punto que casi ningún argentino desconoce algunas de las ``anécdotas'' que cuenta Majul sobre Lanata, como su intento de suicidio o su consumo de cocaína.
 
-\hl{En síntesis, durante el año 2012, encontramos un único producto editorial dentro de nuestro universo de análisis: \emph{Lanata. Secretos, virtudes y pecados del periodista más amado y más odiado de la Argentina,} de Luis Majul. Según pudo estimarse, el libro vendió aproximadamente 100.000 ejemplares, con una primera edición de 40.000 ejemplares y seis más de 10.000 cada una.}\footnote{La información fue extraída de diversas fuentes: Entrevista a un editor de Planeta.
+%\hl{En síntesis, durante el año 2012, encontramos un único producto editorial dentro de nuestro universo de análisis: \emph{Lanata. Secretos, virtudes y pecados del periodista más amado y más odiado de la Argentina,} de Luis Majul. Según pudo estimarse, el libro vendió aproximadamente 100.000 ejemplares, con una primera edición de 40.000 ejemplares y seis más de 10.000 cada una.}\footnote{La información fue extraída de diversas fuentes: Entrevista a un editor de Planeta.
 
   Revista \emph{Gatopardo}, noviembre 13 de 2013 https://gatopardo.com/reportajes/siempre-periodista/}
 
-\hl{Llamativamente, por tratarse del libro biográfico de un periodista, hay pocas referencias a su trabajo periodístico, a su ``lucha por la libertad de expresión'', la independencia etc. La única referencia es al conflicto suscitado entre Julio Nudler y \emph{Página/12}, al que hicimos referencia cuando analizamos el libro de Zunino. El texto no aporta nueva información, pero es el ejemplo que toma Majul para construir la imagen de un periodista cabal e insobornable.}
+%\hl{Llamativamente, por tratarse del libro biográfico de un periodista, hay pocas referencias a su trabajo periodístico, a su ``lucha por la libertad de expresión'', la independencia etc. La única referencia es al conflicto suscitado entre Julio Nudler y \emph{Página/12}, al que hicimos referencia cuando analizamos el libro de Zunino. El texto no aporta nueva información, pero es el ejemplo que toma Majul para construir la imagen de un periodista cabal e insobornable.}
 
 Dos ejes recorren con claridad el texto. El primero presenta algunos aspectos espectaculares de la vida de Jorge Lanata, sus intentos de suicidio, sus adicciones y su particular modo de vida en relación a sus parejas, hija y familia en general. El segundo eje recorre elementos de interés para una psicología del periodista, su vanidad y egocentrismo, excentricidades, despilfarro, etc. Casi no hay recuerdo de su paso por \emph{Página/12}, ni de su eventual relación con ex integrantes del Ejército Revolucionario del Pueblo (ERP). El libro fue un producto eminentemente publicitario a fin de re posicionar al personaje e introducirlo de manera no conflictiva en el ``mundo Clarín''.
 
@@ -1571,7 +1459,7 @@ Hay más, la Relatoría para la Libertad de Expresión dice que ``la publicidad 
 Hacia el final del libro, el autor concluye desencantando al lector con lo que podrían ser los aspectos más despreciables del campo. El anteúltimo capítulo, \emph{Ética cínica, deontología, populismo mediático}, revela una postura similar al primer libro de nuestra saga, el de Claudio Díaz. Si Díaz consideraba al periodismo de los grandes medios como expresión de antiperonismo, Blaustein lo descubre como expresión de la antipolítica.
 
 \begin{quote}
-En Argentina, por supuesto, la antipolítica viene de lejos y con buenas razones, tiene su propio marco reciente: kirchnerismo. El salto a más o más densa antipolítica puede analizarse según las dosis e intensidades de cinismo de los discursos mediáticos. Escribió nuestro amigo del seudónimo, don Enrique Orozco, en la revista \emph{Crisis}: ``La ideología periodística no se agota en lo que sale hacia fuera. Hacia adentro, los medios sistémicos son incubadoras de cinismo, escepticismo y sumisión. El cinismo es el elemento no dicho del catecismo de la libertad de expresión. Desconfiar siempre de las buenas intenciones de los que proponen algún tipo de transformación. Descreer siempre (...)``Nunca nada cambia para mejor''. Escribió también Orozco (y me gusta citarlo porque es un sub 40): ``El periodismo ortodoxo entiende la política únicamente en dos de sus facetas, la del robo, evidente y a gran escala, y la de la rosca. Allí donde la política habla de militancia y ofrenda, épica y amor (haciendo uso de su propia dosis de cinismo), el periodismo repone las nociones de punteros, activistas, mafias y piqueteros''. El periodismo, que perdió su épica, se aplana así en una mirada despolitizada de la política (...) Contribuye a eso la ausencia de roce social ---tan constitutiva como la de cualquier elite--- de la casta que conduce los medios (Blaustein, 2013: 386-387).
+En Argentina, por supuesto, la antipolítica viene de lejos y con buenas razones, tiene su propio marco reciente: kirchnerismo. El salto a más o más densa antipolítica puede analizarse según las dosis e intensidades de cinismo de los discursos mediáticos. Escribió nuestro amigo del seudónimo, don Enrique Orozco, en la revista \emph{Crisis}: ``La ideología periodística no se agota en lo que sale hacia fuera. Hacia adentro, los medios sistémicos son incubadoras de cinismo, escepticismo y sumisión. El cinismo es el elemento no dicho del catecismo de la libertad de expresión. Desconfiar siempre de las buenas intenciones de los que proponen algún tipo de transformación. Descreer siempre \ldots``Nunca nada cambia para mejor''. Escribió también Orozco (y me gusta citarlo porque es un sub 40): ``El periodismo ortodoxo entiende la política únicamente en dos de sus facetas, la del robo, evidente y a gran escala, y la de la rosca. Allí donde la política habla de militancia y ofrenda, épica y amor (haciendo uso de su propia dosis de cinismo), el periodismo repone las nociones de punteros, activistas, mafias y piqueteros''. El periodismo, que perdió su épica, se aplana así en una mirada despolitizada de la política \ldots Contribuye a eso la ausencia de roce social ---tan constitutiva como la de cualquier elite--- de la casta que conduce los medios (Blaustein, 2013: 386-387).
 
 \textbf{Año 2014}
 \end{quote}
@@ -1597,7 +1485,7 @@ A las 23.07 del martes 13 de marzo de 2012, la emisión en vivo del programa de 
 Luego, Zunino cita un artículo de Verbitsky, sobre un comentario de Alfredo Leuco, en relación a iniciar un juicio contra el canciller Héctor Timerman.
 
 \begin{quote}
----Es insólito que a un periodista le moleste que el canciller haya divulgado su punto de vista sobre asuntos de gobierno. Lo habitual es que los funcionarios cultiven el secreto y los periodistas les exijan el acceso a la información. La segunda sorpresa fue que Timerman contara un encuentro anterior en el que Leuco, según dijo acompañado por el gerente comercial, le pidió publicidad para hablar bien de Kirchner. Otros periodistas han escrito en forma crítica sobre las condiciones del ejercicio de su profesión en estos tiempos, \textbf{pero ninguno fue tan extremo como Leuco en su curiosa descalificación de este período como el más restrictivo para la libertad de expresión en democracia.} Esta enormidad, que lo llevó incluso a polemizar con el director del diario donde escribe, Jorge Fontevecchia, es incomprensible en un periodista (...) (Zunino, 2013: 53).\footnote{El énfasis es propio.}
+---Es insólito que a un periodista le moleste que el canciller haya divulgado su punto de vista sobre asuntos de gobierno. Lo habitual es que los funcionarios cultiven el secreto y los periodistas les exijan el acceso a la información. La segunda sorpresa fue que Timerman contara un encuentro anterior en el que Leuco, según dijo acompañado por el gerente comercial, le pidió publicidad para hablar bien de Kirchner. Otros periodistas han escrito en forma crítica sobre las condiciones del ejercicio de su profesión en estos tiempos, \textbf{pero ninguno fue tan extremo como Leuco en su curiosa descalificación de este período como el más restrictivo para la libertad de expresión en democracia.} Esta enormidad, que lo llevó incluso a polemizar con el director del diario donde escribe, Jorge Fontevecchia, es incomprensible en un periodista \ldots (Zunino, 2013: 53).\footnote{El énfasis es propio.}
 \end{quote}
 
 Zunino (2013: 53) va revelando paso a paso, el proceso que devino en guerra de periodistas. Cita a Leuco:
@@ -2571,5 +2459,5 @@ Zukernik Eduardo (2006) , Hechos y noticias. Claroscuros de la prensa gráfica e
 Zunino, E. (2011) Patria o medios. Buenos Aires: Sudamericana.
 
 Zunino, E. (2014). Periodistas en el barro. Peleas, aprietes, traiciones y negocios. Miserias y razones de la guerra mediática en la Argentina reciente Buenos Aires: Sudamericana.
-
+\printbibliography
 \end{document}
