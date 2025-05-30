@@ -1,5 +1,11 @@
 \documentclass{book}
 
+%glosarios
+\input{/home/candela/Descargas/originales/originales/files/gbTeXglo-20250411MAUROO.tex}
+
+%separata
+\input{/home/candela/Descargas/originales/originales/files/gbTeXseparata-20250411MAUROO.tex}
+
 \usepackage[backend=biber]{biblatex}
 \usepackage[margin=3cm]{geometry}
 \usepackage[spanish]{babel}
@@ -10,10 +16,16 @@
 \usepackage{epigraph}
 \usepackage{siunitx}
 \usepackage{enumitem}
+\usepackage{easyReview}
+\usepackage{hyperxmp}
+\usepackage[hyphenation,homeoarchy,homeoarchywordcolor=orange,homeoarchycharcolor=orange,draft]{impnattypo}
+
+
 %referencias
 \addbibresource{/home/candela/Descargas/originales/originales/files/gbTeXbib-20250411MAUROO.bib}
 %metadatos
 \input{/home/candela/Descargas/originales/originales/files/gbTeXmeta-20250411MAUROO.tex}
+
 
 \begin{document}
 
@@ -192,7 +204,7 @@ La incorporación de la publicidad permitió hacer del periódico un medio de co
 
 Wolfgang Donsbach (2014) señala que una de las dificultades que enfrenta la profesión periodística es \enquote{el menguante público destinatario de las noticias}. El autor sostiene que en los países desarrollados la tendencia en la merma afecta principalmente a los periódicos y a los lectores más jóvenes, llegando la reducción al 50\% en los últimos diez años. La reducción en las ventas de periódicos ha venido repercutiendo progresivamente en la reducción de ingresos por publicidad.
 
-El análisis de la inversión publicitaria --su evolución y distribución en los medios de comunicación-- permite evaluar, indirectamente, la percepción que los anunciantes y agencias de publicidad tienen de cada uno de los medios, en relación con la efectividad, penetración, recordación e impacto de sus intervenciones publicitarias. Durante el año 2017, la inversión publicitaria superó en la Argentina los 5.000 millones de dólares, que representaba aproximadamente el uno por ciento del producto bruto interno (PBI).
+El análisis de la inversión publicitaria \rdm{su evolución y distribución en los medios de comunicación} permite evaluar, indirectamente, la percepción que los anunciantes y agencias de publicidad tienen de cada uno de los medios, en relación con la efectividad, penetración, recordación e impacto de sus intervenciones publicitarias. Durante el año 2017, la inversión publicitaria superó en la Argentina los 5.000 millones de dólares, que representaba aproximadamente el uno por ciento del producto bruto interno (PBI).
 
 Los datos del \textbf{Cuadro 1} muestran con claridad el cambio de destino de la inversión publicitaria en los últimos años en Argentina. Hasta el año 2012, se puede apreciar la paridad en la inversión publicitaria entre los medios gráficos y la TV. En el año 2010, la sumatoria de medios gráficos y televisión concentraban el 86\% de la inversión total.\footnote{A los fines de nuestro análisis conviene considerar los siguientes datos. El conglomerado Área Metropolitana de Buenos Aires (AMBA), incluye la Ciudad de Buenos Aires y los cordones del conurbano bonaerense. Los medios del AMBA suelen tener alcance nacional. Los canales de aire de la región metropolitana tienen una cobertura superior al 80\% de la población nacional, y otro tanto ocurre con los diarios y revistas producidas en el AMBA que, en general, también tienen el mismo alcance.} Esta particular distribución destacaba a la Argentina a nivel regional, a diferencia de lo que ocurre en el resto de los países del Cono Sur donde la preponderancia de la televisión era --y es-- abrumadora, representando, solo este medio, dos tercios de la inversión publicitaria total.
 
@@ -359,7 +371,7 @@ Amado (2016) cita como antecedentes tres trabajos consecutivos que se propusiero
 
 Rosendo M. Fraga (1997) articula la opinión que los periodistas tienen de su profesión, con el de la opinión pública y la de líderes de opinión, sobre su actividad. El trabajo, basado en encuestas a periodistas, ciudadanos adultos en general, y altos funcionarios gubernamentales, jueces, diputados y senadores, indagó la opinión sobre la política, la justicia y la prensa entre los tres grupos en los que se segmentó la investigación., dando por resultado, en ese momento, una alta imagen de la prensa por sobre los demás factores de poder. Podemos afirmar que Fraga parte desde un marco teórico de \emph{agenda setting}; identifica tres grandes agendas: la política, la de los medios y la de la opinión pública y estudia la relación entre ellas, desde la perspectiva de los actores.
 
-Por su parte, Beliz y Zuleta Puceiro (1998) analizan la cultura profesional del periodismo argentino, a través de una encuesta a periodistas, centrando la atención en la percepción que los periodistas tienen sobre la libertad para expresarse, pero avanzando sobre algunas consideraciones de la cultura del campo. Es de destacar que, entre las principales amenazas a la libertad de expresión, la categoría que concentró la mayor cantidad de respuestas fue ``el proceso de concentración de medios de comunicación'', seguido de la ``dependencia respecto a la publicidad de empresas privadas''. Ambas respuestas fueron señaladas por más del 80 \% de los encuestados.
+Por su parte, Beliz y Zuleta Puceiro (1998) analizan la cultura profesional del periodismo argentino, a través de una encuesta a periodistas, centrando la atención en la percepción que los periodistas tienen sobre la libertad para expresarse, pero avanzando sobre algunas consideraciones de la cultura del campo. Es de destacar que, entre las principales amenazas a la libertad de expresión, la categoría que concentró la mayor cantidad de respuestas fue ``el proceso de concentración de medios de comunicación'', seguido de la ``dependencia respecto a la publicidad de empresas privadas''. Ambas respuestas fueron señaladas por más del 80\% de los encuestados.
 
 Por último, en 1999, Majul lleva adelante una encuesta a periodistas junto a entrevistas en profundidad realizadas a algunos de los más reconocidos, intentando validar con datos cualitativos los resultados cuantitativos. El trabajo, de características heterogéneas, no llega a lograr el objetivo de validación, aunque significa un aporte sobre ciertos aspectos de la cultura e identidad del campo periodístico.
 
@@ -369,19 +381,19 @@ Esta limitada producción sobre el colectivo periodístico parece estar fundada,
 
 El conflicto que reseña la presente investigación incidió en la promoción de una serie de trabajos académicos contemporáneos, evidentemente conmovidos por la violencia, fortaleza, y lo prolongado del conflicto entre periodistas. {En 2012, Baldoni} percibe la disputa entre el \enquote{periodismo independiente} y el \enquote{periodismo militante} y se propone trazar los principales rasgos del conflicto, observando que son las premisas deontológicas las bases argumentativas para la defensa de uno u otro de los tipos de periodismo. De esta manera, los conceptos de \emph{periodismo militante} versus \emph{periodismo independiente} reciben en este trabajo, su bautismo académico.
 
-%Unos meses más tarde\hl{, Arrueta (2012)} aborda también este conflicto, poniéndole nombre a las formas de periodismo enfrentadas --\emph{periodismo corporativo} y \emph{periodismo militante}- y rastrea su historia conceptual en el país. Más adelante, continúa con esta búsqueda y aborda los aspectos identitarios del campo periodístico en el proceso de relación con las empresas de medios.
+%Unos meses más tarde,\hl{Arrueta (2012)} aborda también este conflicto, poniéndole nombre a las formas de periodismo enfrentadas --\emph{periodismo corporativo} y \emph{periodismo militante}- y rastrea su historia conceptual en el país. Más adelante, continúa con esta búsqueda y aborda los aspectos identitarios del campo periodístico en el proceso de relación con las empresas de medios.
 
 %\hl{En 2013, Stefoni} publica un trabajo que pretende vincular el conflicto entre periodistas alrededor de los conceptos de \emph{militantes} y \emph{profesionales}, a partir de los principios deontológicos. A pesar del esfuerzo, el trabajo revela que los periodistas independientes son críticos del concepto de \emph{militante}, pero que los que se oponen a la idea de independencia, en tanto que consideran que todo periodismo es político, también son reacios a catalogar su lugar como el de \emph{periodistas militantes}.
 
 \begin{quote}
-%Si bien la referencia a un periodismo independiente se presenta como una idea polémica, la voluntad del periodista es un valor que puede ser sostenido en ambas gramáticas. La incomodidad con el término militante que muestran quienes asumen un compromiso político da elementos para pensar en este sentido. A la inversa, quienes rechazan el compromiso político asumen que el periodismo tiene una función social trascendente para el orden democrático, esto es, contraponerse a los gobiernos y ejercer la crítica, para lo que es necesario también ganar en autonomía \parencite{Stefoni, 2013:415).}
+%Si bien la referencia a un periodismo independiente se presenta como una idea polémica, la voluntad del periodista es un valor que puede ser sostenido en ambas gramáticas. La incomodidad con el término militante que muestran quienes asumen un compromiso político da elementos para pensar en este sentido. A la inversa, quienes rechazan el compromiso político asumen que el periodismo tiene una función social trascendente para el orden democrático, esto es, contraponerse a los gobiernos y ejercer la crítica, para lo que es necesario también ganar en autonomía \parencite{Stefoni, 2013:415)}.
 \end{quote}
 
 %Por último, \hl{Ure y Schwarz (2014)} proponen un estudio cualitativo de \enquote{las identidades del periodismo argentino y conceptualizan la existencia de dos \enquote{modelos identitarios}}. Por un lado, el del periodismo militante y por el otro, de un periodismo profesional, aunque \enquote{débil}, para marcar las diferencias con el periodismo de países que consideran institucionalmente más afianzados.
 
 Los últimos trabajos señalados muestran el interés por descubrir, en el conflicto, la constitución de identidades profesionales, que no parecen consolidarse de manera externa al campo periodístico.
 
-\subsection{2. 2. Enfoque Conceptual}
+\subsection{Enfoque Conceptual}
 
 Como señalaron desde hace tiempo distintos autores que abordaron la problemática, los medios masivos de comunicación se convirtieron en un actor significativo en el campo político y cultural (Borrat, 1989). A pesar de que algunos autores destacan su carácter de meros mediadores --probablemente como reacción a los primeros trabajos encuadrados en lo que Wolf (2004) denominó \emph{teoría hipodérmica}--desde mediados del siglo XX distintos autores dejaron claro el inmenso poder que los medios poseen en la conformación del sentido común, los modos de comprender la realidad y, consecuentemente, en la toma de decisiones de los integrantes de la sociedad en cuyo seno intervienen (Siebert y Peterson, 1967; Borrat, 1994; D`adamo, 2007).
 
@@ -405,7 +417,7 @@ Retrocediendo en la historia, en la primera década del siglo XX, Max Weber (199
 
 A mediados del siglo pasado (1962), Habermas (1994) retomó el tema de los periodistas en una obra que intenta una indagación de la opinión pública y la prensa, revelando el proceso de cambio estructural del lugar de los periodistas desde la prensa de opinión a la prensa comercial. Dado que en ese trabajo su objeto de interés es el proceso de transformación de lo que denomina la \emph{esfera pública}, brinda elementos de análisis para comprender cómo el desarrollo de la prensa desde sus orígenes va logrando un lugar de autonomía de los poderes sociales y políticos en pugna. La prensa, progresivamente, va ocupando el lugar de narrador de la realidad social, como esfera pública de la \enquote{publicidad burguesa}. El autor da cuenta de la \emph{pérdida de la inocencia} por parte de los medios, en el sentido de que toman conciencia de su poder e influencia.
 
-\subsubsection{2. 2. 1. El campo periodístico}
+\subsubsection{El campo periodístico}
 
 Bourdieu ha descrito, en múltiples trabajos, la lógica de funcionamiento de los campos de producción simbólica (campo intelectual, artístico, religioso, de la alta costura, científico, etc.). Sin embargo, cuando --tardíamente-- aborda la cuestión del campo periodístico (Bourdieu, 1997), lo hace en un trabajo que no tiene el carácter de una indagación en profundidad, sino de un pequeño ensayo, publicado inicialmente en \emph{Actes de la recherche en sciences sociales}. Más adelante, el autor considera oportuno incorporarlo al libro \emph{Sobre la Televisión} con un ensayo denominado \emph{La influencia del periodismo}. Allí, esboza algunas ideas generales sobre el campo periodístico, entre las que señala dos principios de legitimación de sus integrantes: el de los propios periodistas, que se otorga a aquellos que representan más cabalmente los valores y principio del campo; y el de la audiencia, materializado en el mayor número de lectores, televidentes o entradas a sus notas o sitios. También señala que le preocupa la influencia del periodismo sobre otros campos como el de la cultura, lo que considera pernicioso ya que violenta la autonomía de los mismos.
 
@@ -431,7 +443,7 @@ En tal sentido, creemos que el estudio del campo periodístico, al ser transvers
 Un campo -podría tratarse del campo científico- se define, entre otras cosas, definiendo aquello que está en juego y los intereses específicos que son irreductibles a los objetos en juego, y a los intereses propios de otros campos o a sus intereses propios (no será posible atraer a un filósofo con lo que es motivo de disputa entre geógrafos) y que no son percibidos por nadie que no haya sido construido para entrar en el campo (cada categoría de intereses implica indiferencia hacia otros intereses), otras inversiones que serán percibidos como absurdos, irracionales, o sublimes y desinteresados (Bourdieu, 2008: 135).
 \end{quote}
 
-\subsubsection{2. 2. 2. La credibilidad}
+\subsubsection{La credibilidad}
 
 La primera cuestión que abordaremos es: ¿qué está en juego? O bien: ¿qué intereses específicos están en juego?
 
@@ -444,7 +456,7 @@ Así como Max Weber caracteriza a la Iglesia como aquella institución que deten
 Manuel Castells (1998: 48) apunta:
 
 \begin{quote}
-(\ldots) sin credibilidad, las noticias carecen de valor, ya sea en términos de dinero o de poder\ldots La credibilidad requiere una distancia relativa frente a las opciones políticas. Esta autonomía de los medios, arraigada en sus intereses comerciales, también encaja bien con la ideología de la profesión y con la legitimidad y la dignidad de los periodistas. Ellos informan, no toman partido (...). El distanciamiento es la regla.
+(\ldots) sin credibilidad, las noticias carecen de valor, ya sea en términos de dinero o de poder\ldots La credibilidad requiere una distancia relativa frente a las opciones políticas. Esta autonomía de los medios, arraigada en sus intereses comerciales, también encaja bien con la ideología de la profesión y con la legitimidad y la dignidad de los periodistas. Ellos informan, no toman partido (\ldots). El distanciamiento es la regla.
 \end{quote}
 
 Es probable que el campo periodístico haya construido históricamente, de manera no interesada, su principio de credibilidad. El fenómeno se desarrolló de manera compleja, contradictoria, pero una vez establecido el principio colectivo de creencia, por parte de la opinión pública, este se convirtió en el principal capital simbólico a ser protegido y disputado.
@@ -589,7 +601,7 @@ Los que participan en la lucha contribuyen a la reproducción del juego contribu
 
 En tal sentido, la disputa del gobierno de Cristina Fernández de Kirchner, con los medios dominantes, luego convertida en disputa entre los actores del campo más o menos \emph{dominantes} versus los más o menos \emph{pretendientes}, puede ser entendida como una de esas revoluciones de las que habla Bourdieu, aunque de una violencia discursiva pocas veces vista en la historia del periodismo argentino. Es probable que esa modalidad pueda adjudicarse a la percepción, por parte del periodismo dominante, de que las formas que adoptaba el conflicto ponían ``en cuestión los fundamentos mismos del juego'', en un contexto de crisis general de la actividad.
 
-\subsubsection{2. 2. 3. La legitimidad del campo periodístico}
+\subsubsection{La legitimidad del campo periodístico}
 
 Afirmamos que los periodistas además de obtener información y convertirla en texto narrativo a través de descripciones, comentarios y opiniones, llevan adelante una acción tanto o más importante, como es la de actuar públicamente a los fines de validar y hacer legítima su producción, que es en definitiva lo que da valor a sus informaciones. Sostenemos también, siguiendo a Bourdieu (1997;2008), que esta actuación pública no es individual; los periodistas actúan dentro de un campo profesional que ofrece altos niveles de protección y cobertura.
 
@@ -601,7 +613,7 @@ Por ello, si el arte, la ciencia o la actualidad fueran objeto del interés de l
 
 En el caso de la actividad periodística, el bien que provee es tan importante, tan valioso, que continuamente se ve amenazado por el mercado, para incidir, por medio del dinero o favores en su producción. Es por este motivo que una de las formas de desacreditación de la actividad periodística o de un periodista es que tiene intereses monetarios.
 
-\subsubsection{2. 2. 4. Autonomización del campo periodístico}
+\subsubsection{Autonomización del campo periodístico}
 
 En diversos trabajos, Bourdieu afirma que para la constitución de un campo se requiere previamente un proceso de autonomización de los integrantes, es decir, la ruptura de las cadenas que los amarraban a los mecenas y benefactores. Esto es, la existencia de un mercado de bienes culturales donde los integrantes del campo pueden ofrecer sus producciones y vivir de la realización de ellas.
 
@@ -723,7 +735,7 @@ Al igual que el resto de sus colegas advierte la conflictividad y la envergadura
 Así, andando mitos, contramitos, locuras, pataletas, denuncias, tuiteos, mentirosas desmentidas, zancadillas, traiciones e insuperables rencores se fue armando, caso a caso, el siguiente compendio de historias, historietas, subtextos y micro relatos protagonizados por periodistas contra periodistas que se vieron forzados, incluso por sí mismos, a revolcarse en esta guerra de otros que bien podía narrarse desde el clásico balcón de la incordura. O no. (Zunino, 2013: 31).
 \end{quote}
 
-\subsection{3. 3. Acerca del campo periodístico}
+\subsection{Acerca del campo periodístico}
 
 A fin de definir algunos conceptos significativos, utilizados en nuestro trabajo, como \emph{periodistas centrales}, \emph{hegemónicos} o \emph{dominantes}, para referirnos a quienes poseen mayor capital simbólico dentro del campo y sus audiencias, así como a sus opuestos, es decir \emph{periodistas periféricos}, \emph{secundarios} o \emph{aspirantes} del campo, consideramos necesario establecer los criterios que utilizamos para indicar la ubicación en unos u otros en los polos del \emph{continuum} que establecimos. ¿Cómo discernir qué periodista se encuentra en la centralidad del campo y cuál en la periferia? Bourdieu utiliza el principio del \emph{valor de la firma}, en el caso de la alta costura. Es decir, que en el caso de un/a modisto/a, el valor de sus prendas determina el lugar que ocupa en el campo. De alguna manera, el sistema es relativamente sencillo, ya que los diseñadores de moda venden a sus consumidores el producto de su arte, por lo que la información está, de alguna manera, disponible en el mercado de la alta costura. Esto no quiere decir que la información sea abierta y explícita, pero suele tener trascendencia, si no es por el valor de las prendas, lo es por la ostentación económica de quienes las producen.
 
@@ -737,7 +749,7 @@ Sin embargo, el conflicto dio oportunidad de acceder de manera indirecta a algun
 
 En términos generales, lo que ocurre es un \emph{continuum} entre la mayor centralidad y la periferia. Es por ello que no resulta sencillo distinguir a su contraparte, es decir, a los periodistas periféricos. No obstante, al establecer algunos parámetros para identificar a los periodistas centrales, podemos utilizar esos mismos criterios para reconocer a los que carecen de esas propiedades. A continuación, graficaremos los criterios utilizados para establecer niveles de dominancia/centrales y de periferia/aspirantes.
 
-\subsubsection{3. 3. 1. Propuesta de clasificación de periodistas según su lugar en el campo}
+\subsubsection{Propuesta de clasificación de periodistas según su lugar en el campo}
 
 A los efectos de elaborar una clasificación proponemos, de manera esquemática, cuatro posiciones polares posibles en el campo:
 
@@ -784,7 +796,7 @@ Cuando iniciamos el análisis del \emph{corpus} bibliográfico, presuponíamos q
 
 Consideramos que estas categorías son preexistentes al conflicto que se suscitó entre el campo periodístico y el gobierno de Cristina Fernández de Kirchner. Sin embargo, fue el conflicto el que permitió apreciar en todas sus dimensiones las diferencias que los separan.
 
-\subsubsection{3. 3. 2. Categorías de periodistas}
+\subsubsection{Categorías de periodistas}
 
 \textbf{Los defensores}
 
@@ -864,7 +876,7 @@ Por el contrario a partir del año 2013 y hasta el 2015, es posible observar lo 
 Como señalamos anteriormente, en 2009, Claudio Díaz, publica \emph{Diario de guerra}. \emph{Clarín, el gran engaño argentino}. Si bien la estructura argumentativa de todo el libro es que el periodismo (¿campo periodístico?) ha sido profundamente antiperonista y que constituyó una ``oligarquía de la comunicación (\ldots), dueños de la riqueza pero también de las palabras'' (pp. 15 y 17), Díaz no puede abstraerse de los valores del campo e intentará mostrar que los prejuicios políticos impidieron la libertad de expresión. Es decir, que la violación del principio de libertad de expresión no estaba en el poder político, sino en el poder empresario o de los grandes grupos económicos.
 
 \begin{quote}
-%La libre circulación de "lo que pasa" resulta imposible y hasta inimaginable. La imposición del pensamiento único por los países ricos a través de sus altavoces mediáticos determina la concepción de un único mundo posible, con un único sistema económico viable y con un unificado concepto de modernidad, desarrollo y progreso. En definitiva, la información, en contra de una genuina libertad de expresión, genera dogmas que se resumen en el simple \emph{`lo que no está en los medios, tal y como los medios lo publican y lo interpretan, no está en el mundoʹ} (Díaz, 2009: 30).
+La libre circulación de ``lo que pasa'' resulta imposible y hasta inimaginable. La imposición del pensamiento único por los países ricos a través de sus altavoces mediáticos determina la concepción de un único mundo posible, con un único sistema económico viable y con un unificado concepto de modernidad, desarrollo y progreso. En definitiva, la información, en contra de una genuina libertad de expresión, genera dogmas que se resumen en el simple \emph{lo que no está en los medios, tal y como los medios lo publican y lo interpretan, no está en el mundo} (Díaz, 2009: 30).
 \end{quote}
 
 Más adelante ejemplifica nuevamente:
