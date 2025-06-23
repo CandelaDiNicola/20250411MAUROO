@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.4)  23 JUN 2025 18:52
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.4)  23 JUN 2025 19:56
  restricted system commands enabled.
 **pdf-20250411MAUROO.tex
 (./pdf-20250411MAUROO.tex
@@ -4377,16 +4377,6 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \??? doesn't match its definition.
 <argument> \???  
       ! LaTeX Error: Misplaced '=' in key-value input on line 705
-l.705 		\textbf{Diario} & \textbf
-                               {Localidad} & \textbf{2010} & \textbf{2011} &...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 705
 l.705 ...xtbf{Diario} & \textbf{Localidad} & \textbf
                                                   {2010} & \textbf{2011} & \...
 If you say, e.g., `\def\a1{...}', then you must always
@@ -4478,7 +4468,7 @@ followed by the required stuff, so I'm ignoring it.
 <argument> \???  
       ! LaTeX Error: Misplaced '=' in key-value input on line 705
 l.705 ...} & \textbf{2017} & \textbf{2018} & \textbf
-                                                  {2019} & \textbf{Dif.2010/...
+                                                  {2019} & \textbf{Dif .2010...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
 made up of letters only. The macro here has not been
@@ -4488,17 +4478,7 @@ followed by the required stuff, so I'm ignoring it.
 <argument> \???  
       ! LaTeX Error: Misplaced '=' in key-value input on line 705
 l.705 ...} & \textbf{2018} & \textbf{2019} & \textbf
-                                                  {Dif.2010/2019} \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 707
-l.707 		Clarín & A
-                 MBA & 664 & 591 & 599 & 570 & 513 & 508 & 487 & 446 & 388 &...
+                                                  {Dif .2010/2019} \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
 made up of letters only. The macro here has not been
@@ -4617,16 +4597,6 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \??? doesn't match its definition.
 <argument> \???  
       ! LaTeX Error: Misplaced '=' in key-value input on line 709
-l.709 		La Nación & A
-                    MBA & 280 & 332 & 360 & 331 & 323 & 320 & 302 & 288 & 20...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 709
 l.709 		La Nación & AMBA & 2
                            80 & 332 & 360 & 331 & 323 & 320 & 302 & 288 & 20...
 If you say, e.g., `\def\a1{...}', then you must always
@@ -4729,16 +4699,6 @@ followed by the required stuff, so I'm ignoring it.
       ! LaTeX Error: Misplaced '=' in key-value input on line 709
 l.709 ...331 & 323 & 320 & 302 & 288 & 209 & 201 & -
                                                   28 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 711
-l.711 		Diario Popular & A
-                        MBA & 147 & 131 & 135 & 131 & 120 & 118 & 106 & 95 &...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
 made up of letters only. The macro here has not been
@@ -4857,54 +4817,6 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \??? doesn't match its definition.
 <argument> \???  
       ! LaTeX Error: Misplaced '=' in key-value input on line 713
-l.713 		La Voz del Int & C
-                        órdoba & 99 & 90 & 90 & 84 & 81 & 118 & 73 & 66 & 5...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-! Package siunitx Error: Invalid number 'd'.
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.713 		La Voz del Int & Córdoba &
-                                  99 & 90 & 90 & 84 & 81 & 118 & 73 & 66 & 5...
-
-The input 'd' could not be parsed as a number following the format defined in
-module documentation.
-
-
-Runaway argument?
-\q_stop \exp_after:wN \__siunitx_table_print_marker:w \l__siunitx_table_tmp_tl 
-\ETC.
-! Forbidden control sequence found while scanning use of \__siunitx_table_color_
-check:w.
-<inserted text> 
-\par 
-l.713 		La Voz del Int & Córdoba &
-                                  99 & 90 & 90 & 84 & 81 & 118 & 73 & 66 & 5...
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
-
-! Missing \endgroup inserted.
-<inserted text> 
-\endgroup 
-l.713 		La Voz del Int & Córdoba &
-                                  99 & 90 & 90 & 84 & 81 & 118 & 73 & 66 & 5...
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 713
 l.713 		La Voz del Int & Córdoba & 9
                                    9 & 90 & 90 & 84 & 81 & 118 & 73 & 66 & 5...
 If you say, e.g., `\def\a1{...}', then you must always
@@ -5015,54 +4927,6 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \??? doesn't match its definition.
 <argument> \???  
       ! LaTeX Error: Misplaced '=' in key-value input on line 715
-l.715 		Los Andes & M
-                   endoza & 83 & 78 & 77 & 73 & 68 & 65 & 57 & 52 & 49 & 43 ...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-! Package siunitx Error: Invalid number 'e'.
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.715 		Los Andes & Mendoza &
-                            83 & 78 & 77 & 73 & 68 & 65 & 57 & 52 & 49 & 43 ...
-
-The input 'e' could not be parsed as a number following the format defined in
-module documentation.
-
-
-Runaway argument?
-\q_stop \exp_after:wN \__siunitx_table_print_marker:w \l__siunitx_table_tmp_tl 
-\ETC.
-! Forbidden control sequence found while scanning use of \__siunitx_table_color_
-check:w.
-<inserted text> 
-\par 
-l.715 		Los Andes & Mendoza &
-                            83 & 78 & 77 & 73 & 68 & 65 & 57 & 52 & 49 & 43 ...
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
-
-! Missing \endgroup inserted.
-<inserted text> 
-\endgroup 
-l.715 		Los Andes & Mendoza &
-                            83 & 78 & 77 & 73 & 68 & 65 & 57 & 52 & 49 & 43 ...
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 715
 l.715 		Los Andes & Mendoza & 8
                              3 & 78 & 77 & 73 & 68 & 65 & 57 & 52 & 49 & 43 ...
 If you say, e.g., `\def\a1{...}', then you must always
@@ -5165,16 +5029,6 @@ followed by the required stuff, so I'm ignoring it.
       ! LaTeX Error: Misplaced '=' in key-value input on line 715
 l.715 ...& 77 & 73 & 68 & 65 & 57 & 52 & 49 & 43 & -
                                                   48 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 717
-l.717 		La Capital & R
-                    osario & 82 & 80 & 76 & 67 & 62 & 56 & 47 & 41 & 36 & 30...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
 made up of letters only. The macro here has not been
@@ -5290,6 +5144,226 @@ put `1' after `\a', since control sequence names are
 made up of letters only. The macro here has not been
 followed by the required stuff, so I'm ignoring it.
 
+! Use of \??? doesn't match its definition.
+<argument> \???  
+      ! LaTeX Error: Misplaced '=' in key-value input on line 719
+l.719 		La Gaceta & Tucumán & 6
+                              1 & 62 & 60 & 56 & 56 & 55 & 49 & 45 & 40 & 34...
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+! Use of \??? doesn't match its definition.
+<argument> \???  
+      ! LaTeX Error: Misplaced '=' in key-value input on line 719
+l.719 		La Gaceta & Tucumán & 61 & 6
+                                   2 & 60 & 56 & 56 & 55 & 49 & 45 & 40 & 34...
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+! Use of \??? doesn't match its definition.
+<argument> \???  
+      ! LaTeX Error: Misplaced '=' in key-value input on line 719
+l.719 		La Gaceta & Tucumán & 61 & 62 & 6
+                                        0 & 56 & 56 & 55 & 49 & 45 & 40 & 34...
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+! Use of \??? doesn't match its definition.
+<argument> \???  
+      ! LaTeX Error: Misplaced '=' in key-value input on line 719
+l.719 		La Gaceta & Tucumán & 61 & 62 & 60 & 5
+                                             6 & 56 & 55 & 49 & 45 & 40 & 34...
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+! Use of \??? doesn't match its definition.
+<argument> \???  
+      ! LaTeX Error: Misplaced '=' in key-value input on line 719
+l.719 		La Gaceta & Tucumán & 61 & 62 & 60 & 56 & 5
+                                                  6 & 55 & 49 & 45 & 40 & 34...
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+! Use of \??? doesn't match its definition.
+<argument> \???  
+      ! LaTeX Error: Misplaced '=' in key-value input on line 719
+l.719 ...eta & Tucumán & 61 & 62 & 60 & 56 & 56 & 5
+                                                  5 & 49 & 45 & 40 & 34 & -4...
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+! Use of \??? doesn't match its definition.
+<argument> \???  
+      ! LaTeX Error: Misplaced '=' in key-value input on line 719
+l.719 ... Tucumán & 61 & 62 & 60 & 56 & 56 & 55 & 4
+                                                  9 & 45 & 40 & 34 & -44 \\
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+! Use of \??? doesn't match its definition.
+<argument> \???  
+      ! LaTeX Error: Misplaced '=' in key-value input on line 719
+l.719 ...mán & 61 & 62 & 60 & 56 & 56 & 55 & 49 & 4
+                                                  5 & 40 & 34 & -44 \\
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+! Use of \??? doesn't match its definition.
+<argument> \???  
+      ! LaTeX Error: Misplaced '=' in key-value input on line 719
+l.719 ...& 61 & 62 & 60 & 56 & 56 & 55 & 49 & 45 & 4
+                                                  0 & 34 & -44 \\
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+! Use of \??? doesn't match its definition.
+<argument> \???  
+      ! LaTeX Error: Misplaced '=' in key-value input on line 719
+l.719 ...& 62 & 60 & 56 & 56 & 55 & 49 & 45 & 40 & 3
+                                                  4 & -44 \\
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+! Use of \??? doesn't match its definition.
+<argument> \???  
+      ! LaTeX Error: Misplaced '=' in key-value input on line 719
+l.719 ...& 60 & 56 & 56 & 55 & 49 & 45 & 40 & 34 & -
+                                                  44 \\
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+! Use of \??? doesn't match its definition.
+<argument> \???  
+      ! LaTeX Error: Misplaced '=' in key-value input on line 721
+l.721 		Río Negro & Gral. Roca & 4
+                                 5 & 44 & 42 & 36 & 35 & 35 & 32 & 28 & 26 &...
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+! Use of \??? doesn't match its definition.
+<argument> \???  
+      ! LaTeX Error: Misplaced '=' in key-value input on line 721
+l.721 		Río Negro & Gral. Roca & 45 & 4
+                                      4 & 42 & 36 & 35 & 35 & 32 & 28 & 26 &...
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+! Use of \??? doesn't match its definition.
+<argument> \???  
+      ! LaTeX Error: Misplaced '=' in key-value input on line 721
+l.721 		Río Negro & Gral. Roca & 45 & 44 & 4
+                                           2 & 36 & 35 & 35 & 32 & 28 & 26 &...
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+! Use of \??? doesn't match its definition.
+<argument> \???  
+      ! LaTeX Error: Misplaced '=' in key-value input on line 721
+l.721 		Río Negro & Gral. Roca & 45 & 44 & 42 & 3
+                                                6 & 35 & 35 & 32 & 28 & 26 &...
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+! Use of \??? doesn't match its definition.
+<argument> \???  
+      ! LaTeX Error: Misplaced '=' in key-value input on line 721
+l.721 ... Negro & Gral. Roca & 45 & 44 & 42 & 36 & 3
+                                                  5 & 35 & 32 & 28 & 26 & 21...
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+! Use of \??? doesn't match its definition.
+<argument> \???  
+      ! LaTeX Error: Misplaced '=' in key-value input on line 721
+l.721 ...o & Gral. Roca & 45 & 44 & 42 & 36 & 35 & 3
+                                                  5 & 32 & 28 & 26 & 21 & -5...
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+! Use of \??? doesn't match its definition.
+<argument> \???  
+      ! LaTeX Error: Misplaced '=' in key-value input on line 721
+l.721 ...ral. Roca & 45 & 44 & 42 & 36 & 35 & 35 & 3
+                                                  2 & 28 & 26 & 21 & -53 \\
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+! Use of \??? doesn't match its definition.
+<argument> \???  
+      ! LaTeX Error: Misplaced '=' in key-value input on line 721
+l.721 ...Roca & 45 & 44 & 42 & 36 & 35 & 35 & 32 & 2
+                                                  8 & 26 & 21 & -53 \\
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+! Use of \??? doesn't match its definition.
+<argument> \???  
+      ! LaTeX Error: Misplaced '=' in key-value input on line 721
+l.721 ...& 45 & 44 & 42 & 36 & 35 & 35 & 32 & 28 & 2
+                                                  6 & 21 & -53 \\
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+! Use of \??? doesn't match its definition.
+<argument> \???  
+      ! LaTeX Error: Misplaced '=' in key-value input on line 721
+l.721 ...& 44 & 42 & 36 & 35 & 35 & 32 & 28 & 26 & 2
+                                                  1 & -53 \\
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+! Use of \??? doesn't match its definition.
+<argument> \???  
+      ! LaTeX Error: Misplaced '=' in key-value input on line 721
+l.721 ...& 42 & 36 & 35 & 35 & 32 & 28 & 26 & 21 & -
+                                                  53 \\
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
 LaTeX Info: Redefining \. on input line 734.
 LaTeX Info: Redefining \% on input line 734.
 LaTeX Info: Redefining \. on input line 734.
@@ -5297,15 +5371,15 @@ LaTeX Info: Redefining \% on input line 734.
 [12]
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/it' will be
 (Font)              scaled to size 9.81033pt on input line 738.
-LaTeX Info: Redefining \. on input line 749.
-LaTeX Info: Redefining \% on input line 749.
-LaTeX Info: Redefining \. on input line 749.
-LaTeX Info: Redefining \% on input line 749.
+LaTeX Info: Redefining \. on input line 745.
+LaTeX Info: Redefining \% on input line 745.
+LaTeX Info: Redefining \. on input line 745.
+LaTeX Info: Redefining \% on input line 745.
  [13]
-LaTeX Info: Redefining \. on input line 765.
-LaTeX Info: Redefining \% on input line 765.
-LaTeX Info: Redefining \. on input line 765.
-LaTeX Info: Redefining \% on input line 765.
+LaTeX Info: Redefining \. on input line 762.
+LaTeX Info: Redefining \% on input line 762.
+LaTeX Info: Redefining \. on input line 762.
+LaTeX Info: Redefining \% on input line 762.
  [14]
 LaTeX Info: Redefining \. on input line 776.
 LaTeX Info: Redefining \% on input line 776.
@@ -5316,25 +5390,25 @@ LaTeX Info: Redefining \% on input line 776.
 LaTeX Warning: Citation '@WINAZKI2000PURO' on page 16 undefined on input line 7
 81.
 
-LaTeX Info: Redefining \. on input line 783.
-LaTeX Info: Redefining \% on input line 783.
-LaTeX Info: Redefining \. on input line 783.
-LaTeX Info: Redefining \% on input line 783.
+LaTeX Info: Redefining \. on input line 782.
+LaTeX Info: Redefining \% on input line 782.
+LaTeX Info: Redefining \. on input line 782.
+LaTeX Info: Redefining \% on input line 782.
 [16]
 LaTeX Info: Redefining \. on input line 794.
 LaTeX Info: Redefining \% on input line 794.
 LaTeX Info: Redefining \. on input line 794.
 LaTeX Info: Redefining \% on input line 794.
  [17]
-LaTeX Info: Redefining \. on input line 820.
-LaTeX Info: Redefining \% on input line 820.
-LaTeX Info: Redefining \. on input line 820.
-LaTeX Info: Redefining \% on input line 820.
+LaTeX Info: Redefining \. on input line 818.
+LaTeX Info: Redefining \% on input line 818.
+LaTeX Info: Redefining \. on input line 818.
+LaTeX Info: Redefining \% on input line 818.
  [18]
-LaTeX Info: Redefining \. on input line 830.
-LaTeX Info: Redefining \% on input line 830.
-LaTeX Info: Redefining \. on input line 830.
-LaTeX Info: Redefining \% on input line 830.
+LaTeX Info: Redefining \. on input line 828.
+LaTeX Info: Redefining \% on input line 828.
+LaTeX Info: Redefining \. on input line 828.
+LaTeX Info: Redefining \% on input line 828.
  [19]
 LaTeX Info: Redefining \. on input line 836.
 LaTeX Info: Redefining \% on input line 836.
@@ -6249,17 +6323,17 @@ Package logreq Info: Writing requests to 'pdf-20250411MAUROO.run.xml'.
 
 Here is how much of LuaTeX's memory you used:
  66993 strings out of 476553
- 6947525,2848258 words of node,token memory allocated
- 5717221 words of node memory still in use:
-   15985 hlist, 38 vlist, 3448 rule, 173 ins, 1 adjust, 77150 disc, 2678 local_p
-ar, 398 math, 101423 glue, 61371 kern, 5948 penalty, 820 margin_kern, 493012 gly
-ph, 62883 attribute, 6100 glue_spec, 8995 attribute_list, 3 write, 46 pdf_litera
+ 6947471,2848258 words of node,token memory allocated
+ 5758357 words of node memory still in use:
+   17227 hlist, 38 vlist, 3718 rule, 173 ins, 1 adjust, 77240 disc, 2678 local_p
+ar, 398 math, 103556 glue, 61812 kern, 5948 penalty, 820 margin_kern, 493930 gly
+ph, 64185 attribute, 6100 glue_spec, 9181 attribute_list, 3 write, 46 pdf_litera
 l, 156 pdf_start_link, 162 pdf_end_link, 334 pdf_dest, 132 pdf_action, 1064 pdf_
 colorstack nodes
-   avail lists: 1:14,2:276,3:210,4:44,5:202,6:23,7:3135,8:136,9:133,10:31,11:363
+   avail lists: 1:15,2:276,3:210,4:44,5:202,6:23,7:3135,8:136,9:133,10:32,11:363
 
  86942 multiletter control sequences out of 65536+600000
- 99 fonts using 26610099 bytes
+ 99 fonts using 26610235 bytes
  117i,11n,123p,5812b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 warning  (pdf backend): unreferenced destination with name '_bookmark8'
@@ -6272,7 +6346,7 @@ st/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Italic.otf></usr/share
 /texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Regul
 ar.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondens
 ed-Regular.otf>
-Output written on pdf-20250411MAUROO.pdf (194 pages, 707554 bytes).
+Output written on pdf-20250411MAUROO.pdf (194 pages, 707876 bytes).
 
 PDF statistics: 1359 PDF objects out of 1440 (max. 8388607)
  1015 compressed objects within 11 object streams
