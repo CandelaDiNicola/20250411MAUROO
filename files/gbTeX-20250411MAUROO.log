@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.4)  22 JUN 2025 23:39
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.4)  22 JUN 2025 23:46
  restricted system commands enabled.
 **pdf-20250411MAUROO.tex
 (./pdf-20250411MAUROO.tex
@@ -3208,6 +3208,13 @@ LaTeX Info: Redefining \% on input line 642.
 LaTeX Info: Redefining \. on input line 642.
 LaTeX Info: Redefining \% on input line 642.
  [9]
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
+(Font)              scaled to size 11.79993pt on input line 649.
+LaTeX Info: Redefining \. on input line 650.
+LaTeX Info: Redefining \% on input line 650.
+LaTeX Info: Redefining \. on input line 650.
+LaTeX Info: Redefining \% on input line 650.
+ [10]
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
 (Font)              scaled to size 7.84827pt on input line 652.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
@@ -3947,13 +3954,11 @@ put `1' after `\a', since control sequence names are
 made up of letters only. The macro here has not been
 followed by the required stuff, so I'm ignoring it.
 
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 11.79993pt on input line 680.
-LaTeX Info: Redefining \. on input line 681.
-LaTeX Info: Redefining \% on input line 681.
-LaTeX Info: Redefining \. on input line 681.
-LaTeX Info: Redefining \% on input line 681.
-[10]
+LaTeX Info: Redefining \. on input line 682.
+LaTeX Info: Redefining \% on input line 682.
+LaTeX Info: Redefining \. on input line 682.
+LaTeX Info: Redefining \% on input line 682.
+[11]
 
 ! Package array Error:  Illegal pream-token (1): `c' used.
 
@@ -5422,16 +5427,16 @@ l.721 ...mán & 61 & 62 & 60 & 56 & 56 & 55 & 49 & 4
 (That makes 100 errors; please try again.)
 
 Here is how much of LuaTeX's memory you used:
- 66305 strings out of 476553
- 745945,2848258 words of node,token memory allocated
- 618236 words of node memory still in use:
-   6896 hlist, 33 vlist, 1812 rule, 8 ins, 1 adjust, 5678 disc, 215 local_par, 5
- dir, 98 math, 18658 glue, 5740 kern, 426 penalty, 107 unset, 58 margin_kern, 38
-939 glyph, 14 align_record, 1 page_insert, 16067 attribute, 604 glue_spec, 2307 
-attribute_list, 11 temp, 1 align_stack, 2 write, 28 pdf_literal, 7 pdf_start_lin
-k, 7 pdf_end_link, 18 pdf_dest, 6 pdf_action, 85 pdf_colorstack nodes
-   avail lists: 1:15,2:1,3:3,4:36,5:1,8:3,9:1,10:24,11:79
+ 66307 strings out of 476553
+ 745953,2848258 words of node,token memory allocated
+ 646066 words of node memory still in use:
+   6925 hlist, 33 vlist, 1817 rule, 9 ins, 1 adjust, 6093 disc, 225 local_par, 5
+ dir, 104 math, 19080 glue, 5890 kern, 452 penalty, 107 unset, 61 margin_kern, 4
+1554 glyph, 14 align_record, 1 page_insert, 16333 attribute, 624 glue_spec, 2345
+ attribute_list, 11 temp, 1 align_stack, 2 write, 28 pdf_literal, 8 pdf_start_li
+nk, 8 pdf_end_link, 20 pdf_dest, 7 pdf_action, 87 pdf_colorstack nodes
+   avail lists: 1:12,2:1,3:3,4:32,5:1,8:3,9:1,10:24,11:144
  86603 multiletter control sequences out of 65536+600000
- 96 fonts using 26085251 bytes
+ 96 fonts using 26085047 bytes
  117i,11n,123p,2364b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
 !  ==> Fatal error occurred, no output PDF file produced!
