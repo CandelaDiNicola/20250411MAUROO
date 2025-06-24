@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.4)  24 JUN 2025 00:38
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.4)  24 JUN 2025 12:34
  restricted system commands enabled.
 **pdf-20250411MAUROO.tex
 (./pdf-20250411MAUROO.tex
@@ -2984,9 +2984,9 @@ Package biblatex Info: Data encoding 'utf8' specified.
 
 \openout4 = pdf-20250411MAUROO.bcf
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'pdf-20250411MAUROO.bbl' not found.
+Package biblatex Info: ... file 'pdf-20250411MAUROO.bbl' found.
 
-No file pdf-20250411MAUROO.bbl.
+(./pdf-20250411MAUROO.bbl)
 Package biblatex Info: Reference section=0 on input line 471.
 Package biblatex Info: Reference segment=0 on input line 471.
 
@@ -6467,18 +6467,18 @@ Package logreq Info: Writing requests to 'pdf-20250411MAUROO.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 67033 strings out of 476553
+ 67039 strings out of 476553
  6947525,2848258 words of node,token memory allocated
- 5860560 words of node memory still in use:
+ 5860563 words of node memory still in use:
    20097 hlist, 39 vlist, 6245 rule, 173 ins, 2 adjust, 77233 disc, 2826 local_p
-ar, 402 math, 104800 glue, 61208 kern, 6561 penalty, 843 margin_kern, 493735 gly
+ar, 402 math, 104802 glue, 61208 kern, 6561 penalty, 842 margin_kern, 493734 gly
 ph, 83911 attribute, 6312 glue_spec, 11999 attribute_list, 4 write, 38 pdf_liter
 al, 157 pdf_start_link, 163 pdf_end_link, 334 pdf_dest, 133 pdf_action, 1150 pdf
 _colorstack, 4 pdf_setmatrix, 4 pdf_save, 4 pdf_restore nodes
-   avail lists: 1:12,2:276,3:210,4:44,5:202,6:23,7:3135,8:136,9:133,10:31,11:363
+   avail lists: 1:12,2:276,3:210,4:42,5:202,6:23,7:3134,8:136,9:133,10:31,11:363
 
- 86967 multiletter control sequences out of 65536+600000
- 102 fonts using 27878351 bytes
+ 86968 multiletter control sequences out of 65536+600000
+ 102 fonts using 27878215 bytes
  117i,11n,123p,5845b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 warning  (pdf backend): unreferenced destination with name '_bookmark8'
