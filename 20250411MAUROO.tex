@@ -14,23 +14,23 @@
 \usepackage{easyReview}
 \usepackage{hyperxmp}
 \input{./files/gbTeXmeta-20250411MAUROO.tex}
-	\else
-	\ifBNPDF
-	\usepackage[width=18truecm,height=25.5truecm,cam,center]{crop}
-	\newcommand*\infofont[1]{\sf{\footnotesize #1 (candeladinicola2002@gmail.com)}}
-	\crop[font=infofont]
-	\usepackage[hidelinks, unicode]{hyperref}
-	\usepackage{hyperxmp}
-	\input{./files/gbTeXmeta-20250411MAUROO.tex}
-		\else
-		\ifPNGEPUB
-		\usepackage[hidelinks, unicode]{hyperref}
-			\else
-			\ifHTMLEPUB
-			\usepackage[allcolors=blue,colorlinks,hyperindex=true,unicode]{hyperref}
-			\fi
-		\fi
-	\fi
+\else
+\ifBNPDF
+\usepackage[width=18truecm,height=25.5truecm,cam,center]{crop}
+\newcommand*\infofont[1]{\sf{\footnotesize #1 (candeladinicola2002@gmail.com)}}
+\crop[font=infofont]
+\usepackage[hidelinks, unicode]{hyperref}
+\usepackage{hyperxmp}
+\input{./files/gbTeXmeta-20250411MAUROO.tex}
+\else
+\ifPNGEPUB
+\usepackage[hidelinks, unicode]{hyperref}
+\else
+\ifHTMLEPUB
+\usepackage[allcolors=blue,colorlinks,hyperindex=true,unicode]{hyperref}
+\fi
+\fi
+\fi
 \fi
 
 \begin{document}
@@ -38,6 +38,7 @@
 
 \frontmatter
 
+\input{./artcap/inicio-frontmatter.tex}
 
 %\textbf{Maestría en Periodismo}
 
@@ -99,7 +100,7 @@ A Esther Jodice, por haberme acompañado en lo mejor de mi vida
 
 Cuando durante 2015 comencé a dar forma al proyecto de tesis, la bibliografía sobre sociología del periodismo argentino era escasa y/o fragmentaria. De hecho, distintos autores que estudiaban el tema lo presentaban como un déficit a subsanar. Por otra parte ese año, y los precedentes, habían dado lugar a una producción desusada de libros sobre la actividad periodística como expresión del conflicto, inicialmente, entre el gobierno y uno de los grandes grupos de medios de Argentina, pero luego el conflicto se extendió, en apariencia, a todo el periodismo argentino. A la luz de ese conflicto, creí observar la estructuración de un discurso, que daba cuenta del hacer y del sentir del conglomerado de periodistas que intervenían en la serie editorial y que, a mi entender, permitiría descubrir, o al menos reconocer, las formas que la acción del campo periodístico adopta, de manera especial, en una situación de conflicto abierto.
 
-Pierre Bourdieu (2008) plantea que en todo campo hay conflicto, pero que el campo lo gestiona de manera tal que no eclosione. El campo periodístico es experto en la gestión del conflicto. Su capacidad de convertir el conflicto entre actores significativos de la sociedad en acontecimientos de actualidad es, justamente, el sentido de su especificidad. Sin embargo, el conflicto al interior de sus entrañas, parece haberlo descentrado poniendo en riesgo el principio de su existencia, la creencia social colectiva en la identidad entre el discurso periodístico y la realidad, en la verosimilitud de los discursos de los periodistas. Cuando se escriben estas líneas (entre marzo y agosto de 2020), el conflicto ha escalado a niveles difíciles de imaginar en 2015, cuestionando en el escenario público, a periodistas de gran prestigio en Argentina.
+\textcite{@6982-BOURDIEU2008} Pierre Bourdieu (2008) plantea que en todo campo hay conflicto, pero que el campo lo gestiona de manera tal que no eclosione. El campo periodístico es experto en la gestión del conflicto. Su capacidad de convertir el conflicto entre actores significativos de la sociedad en acontecimientos de actualidad es, justamente, el sentido de su especificidad. Sin embargo, el conflicto al interior de sus entrañas, parece haberlo descentrado poniendo en riesgo el principio de su existencia, la creencia social colectiva en la identidad entre el discurso periodístico y la realidad, en la verosimilitud de los discursos de los periodistas. Cuando se escriben estas líneas (entre marzo y agosto de 2020), el conflicto ha escalado a niveles difíciles de imaginar en 2015, cuestionando en el escenario público, a periodistas de gran prestigio en Argentina.
 
 Mientras los medios gráficos poseían la exclusividad como medios de información, estos detentaban una unidad discursiva estructural, es decir los periodistas no eran públicamente reconocidos, ya que escasamente firmaban sus notas, por lo que la responsabilidad del periódico residía en los editores y el director. Sin embargo, el advenimiento de los medios audiovisuales promovió el proceso de identificación y autonomización de un número significativo de periodistas, fortaleciendo, a mi entender, el campo periodístico. Sin embargo, el conflicto del que damos cuenta en la tesis parece haber puesto en crisis esa creencia colectiva, haciendo que la existencia misma del campo se halle en riesgo.
 
@@ -111,7 +112,7 @@ Mientras los medios gráficos poseían la exclusividad como medios de informaci�
 	Lo juro por mi adhesión personal, por mi lealtad al equipo, por usted, por Limardo, por Renovales.
 	-Diga lo que se le dé la gana, nadie le va a creer.''
 
-	\emph{Esse est percipi} (Ser es ser percibido){(Borges y Bioy Casares, 1967)}}
+	\emph{Esse est percipi} (Ser es ser percibido) \parencite{6980-BORGES1967} (Borges y Bioy Casares, 1967)}
 
 
 \newpage
@@ -122,7 +123,7 @@ Mientras los medios gráficos poseían la exclusividad como medios de informaci�
 
 En Argentina, la intervención de periodistas como autores de libros que discuten sobre el campo periodístico y su legitimidad cuenta con una larga tradición desde los inicios mismos de la Nación\footnote{Entre otros estudios sobre debates en torno a la construcción y legitimación del campo periodístico desde los orígenes de la prensa argentina, Cfr. Rivera (1968, 1990, 1998), Molina (2012), Alonso (1997, 2004), Moyano (1996, 2008, 2013), Ojeda y Moyano (2015, 2019), Ojeda (2010), De Marco (2006), Díaz, (2012), Auza (1978}. Sin embargo, el período que transcurre entre los años 2009 y 2015 fue especialmente pródigo en la cantidad y diversidad de material que se produjo sobre el tema, con especial énfasis en la crítica a colegas y/o a medios de comunicación.
 
-Desde la reinstalación del sistema democrático, en 1984, es posible identificar el desarrollo y la consolidación de los libros de periodistas como uno de los géneros predominantes del ámbito editorial (De Diego, 2014).Por otra parte, este fenómeno constituye una forma de intervención pública y de jerarquización profesional en el ámbito periodístico (Pereyra, 2013; Vommaro y Baldoni, 2012).
+Desde la reinstalación del sistema democrático, en 1984, es posible identificar el desarrollo y la consolidación de los libros de periodistas como uno de los géneros predominantes del ámbito editorial \parencite{6993-DEDIEGO2012} (De Diego, 2014).Por otra parte, este fenómeno constituye una forma de intervención pública y de jerarquización profesional en el ámbito periodístico (Pereyra, 2013; Vommaro y Baldoni, 2012).
 
 Baldoni y Gómez Rodríguez (2018) dan cuenta del fenómeno mostrando el proceso de incorporación de la producción de libros de periodistas en el mercado editorial, inicialmente desde las pequeñas editoriales. Luego, a partir de la consolidación de este género, las grandes casas editoriales encontraron, como muestra Saferstein (2016), un nicho de mercado propicio para la producción de \emph{best-sellers}.
 
@@ -426,9 +427,9 @@ Es de destacarse la particularidad del momento en que estos tres trabajos se pro
 
 Esta limitada producción sobre el colectivo periodístico parece estar fundada, entre otros motivos, en el carácter refractario a su indagación que evidencian los periodistas, tal como lo revelan Martini y Luchessi (2004: 13 y 14) en sus registros de campo. Estas autoras explicitan que su trabajo de investigación tuvo por objeto el estudio de las relaciones y prácticas productivas del periodismo desde ``la voz de los periodistas'' a través de una perspectiva etnográfica.
 
-El conflicto que reseña la presente investigación incidió en la promoción de una serie de trabajos académicos contemporáneos, evidentemente conmovidos por la violencia, fortaleza, y lo prolongado del conflicto entre periodistas. {En 2012, Baldoni} percibe la disputa entre el \enquote{periodismo independiente} y el \enquote{periodismo militante} y se propone trazar los principales rasgos del conflicto, observando que son las premisas deontológicas las bases argumentativas para la defensa de uno u otro de los tipos de periodismo. De esta manera, los conceptos de \emph{periodismo militante} versus \emph{periodismo independiente} reciben en este trabajo, su bautismo académico.
+El conflicto que reseña la presente investigación incidió en la promoción de una serie de trabajos académicos contemporáneos, evidentemente conmovidos por la violencia, fortaleza, y lo prolongado del conflicto entre periodistas. En 2012, Baldoni percibe la disputa entre el \enquote{periodismo independiente} y el \enquote{periodismo militante} y se propone trazar los principales rasgos del conflicto, observando que son las premisas deontológicas las bases argumentativas para la defensa de uno u otro de los tipos de periodismo. De esta manera, los conceptos de \emph{periodismo militante} versus \emph{periodismo independiente} reciben en este trabajo, su bautismo académico.
 
-Unos meses más tarde, \textcite{@ARRUETA2013IDENTIDADES}{Arrueta (2012)} aborda también este conflicto, poniéndole nombre a las formas de periodismo enfrentadas \rdm{\emph{periodismo corporativo} y \emph{periodismo militante}} y rastrea su historia conceptual en el país. Más adelante, continúa con esta búsqueda y aborda los aspectos identitarios del campo periodístico en el proceso de relación con las empresas de medios.
+Unos meses más tarde, \textcite{@ARRUETA2013IDENTIDADES} Arrueta (2012) aborda también este conflicto, poniéndole nombre a las formas de periodismo enfrentadas \rdm{\emph{periodismo corporativo} y \emph{periodismo militante}} y rastrea su historia conceptual en el país. Más adelante, continúa con esta búsqueda y aborda los aspectos identitarios del campo periodístico en el proceso de relación con las empresas de medios.
 
 En 2013, Stefoni publica un trabajo que pretende vincular el conflicto entre periodistas alrededor de los conceptos de \emph{militantes} y \emph{profesionales}, a partir de los principios deontológicos. A pesar del esfuerzo, el trabajo revela que los periodistas independientes son críticos del concepto de \emph{militante}, pero que los que se oponen a la idea de independencia, en tanto que consideran que todo periodismo es político, también son reacios a catalogar su lugar como el de \emph{periodistas militantes}.
 
@@ -444,7 +445,7 @@ Los últimos trabajos señalados muestran el interés por descubrir, en el confl
 
 Como señalaron desde hace tiempo distintos autores que abordaron la problemática, los medios masivos de comunicación se convirtieron en un actor significativo en el campo político y cultural (Borrat, 1989). A pesar de que algunos autores destacan su carácter de meros mediadores \rdm{probablemente como reacción a los primeros trabajos encuadrados en lo que Wolf (2004) denominó \emph{teoría hipodérmica}} desde mediados del siglo XX distintos autores dejaron claro el inmenso poder que los medios poseen en la conformación del sentido común, los modos de comprender la realidad y, consecuentemente, en la toma de decisiones de los integrantes de la sociedad en cuyo seno intervienen (Siebert y Peterson, 1967; Borrat, 1994; D`adamo, 2007).
 
-En esta tesis se pretende avanzar en el conocimiento de los procedimientos por medio de los cuales el campo periodístico procura legitimar la información de actualidad como verdadera, real u objetiva. En este sentido, el trabajo se inscribe en la perspectiva de la teoría crítica de la \emph{sociología de los emisores} (Wolf, 2004), no en tanto estudio de los procesos productivos de las noticias (\enquote{gatekeepers} o \enquote{newsmakers}), sino en la comprensión de algunos mecanismos por los cuales el campo periodístico transfiere legitimidad y verosimilitud a las realizaciones de sus integrantes. El conflicto al interior del campo promovió el desarrollo de un metaperiodismo o \emph{periodismo de periodistas,} plasmado en una abundante cantidad de artículos, programas televisivos, mesas de debate y libros. Especialmente en estos últimos se volcaron argumentos que los periodistas no suelen expresar en los medios.
+En esta tesis se pretende avanzar en el conocimiento de los procedimientos por medio de los cuales el campo periodístico procura legitimar la información de actualidad como verdadera, real u objetiva. En este sentido, el trabajo se inscribe en la perspectiva de la teoría crítica de la \emph{sociología de los emisores} (\textcite{@WOLF2004INVESTIGACION} Wolf, 2004), no en tanto estudio de los procesos productivos de las noticias (\enquote{gatekeepers} o \enquote{newsmakers}), sino en la comprensión de algunos mecanismos por los cuales el campo periodístico transfiere legitimidad y verosimilitud a las realizaciones de sus integrantes. El conflicto al interior del campo promovió el desarrollo de un metaperiodismo o \emph{periodismo de periodistas,} plasmado en una abundante cantidad de artículos, programas televisivos, mesas de debate y libros. Especialmente en estos últimos se volcaron argumentos que los periodistas no suelen expresar en los medios.
 
 Cuando iniciamos la investigación no éramos conscientes de que abordábamos una tarea poco explorada, como es el fenómeno del metaperiodismo. Descubrimos, a poco de andar, que no abundaban los trabajos que se centraran en el discurso de los periodistas sobre otros periodistas, su quehacer y los medios. Siguiendo a Meneses (2008; 2010), entendemos el metaperiodismo como aquella parte del discurso informativo con la que los periodistas y medios de comunicación se refieren a sí mismos, a los profesionales y circunstancias del campo periodístico, aportando su visión sobre la dinámica del sector y desentrañando las relaciones tejidas entre los periodistas, los medios y los demás actores sociales, y los enfrentamientos entre las facciones internas del periodismo.
 
@@ -472,7 +473,7 @@ Como muchos otros autores que abordan aspectos críticos del periodismo, Bourdie
 
 Nos apoyaremos en Bourdieu para el estudio de los campos, pero desde una perspectiva crítica en el caso del campo periodístico y aún de los demás, ya que en su análisis de los campos, entendemos que fue víctima de su propia ``creencia colectiva'' y no incorporó el vector de la ``opinión pública'' en el polígono de fuerzas de cada uno de los campos. En síntesis, Bourdieu descubre, tal vez demasiado tarde, el factor del periodismo operando en campos específicos del quehacer cultural. A los efectos de ordenar el análisis del campo periodístico, comenzaremos desde la teoría general que propone el autor.
 
-En \emph{Algunas propiedades de los campos}, Bourdieu (2008: 112) sostiene:
+En \emph{Algunas propiedades de los campos}, \textcite{@BOURDIEU2008CUESTIONES} Bourdieu (2008: 112) sostiene:
 
 \begin{quote}
 Los campos se presentan a la aprehensión sincrónica como espacios estructurados de posiciones (o de puestos) cuyas propiedades dependen de su posición en estos espacios y que pueden ser analizadas independientemente de las características de sus ocupantes (que en parte están determinadas por las posiciones).
@@ -496,7 +497,7 @@ La primera cuestión que abordaremos es: ¿qué está en juego? O bien: ¿qué i
 
 Así como Max Weber caracteriza a la Iglesia como aquella institución que detenta el monopolio de la manipulación de los bienes de salvación, podemos afirmar que el campo periodístico detenta el monopolio de la producción de actualidad. En tal sentido, sostenemos, de manera hipotética, que el campo periodístico disputa por el capital de la credibilidad, sostenida sobre tres ejes: independencia, libertad de expresión y establecimiento de lo que debe ser considerado significativo (la agenda de actualidad).
 
-Manuel Castells (1998: 48) apunta:
+\textcite{@HABERMAS1982TEORIA}Manuel Castells (1998: 48) apunta:
 
 \begin{quote}
 (\ldots) sin credibilidad, las noticias carecen de valor, ya sea en términos de dinero o de poder\ldots La credibilidad requiere una distancia relativa frente a las opciones políticas. Esta autonomía de los medios, arraigada en sus intereses comerciales, también encaja bien con la ideología de la profesión y con la legitimidad y la dignidad de los periodistas. Ellos informan, no toman partido (\ldots). El distanciamiento es la regla.
