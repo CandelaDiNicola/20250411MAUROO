@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.4)  24 JUN 2025 12:34
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.4)  24 JUN 2025 12:37
  restricted system commands enabled.
 **pdf-20250411MAUROO.tex
 (./pdf-20250411MAUROO.tex
@@ -6478,7 +6478,7 @@ _colorstack, 4 pdf_setmatrix, 4 pdf_save, 4 pdf_restore nodes
    avail lists: 1:12,2:276,3:210,4:42,5:202,6:23,7:3134,8:136,9:133,10:31,11:363
 
  86968 multiletter control sequences out of 65536+600000
- 102 fonts using 27878215 bytes
+ 102 fonts using 27878419 bytes
  117i,11n,123p,5845b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 warning  (pdf backend): unreferenced destination with name '_bookmark8'
