@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.4)  24 JUN 2025 13:08
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.4)  24 JUN 2025 23:57
  restricted system commands enabled.
 **pdf-20250411MAUROO.tex
 (./pdf-20250411MAUROO.tex
@@ -3982,15 +3982,15 @@ put `1' after `\a', since control sequence names are
 made up of letters only. The macro here has not been
 followed by the required stuff, so I'm ignoring it.
 
-LaTeX Info: Redefining \. on input line 681.
-LaTeX Info: Redefining \% on input line 681.
-LaTeX Info: Redefining \. on input line 681.
-LaTeX Info: Redefining \% on input line 681.
+LaTeX Info: Redefining \. on input line 679.
+LaTeX Info: Redefining \% on input line 679.
+LaTeX Info: Redefining \. on input line 679.
+LaTeX Info: Redefining \% on input line 679.
 [11]
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 689
-l.689 	\textbf{Circulación diarios pagos} & \textbf
+      ! LaTeX Error: Misplaced '=' in key-value input on line 687
+l.687 	\textbf{Circulación diarios pagos} & \textbf
                                                   {2010} & \textbf{2011} & \...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -3999,8 +3999,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 689
-l.689 ...n diarios pagos} & \textbf{2010} & \textbf
+      ! LaTeX Error: Misplaced '=' in key-value input on line 687
+l.687 ...n diarios pagos} & \textbf{2010} & \textbf
                                                   {2011} & \textbf{2012} & \...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4009,8 +4009,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 689
-l.689 ...} & \textbf{2010} & \textbf{2011} & \textbf
+      ! LaTeX Error: Misplaced '=' in key-value input on line 687
+l.687 ...} & \textbf{2010} & \textbf{2011} & \textbf
                                                   {2012} & \textbf{2013} & \...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4019,8 +4019,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 689
-l.689 ...} & \textbf{2011} & \textbf{2012} & \textbf
+      ! LaTeX Error: Misplaced '=' in key-value input on line 687
+l.687 ...} & \textbf{2011} & \textbf{2012} & \textbf
                                                   {2013} & \textbf{2014} & \...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4029,8 +4029,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 689
-l.689 ...} & \textbf{2012} & \textbf{2013} & \textbf
+      ! LaTeX Error: Misplaced '=' in key-value input on line 687
+l.687 ...} & \textbf{2012} & \textbf{2013} & \textbf
                                                   {2014} & \textbf{2015} & \...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4039,8 +4039,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 689
-l.689 ...} & \textbf{2013} & \textbf{2014} & \textbf
+      ! LaTeX Error: Misplaced '=' in key-value input on line 687
+l.687 ...} & \textbf{2013} & \textbf{2014} & \textbf
                                                   {2015} & \textbf{2016} & \...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4049,8 +4049,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 689
-l.689 ...} & \textbf{2014} & \textbf{2015} & \textbf
+      ! LaTeX Error: Misplaced '=' in key-value input on line 687
+l.687 ...} & \textbf{2014} & \textbf{2015} & \textbf
                                                   {2016} & \textbf{2017} & \...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4059,8 +4059,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 689
-l.689 ...} & \textbf{2015} & \textbf{2016} & \textbf
+      ! LaTeX Error: Misplaced '=' in key-value input on line 687
+l.687 ...} & \textbf{2015} & \textbf{2016} & \textbf
                                                   {2017} & \textbf{2018} & \...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4069,8 +4069,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 689
-l.689 ...} & \textbf{2016} & \textbf{2017} & \textbf
+      ! LaTeX Error: Misplaced '=' in key-value input on line 687
+l.687 ...} & \textbf{2016} & \textbf{2017} & \textbf
                                                   {2018} & \textbf{2019} & \...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4079,8 +4079,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 689
-l.689 ...} & \textbf{2017} & \textbf{2018} & \textbf
+      ! LaTeX Error: Misplaced '=' in key-value input on line 687
+l.687 ...} & \textbf{2017} & \textbf{2018} & \textbf
                                                   {2019} & \textbf{Dif .2010...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4089,8 +4089,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 689
-l.689 ...} & \textbf{2018} & \textbf{2019} & \textbf
+      ! LaTeX Error: Misplaced '=' in key-value input on line 687
+l.687 ...} & \textbf{2018} & \textbf{2019} & \textbf
                                                   {Dif .2010/2019} \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4099,8 +4099,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 691
-l.691 	Clarín & 3
+      ! LaTeX Error: Misplaced '=' in key-value input on line 689
+l.689 	Clarín & 3
                 01 & 288 & 271 & 279 & 239 & 238 & 207 & 183 & 206 & 213 & -...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4109,8 +4109,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 691
-l.691 	Clarín & 301 & 2
+      ! LaTeX Error: Misplaced '=' in key-value input on line 689
+l.689 	Clarín & 301 & 2
                       88 & 271 & 279 & 239 & 238 & 207 & 183 & 206 & 213 & -...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4119,8 +4119,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 691
-l.691 	Clarín & 301 & 288 & 2
+      ! LaTeX Error: Misplaced '=' in key-value input on line 689
+l.689 	Clarín & 301 & 288 & 2
                             71 & 279 & 239 & 238 & 207 & 183 & 206 & 213 & -...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4129,8 +4129,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 691
-l.691 	Clarín & 301 & 288 & 271 & 2
+      ! LaTeX Error: Misplaced '=' in key-value input on line 689
+l.689 	Clarín & 301 & 288 & 271 & 2
                                   79 & 239 & 238 & 207 & 183 & 206 & 213 & -...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4139,8 +4139,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 691
-l.691 	Clarín & 301 & 288 & 271 & 279 & 2
+      ! LaTeX Error: Misplaced '=' in key-value input on line 689
+l.689 	Clarín & 301 & 288 & 271 & 279 & 2
                                         39 & 238 & 207 & 183 & 206 & 213 & -...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4149,8 +4149,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 691
-l.691 	Clarín & 301 & 288 & 271 & 279 & 239 & 2
+      ! LaTeX Error: Misplaced '=' in key-value input on line 689
+l.689 	Clarín & 301 & 288 & 271 & 279 & 239 & 2
                                               38 & 207 & 183 & 206 & 213 & -...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4159,8 +4159,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 691
-l.691 ...ín & 301 & 288 & 271 & 279 & 239 & 238 & 2
+      ! LaTeX Error: Misplaced '=' in key-value input on line 689
+l.689 ...ín & 301 & 288 & 271 & 279 & 239 & 238 & 2
                                                   07 & 183 & 206 & 213 & -33 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4169,8 +4169,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 691
-l.691 ...301 & 288 & 271 & 279 & 239 & 238 & 207 & 1
+      ! LaTeX Error: Misplaced '=' in key-value input on line 689
+l.689 ...301 & 288 & 271 & 279 & 239 & 238 & 207 & 1
                                                   83 & 206 & 213 & -33 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4179,8 +4179,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 691
-l.691 ...288 & 271 & 279 & 239 & 238 & 207 & 183 & 2
+      ! LaTeX Error: Misplaced '=' in key-value input on line 689
+l.689 ...288 & 271 & 279 & 239 & 238 & 207 & 183 & 2
                                                   06 & 213 & -33 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4189,8 +4189,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 691
-l.691 ...271 & 279 & 239 & 238 & 207 & 183 & 206 & 2
+      ! LaTeX Error: Misplaced '=' in key-value input on line 689
+l.689 ...271 & 279 & 239 & 238 & 207 & 183 & 206 & 2
                                                   13 & -33 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4199,8 +4199,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 691
-l.691 ...279 & 239 & 238 & 207 & 183 & 206 & 213 & -
+      ! LaTeX Error: Misplaced '=' in key-value input on line 689
+l.689 ...279 & 239 & 238 & 207 & 183 & 206 & 213 & -
                                                   33 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4209,8 +4209,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 693
-l.693 	La Nación & 1
+      ! LaTeX Error: Misplaced '=' in key-value input on line 691
+l.691 	La Nación & 1
                    50 & 160 & 162 & 168 & 164 & 156 & 130 & 122 & 117 & 100 ...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4219,8 +4219,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 693
-l.693 	La Nación & 150 & 1
+      ! LaTeX Error: Misplaced '=' in key-value input on line 691
+l.691 	La Nación & 150 & 1
                          60 & 162 & 168 & 164 & 156 & 130 & 122 & 117 & 100 ...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4229,8 +4229,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 693
-l.693 	La Nación & 150 & 160 & 1
+      ! LaTeX Error: Misplaced '=' in key-value input on line 691
+l.691 	La Nación & 150 & 160 & 1
                                62 & 168 & 164 & 156 & 130 & 122 & 117 & 100 ...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4239,8 +4239,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 693
-l.693 	La Nación & 150 & 160 & 162 & 1
+      ! LaTeX Error: Misplaced '=' in key-value input on line 691
+l.691 	La Nación & 150 & 160 & 162 & 1
                                      68 & 164 & 156 & 130 & 122 & 117 & 100 ...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4249,8 +4249,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 693
-l.693 	La Nación & 150 & 160 & 162 & 168 & 1
+      ! LaTeX Error: Misplaced '=' in key-value input on line 691
+l.691 	La Nación & 150 & 160 & 162 & 168 & 1
                                            64 & 156 & 130 & 122 & 117 & 100 ...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4259,8 +4259,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 693
-l.693 	La Nación & 150 & 160 & 162 & 168 & 164 & 1
+      ! LaTeX Error: Misplaced '=' in key-value input on line 691
+l.691 	La Nación & 150 & 160 & 162 & 168 & 164 & 1
                                                  56 & 130 & 122 & 117 & 100 ...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4269,8 +4269,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 693
-l.693 ...ón & 150 & 160 & 162 & 168 & 164 & 156 & 1
+      ! LaTeX Error: Misplaced '=' in key-value input on line 691
+l.691 ...ón & 150 & 160 & 162 & 168 & 164 & 156 & 1
                                                   30 & 122 & 117 & 100 & -37 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4279,8 +4279,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 693
-l.693 ...150 & 160 & 162 & 168 & 164 & 156 & 130 & 1
+      ! LaTeX Error: Misplaced '=' in key-value input on line 691
+l.691 ...150 & 160 & 162 & 168 & 164 & 156 & 130 & 1
                                                   22 & 117 & 100 & -37 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4289,8 +4289,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 693
-l.693 ...160 & 162 & 168 & 164 & 156 & 130 & 122 & 1
+      ! LaTeX Error: Misplaced '=' in key-value input on line 691
+l.691 ...160 & 162 & 168 & 164 & 156 & 130 & 122 & 1
                                                   17 & 100 & -37 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4299,8 +4299,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 693
-l.693 ...162 & 168 & 164 & 156 & 130 & 122 & 117 & 1
+      ! LaTeX Error: Misplaced '=' in key-value input on line 691
+l.691 ...162 & 168 & 164 & 156 & 130 & 122 & 117 & 1
                                                   00 & -37 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4309,8 +4309,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 693
-l.693 ...168 & 164 & 156 & 130 & 122 & 117 & 100 & -
+      ! LaTeX Error: Misplaced '=' in key-value input on line 691
+l.691 ...168 & 164 & 156 & 130 & 122 & 117 & 100 & -
                                                   37 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4319,8 +4319,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 695
-l.695 	Diario Popular & 9
+      ! LaTeX Error: Misplaced '=' in key-value input on line 693
+l.693 	Diario Popular & 9
                        0 & 91 & 89 & 88 & 82 & 84 & 78 & 69 & 62 & 51 & -48 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4329,8 +4329,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 695
-l.695 	Diario Popular & 90 & 9
+      ! LaTeX Error: Misplaced '=' in key-value input on line 693
+l.693 	Diario Popular & 90 & 9
                             1 & 89 & 88 & 82 & 84 & 78 & 69 & 62 & 51 & -48 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4339,8 +4339,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 695
-l.695 	Diario Popular & 90 & 91 & 8
+      ! LaTeX Error: Misplaced '=' in key-value input on line 693
+l.693 	Diario Popular & 90 & 91 & 8
                                  9 & 88 & 82 & 84 & 78 & 69 & 62 & 51 & -48 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4349,8 +4349,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 695
-l.695 	Diario Popular & 90 & 91 & 89 & 8
+      ! LaTeX Error: Misplaced '=' in key-value input on line 693
+l.693 	Diario Popular & 90 & 91 & 89 & 8
                                       8 & 82 & 84 & 78 & 69 & 62 & 51 & -48 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4359,8 +4359,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 695
-l.695 	Diario Popular & 90 & 91 & 89 & 88 & 8
+      ! LaTeX Error: Misplaced '=' in key-value input on line 693
+l.693 	Diario Popular & 90 & 91 & 89 & 88 & 8
                                            2 & 84 & 78 & 69 & 62 & 51 & -48 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4369,8 +4369,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 695
-l.695 	Diario Popular & 90 & 91 & 89 & 88 & 82 & 8
+      ! LaTeX Error: Misplaced '=' in key-value input on line 693
+l.693 	Diario Popular & 90 & 91 & 89 & 88 & 82 & 8
                                                 4 & 78 & 69 & 62 & 51 & -48 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4379,8 +4379,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 695
-l.695 ...o Popular & 90 & 91 & 89 & 88 & 82 & 84 & 7
+      ! LaTeX Error: Misplaced '=' in key-value input on line 693
+l.693 ...o Popular & 90 & 91 & 89 & 88 & 82 & 84 & 7
                                                   8 & 69 & 62 & 51 & -48 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4389,8 +4389,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 695
-l.695 ...ular & 90 & 91 & 89 & 88 & 82 & 84 & 78 & 6
+      ! LaTeX Error: Misplaced '=' in key-value input on line 693
+l.693 ...ular & 90 & 91 & 89 & 88 & 82 & 84 & 78 & 6
                                                   9 & 62 & 51 & -48 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4399,8 +4399,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 695
-l.695 ...& 90 & 91 & 89 & 88 & 82 & 84 & 78 & 69 & 6
+      ! LaTeX Error: Misplaced '=' in key-value input on line 693
+l.693 ...& 90 & 91 & 89 & 88 & 82 & 84 & 78 & 69 & 6
                                                   2 & 51 & -48 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4409,8 +4409,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 695
-l.695 ...& 91 & 89 & 88 & 82 & 84 & 78 & 69 & 62 & 5
+      ! LaTeX Error: Misplaced '=' in key-value input on line 693
+l.693 ...& 91 & 89 & 88 & 82 & 84 & 78 & 69 & 62 & 5
                                                   1 & -48 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4419,8 +4419,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 695
-l.695 ...& 89 & 88 & 82 & 84 & 78 & 69 & 62 & 51 & -
+      ! LaTeX Error: Misplaced '=' in key-value input on line 693
+l.693 ...& 89 & 88 & 82 & 84 & 78 & 69 & 62 & 51 & -
                                                   48 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4429,8 +4429,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 706
-l.706 ...xtbf{Diario} & \textbf{Localidad} & \textbf
+      ! LaTeX Error: Misplaced '=' in key-value input on line 704
+l.704 ...xtbf{Diario} & \textbf{Localidad} & \textbf
                                                   {2010} & \textbf{2011} & \...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4439,8 +4439,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 706
-l.706 ...textbf{Localidad} & \textbf{2010} & \textbf
+      ! LaTeX Error: Misplaced '=' in key-value input on line 704
+l.704 ...textbf{Localidad} & \textbf{2010} & \textbf
                                                   {2011} & \textbf{2012} & \...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4449,8 +4449,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 706
-l.706 ...} & \textbf{2010} & \textbf{2011} & \textbf
+      ! LaTeX Error: Misplaced '=' in key-value input on line 704
+l.704 ...} & \textbf{2010} & \textbf{2011} & \textbf
                                                   {2012} & \textbf{2013} & \...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4459,8 +4459,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 706
-l.706 ...} & \textbf{2011} & \textbf{2012} & \textbf
+      ! LaTeX Error: Misplaced '=' in key-value input on line 704
+l.704 ...} & \textbf{2011} & \textbf{2012} & \textbf
                                                   {2013} & \textbf{2014} & \...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4469,8 +4469,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 706
-l.706 ...} & \textbf{2012} & \textbf{2013} & \textbf
+      ! LaTeX Error: Misplaced '=' in key-value input on line 704
+l.704 ...} & \textbf{2012} & \textbf{2013} & \textbf
                                                   {2014} & \textbf{2015} & \...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4479,8 +4479,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 706
-l.706 ...} & \textbf{2013} & \textbf{2014} & \textbf
+      ! LaTeX Error: Misplaced '=' in key-value input on line 704
+l.704 ...} & \textbf{2013} & \textbf{2014} & \textbf
                                                   {2015} & \textbf{2016} & \...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4489,8 +4489,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 706
-l.706 ...} & \textbf{2014} & \textbf{2015} & \textbf
+      ! LaTeX Error: Misplaced '=' in key-value input on line 704
+l.704 ...} & \textbf{2014} & \textbf{2015} & \textbf
                                                   {2016} & \textbf{2017} & \...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4499,8 +4499,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 706
-l.706 ...} & \textbf{2015} & \textbf{2016} & \textbf
+      ! LaTeX Error: Misplaced '=' in key-value input on line 704
+l.704 ...} & \textbf{2015} & \textbf{2016} & \textbf
                                                   {2017} & \textbf{2018} & \...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4509,8 +4509,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 706
-l.706 ...} & \textbf{2016} & \textbf{2017} & \textbf
+      ! LaTeX Error: Misplaced '=' in key-value input on line 704
+l.704 ...} & \textbf{2016} & \textbf{2017} & \textbf
                                                   {2018} & \textbf{2019} & \...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4519,8 +4519,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 706
-l.706 ...} & \textbf{2017} & \textbf{2018} & \textbf
+      ! LaTeX Error: Misplaced '=' in key-value input on line 704
+l.704 ...} & \textbf{2017} & \textbf{2018} & \textbf
                                                   {2019} & \textbf{Dif .2010...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4529,8 +4529,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 706
-l.706 ...} & \textbf{2018} & \textbf{2019} & \textbf
+      ! LaTeX Error: Misplaced '=' in key-value input on line 704
+l.704 ...} & \textbf{2018} & \textbf{2019} & \textbf
                                                   {Dif .2010/2019} \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4539,8 +4539,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 708
-l.708 		Clarín & AMBA & 6
+      ! LaTeX Error: Misplaced '=' in key-value input on line 706
+l.706 		Clarín & AMBA & 6
                         64 & 591 & 599 & 570 & 513 & 508 & 487 & 446 & 388 &...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4549,8 +4549,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 708
-l.708 		Clarín & AMBA & 664 & 5
+      ! LaTeX Error: Misplaced '=' in key-value input on line 706
+l.706 		Clarín & AMBA & 664 & 5
                               91 & 599 & 570 & 513 & 508 & 487 & 446 & 388 &...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4559,8 +4559,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 708
-l.708 		Clarín & AMBA & 664 & 591 & 5
+      ! LaTeX Error: Misplaced '=' in key-value input on line 706
+l.706 		Clarín & AMBA & 664 & 591 & 5
                                     99 & 570 & 513 & 508 & 487 & 446 & 388 &...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4569,8 +4569,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 708
-l.708 		Clarín & AMBA & 664 & 591 & 599 & 5
+      ! LaTeX Error: Misplaced '=' in key-value input on line 706
+l.706 		Clarín & AMBA & 664 & 591 & 599 & 5
                                           70 & 513 & 508 & 487 & 446 & 388 &...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4579,8 +4579,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 708
-l.708 		Clarín & AMBA & 664 & 591 & 599 & 570 & 5
+      ! LaTeX Error: Misplaced '=' in key-value input on line 706
+l.706 		Clarín & AMBA & 664 & 591 & 599 & 570 & 5
                                                 13 & 508 & 487 & 446 & 388 &...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4589,8 +4589,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 708
-l.708 ...n & AMBA & 664 & 591 & 599 & 570 & 513 & 5
+      ! LaTeX Error: Misplaced '=' in key-value input on line 706
+l.706 ...n & AMBA & 664 & 591 & 599 & 570 & 513 & 5
                                                   08 & 487 & 446 & 388 & 396...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4599,8 +4599,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 708
-l.708 ...MBA & 664 & 591 & 599 & 570 & 513 & 508 & 4
+      ! LaTeX Error: Misplaced '=' in key-value input on line 706
+l.706 ...MBA & 664 & 591 & 599 & 570 & 513 & 508 & 4
                                                   87 & 446 & 388 & 396 & -40 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4609,8 +4609,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 708
-l.708 ...664 & 591 & 599 & 570 & 513 & 508 & 487 & 4
+      ! LaTeX Error: Misplaced '=' in key-value input on line 706
+l.706 ...664 & 591 & 599 & 570 & 513 & 508 & 487 & 4
                                                   46 & 388 & 396 & -40 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4619,8 +4619,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 708
-l.708 ...591 & 599 & 570 & 513 & 508 & 487 & 446 & 3
+      ! LaTeX Error: Misplaced '=' in key-value input on line 706
+l.706 ...591 & 599 & 570 & 513 & 508 & 487 & 446 & 3
                                                   88 & 396 & -40 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4629,8 +4629,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 708
-l.708 ...599 & 570 & 513 & 508 & 487 & 446 & 388 & 3
+      ! LaTeX Error: Misplaced '=' in key-value input on line 706
+l.706 ...599 & 570 & 513 & 508 & 487 & 446 & 388 & 3
                                                   96 & -40 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4639,8 +4639,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 708
-l.708 ...570 & 513 & 508 & 487 & 446 & 388 & 396 & -
+      ! LaTeX Error: Misplaced '=' in key-value input on line 706
+l.706 ...570 & 513 & 508 & 487 & 446 & 388 & 396 & -
                                                   40 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4649,8 +4649,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 710
-l.710 		La Nación & AMBA & 2
+      ! LaTeX Error: Misplaced '=' in key-value input on line 708
+l.708 		La Nación & AMBA & 2
                            80 & 332 & 360 & 331 & 323 & 320 & 302 & 288 & 20...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4659,8 +4659,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 710
-l.710 		La Nación & AMBA & 280 & 3
+      ! LaTeX Error: Misplaced '=' in key-value input on line 708
+l.708 		La Nación & AMBA & 280 & 3
                                  32 & 360 & 331 & 323 & 320 & 302 & 288 & 20...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4669,8 +4669,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 710
-l.710 		La Nación & AMBA & 280 & 332 & 3
+      ! LaTeX Error: Misplaced '=' in key-value input on line 708
+l.708 		La Nación & AMBA & 280 & 332 & 3
                                        60 & 331 & 323 & 320 & 302 & 288 & 20...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4679,8 +4679,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 710
-l.710 		La Nación & AMBA & 280 & 332 & 360 & 3
+      ! LaTeX Error: Misplaced '=' in key-value input on line 708
+l.708 		La Nación & AMBA & 280 & 332 & 360 & 3
                                              31 & 323 & 320 & 302 & 288 & 20...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4689,8 +4689,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 710
-l.710 ... Nación & AMBA & 280 & 332 & 360 & 331 & 3
+      ! LaTeX Error: Misplaced '=' in key-value input on line 708
+l.708 ... Nación & AMBA & 280 & 332 & 360 & 331 & 3
                                                   23 & 320 & 302 & 288 & 209...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4699,8 +4699,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 710
-l.710 ...n & AMBA & 280 & 332 & 360 & 331 & 323 & 3
+      ! LaTeX Error: Misplaced '=' in key-value input on line 708
+l.708 ...n & AMBA & 280 & 332 & 360 & 331 & 323 & 3
                                                   20 & 302 & 288 & 209 & 201...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4709,8 +4709,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 710
-l.710 ...MBA & 280 & 332 & 360 & 331 & 323 & 320 & 3
+      ! LaTeX Error: Misplaced '=' in key-value input on line 708
+l.708 ...MBA & 280 & 332 & 360 & 331 & 323 & 320 & 3
                                                   02 & 288 & 209 & 201 & -28 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4719,8 +4719,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 710
-l.710 ...280 & 332 & 360 & 331 & 323 & 320 & 302 & 2
+      ! LaTeX Error: Misplaced '=' in key-value input on line 708
+l.708 ...280 & 332 & 360 & 331 & 323 & 320 & 302 & 2
                                                   88 & 209 & 201 & -28 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4729,8 +4729,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 710
-l.710 ...332 & 360 & 331 & 323 & 320 & 302 & 288 & 2
+      ! LaTeX Error: Misplaced '=' in key-value input on line 708
+l.708 ...332 & 360 & 331 & 323 & 320 & 302 & 288 & 2
                                                   09 & 201 & -28 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4739,8 +4739,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 710
-l.710 ...360 & 331 & 323 & 320 & 302 & 288 & 209 & 2
+      ! LaTeX Error: Misplaced '=' in key-value input on line 708
+l.708 ...360 & 331 & 323 & 320 & 302 & 288 & 209 & 2
                                                   01 & -28 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4749,8 +4749,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 710
-l.710 ...331 & 323 & 320 & 302 & 288 & 209 & 201 & -
+      ! LaTeX Error: Misplaced '=' in key-value input on line 708
+l.708 ...331 & 323 & 320 & 302 & 288 & 209 & 201 & -
                                                   28 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4759,8 +4759,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 712
-l.712 		Diario Popular & AMBA & 1
+      ! LaTeX Error: Misplaced '=' in key-value input on line 710
+l.710 		Diario Popular & AMBA & 1
                                47 & 131 & 135 & 131 & 120 & 118 & 106 & 95 &...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4769,8 +4769,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 712
-l.712 		Diario Popular & AMBA & 147 & 1
+      ! LaTeX Error: Misplaced '=' in key-value input on line 710
+l.710 		Diario Popular & AMBA & 147 & 1
                                      31 & 135 & 131 & 120 & 118 & 106 & 95 &...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4779,8 +4779,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 712
-l.712 		Diario Popular & AMBA & 147 & 131 & 1
+      ! LaTeX Error: Misplaced '=' in key-value input on line 710
+l.710 		Diario Popular & AMBA & 147 & 131 & 1
                                            35 & 131 & 120 & 118 & 106 & 95 &...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4789,8 +4789,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 712
-l.712 		Diario Popular & AMBA & 147 & 131 & 135 & 1
+      ! LaTeX Error: Misplaced '=' in key-value input on line 710
+l.710 		Diario Popular & AMBA & 147 & 131 & 135 & 1
                                                  31 & 120 & 118 & 106 & 95 &...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4799,8 +4799,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 712
-l.712 ... Popular & AMBA & 147 & 131 & 135 & 131 & 1
+      ! LaTeX Error: Misplaced '=' in key-value input on line 710
+l.710 ... Popular & AMBA & 147 & 131 & 135 & 131 & 1
                                                   20 & 118 & 106 & 95 & 85 &...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4809,8 +4809,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 712
-l.712 ...ar & AMBA & 147 & 131 & 135 & 131 & 120 & 1
+      ! LaTeX Error: Misplaced '=' in key-value input on line 710
+l.710 ...ar & AMBA & 147 & 131 & 135 & 131 & 120 & 1
                                                   18 & 106 & 95 & 85 & 73 & ...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4819,8 +4819,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 712
-l.712 ...MBA & 147 & 131 & 135 & 131 & 120 & 118 & 1
+      ! LaTeX Error: Misplaced '=' in key-value input on line 710
+l.710 ...MBA & 147 & 131 & 135 & 131 & 120 & 118 & 1
                                                   06 & 95 & 85 & 73 & -50 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4829,8 +4829,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 712
-l.712 ...147 & 131 & 135 & 131 & 120 & 118 & 106 & 9
+      ! LaTeX Error: Misplaced '=' in key-value input on line 710
+l.710 ...147 & 131 & 135 & 131 & 120 & 118 & 106 & 9
                                                   5 & 85 & 73 & -50 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4839,8 +4839,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 712
-l.712 ... 131 & 135 & 131 & 120 & 118 & 106 & 95 & 8
+      ! LaTeX Error: Misplaced '=' in key-value input on line 710
+l.710 ... 131 & 135 & 131 & 120 & 118 & 106 & 95 & 8
                                                   5 & 73 & -50 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4849,8 +4849,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 712
-l.712 ...& 135 & 131 & 120 & 118 & 106 & 95 & 85 & 7
+      ! LaTeX Error: Misplaced '=' in key-value input on line 710
+l.710 ...& 135 & 131 & 120 & 118 & 106 & 95 & 85 & 7
                                                   3 & -50 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4859,8 +4859,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 712
-l.712 ... & 131 & 120 & 118 & 106 & 95 & 85 & 73 & -
+      ! LaTeX Error: Misplaced '=' in key-value input on line 710
+l.710 ... & 131 & 120 & 118 & 106 & 95 & 85 & 73 & -
                                                   50 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4869,8 +4869,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 714
-l.714 		La Voz del Int & Córdoba & 9
+      ! LaTeX Error: Misplaced '=' in key-value input on line 712
+l.712 		La Voz del Int & Córdoba & 9
                                    9 & 90 & 90 & 84 & 81 & 118 & 73 & 66 & 5...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4879,8 +4879,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 714
-l.714 		La Voz del Int & Córdoba & 99 & 9
+      ! LaTeX Error: Misplaced '=' in key-value input on line 712
+l.712 		La Voz del Int & Córdoba & 99 & 9
                                         0 & 90 & 84 & 81 & 118 & 73 & 66 & 5...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4889,8 +4889,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 714
-l.714 		La Voz del Int & Córdoba & 99 & 90 & 9
+      ! LaTeX Error: Misplaced '=' in key-value input on line 712
+l.712 		La Voz del Int & Córdoba & 99 & 90 & 9
                                              0 & 84 & 81 & 118 & 73 & 66 & 5...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4899,8 +4899,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 714
-l.714 		La Voz del Int & Córdoba & 99 & 90 & 90 & 8
+      ! LaTeX Error: Misplaced '=' in key-value input on line 712
+l.712 		La Voz del Int & Córdoba & 99 & 90 & 90 & 8
                                                   4 & 81 & 118 & 73 & 66 & 5...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4909,8 +4909,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 714
-l.714 ... del Int & Córdoba & 99 & 90 & 90 & 84 & 8
+      ! LaTeX Error: Misplaced '=' in key-value input on line 712
+l.712 ... del Int & Córdoba & 99 & 90 & 90 & 84 & 8
                                                   1 & 118 & 73 & 66 & 59 & 5...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4919,8 +4919,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 714
-l.714 ...Int & Córdoba & 99 & 90 & 90 & 84 & 81 & 1
+      ! LaTeX Error: Misplaced '=' in key-value input on line 712
+l.712 ...Int & Córdoba & 99 & 90 & 90 & 84 & 81 & 1
                                                   18 & 73 & 66 & 59 & 53 & -...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4929,8 +4929,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 714
-l.714 ...Córdoba & 99 & 90 & 90 & 84 & 81 & 118 & 7
+      ! LaTeX Error: Misplaced '=' in key-value input on line 712
+l.712 ...Córdoba & 99 & 90 & 90 & 84 & 81 & 118 & 7
                                                   3 & 66 & 59 & 53 & -46 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4939,8 +4939,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 714
-l.714 ...oba & 99 & 90 & 90 & 84 & 81 & 118 & 73 & 6
+      ! LaTeX Error: Misplaced '=' in key-value input on line 712
+l.712 ...oba & 99 & 90 & 90 & 84 & 81 & 118 & 73 & 6
                                                   6 & 59 & 53 & -46 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4949,8 +4949,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 714
-l.714 ... 99 & 90 & 90 & 84 & 81 & 118 & 73 & 66 & 5
+      ! LaTeX Error: Misplaced '=' in key-value input on line 712
+l.712 ... 99 & 90 & 90 & 84 & 81 & 118 & 73 & 66 & 5
                                                   9 & 53 & -46 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4959,8 +4959,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 714
-l.714 ... 90 & 90 & 84 & 81 & 118 & 73 & 66 & 59 & 5
+      ! LaTeX Error: Misplaced '=' in key-value input on line 712
+l.712 ... 90 & 90 & 84 & 81 & 118 & 73 & 66 & 59 & 5
                                                   3 & -46 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4969,8 +4969,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 714
-l.714 ... 90 & 84 & 81 & 118 & 73 & 66 & 59 & 53 & -
+      ! LaTeX Error: Misplaced '=' in key-value input on line 712
+l.712 ... 90 & 84 & 81 & 118 & 73 & 66 & 59 & 53 & -
                                                   46 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4979,8 +4979,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 716
-l.716 		Los Andes & Mendoza & 8
+      ! LaTeX Error: Misplaced '=' in key-value input on line 714
+l.714 		Los Andes & Mendoza & 8
                              3 & 78 & 77 & 73 & 68 & 65 & 57 & 52 & 49 & 43 ...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4989,8 +4989,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 716
-l.716 		Los Andes & Mendoza & 83 & 7
+      ! LaTeX Error: Misplaced '=' in key-value input on line 714
+l.714 		Los Andes & Mendoza & 83 & 7
                                   8 & 77 & 73 & 68 & 65 & 57 & 52 & 49 & 43 ...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -4999,8 +4999,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 716
-l.716 		Los Andes & Mendoza & 83 & 78 & 7
+      ! LaTeX Error: Misplaced '=' in key-value input on line 714
+l.714 		Los Andes & Mendoza & 83 & 78 & 7
                                        7 & 73 & 68 & 65 & 57 & 52 & 49 & 43 ...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5009,8 +5009,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 716
-l.716 		Los Andes & Mendoza & 83 & 78 & 77 & 7
+      ! LaTeX Error: Misplaced '=' in key-value input on line 714
+l.714 		Los Andes & Mendoza & 83 & 78 & 77 & 7
                                             3 & 68 & 65 & 57 & 52 & 49 & 43 ...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5019,8 +5019,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 716
-l.716 		Los Andes & Mendoza & 83 & 78 & 77 & 73 & 6
+      ! LaTeX Error: Misplaced '=' in key-value input on line 714
+l.714 		Los Andes & Mendoza & 83 & 78 & 77 & 73 & 6
                                                  8 & 65 & 57 & 52 & 49 & 43 ...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5029,8 +5029,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 716
-l.716 ...ndes & Mendoza & 83 & 78 & 77 & 73 & 68 & 6
+      ! LaTeX Error: Misplaced '=' in key-value input on line 714
+l.714 ...ndes & Mendoza & 83 & 78 & 77 & 73 & 68 & 6
                                                   5 & 57 & 52 & 49 & 43 & -4...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5039,8 +5039,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 716
-l.716 ...& Mendoza & 83 & 78 & 77 & 73 & 68 & 65 & 5
+      ! LaTeX Error: Misplaced '=' in key-value input on line 714
+l.714 ...& Mendoza & 83 & 78 & 77 & 73 & 68 & 65 & 5
                                                   7 & 52 & 49 & 43 & -48 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5049,8 +5049,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 716
-l.716 ...doza & 83 & 78 & 77 & 73 & 68 & 65 & 57 & 5
+      ! LaTeX Error: Misplaced '=' in key-value input on line 714
+l.714 ...doza & 83 & 78 & 77 & 73 & 68 & 65 & 57 & 5
                                                   2 & 49 & 43 & -48 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5059,8 +5059,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 716
-l.716 ...& 83 & 78 & 77 & 73 & 68 & 65 & 57 & 52 & 4
+      ! LaTeX Error: Misplaced '=' in key-value input on line 714
+l.714 ...& 83 & 78 & 77 & 73 & 68 & 65 & 57 & 52 & 4
                                                   9 & 43 & -48 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5069,8 +5069,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 716
-l.716 ...& 78 & 77 & 73 & 68 & 65 & 57 & 52 & 49 & 4
+      ! LaTeX Error: Misplaced '=' in key-value input on line 714
+l.714 ...& 78 & 77 & 73 & 68 & 65 & 57 & 52 & 49 & 4
                                                   3 & -48 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5079,8 +5079,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 716
-l.716 ...& 77 & 73 & 68 & 65 & 57 & 52 & 49 & 43 & -
+      ! LaTeX Error: Misplaced '=' in key-value input on line 714
+l.714 ...& 77 & 73 & 68 & 65 & 57 & 52 & 49 & 43 & -
                                                   48 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5089,8 +5089,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 718
-l.718 		La Capital & Rosario & 8
+      ! LaTeX Error: Misplaced '=' in key-value input on line 716
+l.716 		La Capital & Rosario & 8
                               2 & 80 & 76 & 67 & 62 & 56 & 47 & 41 & 36 & 30...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5099,8 +5099,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 718
-l.718 		La Capital & Rosario & 82 & 8
+      ! LaTeX Error: Misplaced '=' in key-value input on line 716
+l.716 		La Capital & Rosario & 82 & 8
                                    0 & 76 & 67 & 62 & 56 & 47 & 41 & 36 & 30...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5109,8 +5109,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 718
-l.718 		La Capital & Rosario & 82 & 80 & 7
+      ! LaTeX Error: Misplaced '=' in key-value input on line 716
+l.716 		La Capital & Rosario & 82 & 80 & 7
                                         6 & 67 & 62 & 56 & 47 & 41 & 36 & 30...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5119,8 +5119,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 718
-l.718 		La Capital & Rosario & 82 & 80 & 76 & 6
+      ! LaTeX Error: Misplaced '=' in key-value input on line 716
+l.716 		La Capital & Rosario & 82 & 80 & 76 & 6
                                              7 & 62 & 56 & 47 & 41 & 36 & 30...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5129,8 +5129,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 718
-l.718 		La Capital & Rosario & 82 & 80 & 76 & 67 & 6
+      ! LaTeX Error: Misplaced '=' in key-value input on line 716
+l.716 		La Capital & Rosario & 82 & 80 & 76 & 67 & 6
                                                   2 & 56 & 47 & 41 & 36 & 30...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5139,8 +5139,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 718
-l.718 ...ital & Rosario & 82 & 80 & 76 & 67 & 62 & 5
+      ! LaTeX Error: Misplaced '=' in key-value input on line 716
+l.716 ...ital & Rosario & 82 & 80 & 76 & 67 & 62 & 5
                                                   6 & 47 & 41 & 36 & 30 & -6...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5149,8 +5149,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 718
-l.718 ...& Rosario & 82 & 80 & 76 & 67 & 62 & 56 & 4
+      ! LaTeX Error: Misplaced '=' in key-value input on line 716
+l.716 ...& Rosario & 82 & 80 & 76 & 67 & 62 & 56 & 4
                                                   7 & 41 & 36 & 30 & -63 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5159,8 +5159,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 718
-l.718 ...ario & 82 & 80 & 76 & 67 & 62 & 56 & 47 & 4
+      ! LaTeX Error: Misplaced '=' in key-value input on line 716
+l.716 ...ario & 82 & 80 & 76 & 67 & 62 & 56 & 47 & 4
                                                   1 & 36 & 30 & -63 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5169,8 +5169,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 718
-l.718 ...& 82 & 80 & 76 & 67 & 62 & 56 & 47 & 41 & 3
+      ! LaTeX Error: Misplaced '=' in key-value input on line 716
+l.716 ...& 82 & 80 & 76 & 67 & 62 & 56 & 47 & 41 & 3
                                                   6 & 30 & -63 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5179,8 +5179,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 718
-l.718 ...& 80 & 76 & 67 & 62 & 56 & 47 & 41 & 36 & 3
+      ! LaTeX Error: Misplaced '=' in key-value input on line 716
+l.716 ...& 80 & 76 & 67 & 62 & 56 & 47 & 41 & 36 & 3
                                                   0 & -63 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5189,8 +5189,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 718
-l.718 ...& 76 & 67 & 62 & 56 & 47 & 41 & 36 & 30 & -
+      ! LaTeX Error: Misplaced '=' in key-value input on line 716
+l.716 ...& 76 & 67 & 62 & 56 & 47 & 41 & 36 & 30 & -
                                                   63 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5199,8 +5199,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 720
-l.720 		La Gaceta & Tucumán & 6
+      ! LaTeX Error: Misplaced '=' in key-value input on line 718
+l.718 		La Gaceta & Tucumán & 6
                               1 & 62 & 60 & 56 & 56 & 55 & 49 & 45 & 40 & 34...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5209,8 +5209,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 720
-l.720 		La Gaceta & Tucumán & 61 & 6
+      ! LaTeX Error: Misplaced '=' in key-value input on line 718
+l.718 		La Gaceta & Tucumán & 61 & 6
                                    2 & 60 & 56 & 56 & 55 & 49 & 45 & 40 & 34...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5219,8 +5219,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 720
-l.720 		La Gaceta & Tucumán & 61 & 62 & 6
+      ! LaTeX Error: Misplaced '=' in key-value input on line 718
+l.718 		La Gaceta & Tucumán & 61 & 62 & 6
                                         0 & 56 & 56 & 55 & 49 & 45 & 40 & 34...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5229,8 +5229,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 720
-l.720 		La Gaceta & Tucumán & 61 & 62 & 60 & 5
+      ! LaTeX Error: Misplaced '=' in key-value input on line 718
+l.718 		La Gaceta & Tucumán & 61 & 62 & 60 & 5
                                              6 & 56 & 55 & 49 & 45 & 40 & 34...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5239,8 +5239,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 720
-l.720 		La Gaceta & Tucumán & 61 & 62 & 60 & 56 & 5
+      ! LaTeX Error: Misplaced '=' in key-value input on line 718
+l.718 		La Gaceta & Tucumán & 61 & 62 & 60 & 56 & 5
                                                   6 & 55 & 49 & 45 & 40 & 34...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5249,8 +5249,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 720
-l.720 ...eta & Tucumán & 61 & 62 & 60 & 56 & 56 & 5
+      ! LaTeX Error: Misplaced '=' in key-value input on line 718
+l.718 ...eta & Tucumán & 61 & 62 & 60 & 56 & 56 & 5
                                                   5 & 49 & 45 & 40 & 34 & -4...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5259,8 +5259,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 720
-l.720 ... Tucumán & 61 & 62 & 60 & 56 & 56 & 55 & 4
+      ! LaTeX Error: Misplaced '=' in key-value input on line 718
+l.718 ... Tucumán & 61 & 62 & 60 & 56 & 56 & 55 & 4
                                                   9 & 45 & 40 & 34 & -44 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5269,8 +5269,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 720
-l.720 ...mán & 61 & 62 & 60 & 56 & 56 & 55 & 49 & 4
+      ! LaTeX Error: Misplaced '=' in key-value input on line 718
+l.718 ...mán & 61 & 62 & 60 & 56 & 56 & 55 & 49 & 4
                                                   5 & 40 & 34 & -44 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5279,8 +5279,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 720
-l.720 ...& 61 & 62 & 60 & 56 & 56 & 55 & 49 & 45 & 4
+      ! LaTeX Error: Misplaced '=' in key-value input on line 718
+l.718 ...& 61 & 62 & 60 & 56 & 56 & 55 & 49 & 45 & 4
                                                   0 & 34 & -44 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5289,8 +5289,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 720
-l.720 ...& 62 & 60 & 56 & 56 & 55 & 49 & 45 & 40 & 3
+      ! LaTeX Error: Misplaced '=' in key-value input on line 718
+l.718 ...& 62 & 60 & 56 & 56 & 55 & 49 & 45 & 40 & 3
                                                   4 & -44 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5299,8 +5299,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 720
-l.720 ...& 60 & 56 & 56 & 55 & 49 & 45 & 40 & 34 & -
+      ! LaTeX Error: Misplaced '=' in key-value input on line 718
+l.718 ...& 60 & 56 & 56 & 55 & 49 & 45 & 40 & 34 & -
                                                   44 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5309,8 +5309,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 722
-l.722 		Río Negro & Gral. Roca & 4
+      ! LaTeX Error: Misplaced '=' in key-value input on line 720
+l.720 		Río Negro & Gral. Roca & 4
                                  5 & 44 & 42 & 36 & 35 & 35 & 32 & 28 & 26 &...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5319,8 +5319,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 722
-l.722 		Río Negro & Gral. Roca & 45 & 4
+      ! LaTeX Error: Misplaced '=' in key-value input on line 720
+l.720 		Río Negro & Gral. Roca & 45 & 4
                                       4 & 42 & 36 & 35 & 35 & 32 & 28 & 26 &...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5329,8 +5329,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 722
-l.722 		Río Negro & Gral. Roca & 45 & 44 & 4
+      ! LaTeX Error: Misplaced '=' in key-value input on line 720
+l.720 		Río Negro & Gral. Roca & 45 & 44 & 4
                                            2 & 36 & 35 & 35 & 32 & 28 & 26 &...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5339,8 +5339,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 722
-l.722 		Río Negro & Gral. Roca & 45 & 44 & 42 & 3
+      ! LaTeX Error: Misplaced '=' in key-value input on line 720
+l.720 		Río Negro & Gral. Roca & 45 & 44 & 42 & 3
                                                 6 & 35 & 35 & 32 & 28 & 26 &...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5349,8 +5349,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 722
-l.722 ... Negro & Gral. Roca & 45 & 44 & 42 & 36 & 3
+      ! LaTeX Error: Misplaced '=' in key-value input on line 720
+l.720 ... Negro & Gral. Roca & 45 & 44 & 42 & 36 & 3
                                                   5 & 35 & 32 & 28 & 26 & 21...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5359,8 +5359,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 722
-l.722 ...o & Gral. Roca & 45 & 44 & 42 & 36 & 35 & 3
+      ! LaTeX Error: Misplaced '=' in key-value input on line 720
+l.720 ...o & Gral. Roca & 45 & 44 & 42 & 36 & 35 & 3
                                                   5 & 32 & 28 & 26 & 21 & -5...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5369,8 +5369,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 722
-l.722 ...ral. Roca & 45 & 44 & 42 & 36 & 35 & 35 & 3
+      ! LaTeX Error: Misplaced '=' in key-value input on line 720
+l.720 ...ral. Roca & 45 & 44 & 42 & 36 & 35 & 35 & 3
                                                   2 & 28 & 26 & 21 & -53 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5379,8 +5379,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 722
-l.722 ...Roca & 45 & 44 & 42 & 36 & 35 & 35 & 32 & 2
+      ! LaTeX Error: Misplaced '=' in key-value input on line 720
+l.720 ...Roca & 45 & 44 & 42 & 36 & 35 & 35 & 32 & 2
                                                   8 & 26 & 21 & -53 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5389,8 +5389,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 722
-l.722 ...& 45 & 44 & 42 & 36 & 35 & 35 & 32 & 28 & 2
+      ! LaTeX Error: Misplaced '=' in key-value input on line 720
+l.720 ...& 45 & 44 & 42 & 36 & 35 & 35 & 32 & 28 & 2
                                                   6 & 21 & -53 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5399,8 +5399,8 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 722
-l.722 ...& 44 & 42 & 36 & 35 & 35 & 32 & 28 & 26 & 2
+      ! LaTeX Error: Misplaced '=' in key-value input on line 720
+l.720 ...& 44 & 42 & 36 & 35 & 35 & 32 & 28 & 26 & 2
                                                   1 & -53 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -5409,998 +5409,1378 @@ followed by the required stuff, so I'm ignoring it.
 
 ! Use of \??? doesn't match its definition.
 <argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 722
-l.722 ...& 42 & 36 & 35 & 35 & 32 & 28 & 26 & 21 & -
+      ! LaTeX Error: Misplaced '=' in key-value input on line 720
+l.720 ...& 42 & 36 & 35 & 35 & 32 & 28 & 26 & 21 & -
                                                   53 \\
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
 made up of letters only. The macro here has not been
 followed by the required stuff, so I'm ignoring it.
 
-LaTeX Info: Redefining \. on input line 735.
-LaTeX Info: Redefining \% on input line 735.
-LaTeX Info: Redefining \. on input line 735.
-LaTeX Info: Redefining \% on input line 735.
+LaTeX Info: Redefining \. on input line 733.
+LaTeX Info: Redefining \% on input line 733.
+LaTeX Info: Redefining \. on input line 733.
+LaTeX Info: Redefining \% on input line 733.
 [12]
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/it' will be
-(Font)              scaled to size 9.81033pt on input line 739.
-LaTeX Info: Redefining \. on input line 746.
-LaTeX Info: Redefining \% on input line 746.
-LaTeX Info: Redefining \. on input line 746.
-LaTeX Info: Redefining \% on input line 746.
+(Font)              scaled to size 9.81033pt on input line 737.
+LaTeX Info: Redefining \. on input line 744.
+LaTeX Info: Redefining \% on input line 744.
+LaTeX Info: Redefining \. on input line 744.
+LaTeX Info: Redefining \% on input line 744.
  [13]
-LaTeX Info: Redefining \. on input line 763.
-LaTeX Info: Redefining \% on input line 763.
-LaTeX Info: Redefining \. on input line 763.
-LaTeX Info: Redefining \% on input line 763.
- [14]
-LaTeX Info: Redefining \. on input line 777.
-LaTeX Info: Redefining \% on input line 777.
-LaTeX Info: Redefining \. on input line 777.
-LaTeX Info: Redefining \% on input line 777.
+
+LaTeX Warning: Citation '@7013-HUMPHREYS2008' on page 14 undefined on input lin
+e 749.
+
+LaTeX Info: Redefining \. on input line 761.
+LaTeX Info: Redefining \% on input line 761.
+LaTeX Info: Redefining \. on input line 761.
+LaTeX Info: Redefining \% on input line 761.
+[14]
+LaTeX Info: Redefining \. on input line 775.
+LaTeX Info: Redefining \% on input line 775.
+LaTeX Info: Redefining \. on input line 775.
+LaTeX Info: Redefining \% on input line 775.
  [15]
 
 LaTeX Warning: Citation '@7064-WINAZKI2000' on page 16 undefined on input line 
-782.
+780.
 
-LaTeX Info: Redefining \. on input line 783.
-LaTeX Info: Redefining \% on input line 783.
-LaTeX Info: Redefining \. on input line 783.
-LaTeX Info: Redefining \% on input line 783.
+LaTeX Info: Redefining \. on input line 781.
+LaTeX Info: Redefining \% on input line 781.
+LaTeX Info: Redefining \. on input line 781.
+LaTeX Info: Redefining \% on input line 781.
 [16]
-LaTeX Info: Redefining \. on input line 795.
-LaTeX Info: Redefining \% on input line 795.
-LaTeX Info: Redefining \. on input line 795.
-LaTeX Info: Redefining \% on input line 795.
+LaTeX Info: Redefining \. on input line 793.
+LaTeX Info: Redefining \% on input line 793.
+LaTeX Info: Redefining \. on input line 793.
+LaTeX Info: Redefining \% on input line 793.
  [17]
-LaTeX Info: Redefining \. on input line 819.
-LaTeX Info: Redefining \% on input line 819.
-LaTeX Info: Redefining \. on input line 819.
-LaTeX Info: Redefining \% on input line 819.
+LaTeX Info: Redefining \. on input line 817.
+LaTeX Info: Redefining \% on input line 817.
+LaTeX Info: Redefining \. on input line 817.
+LaTeX Info: Redefining \% on input line 817.
  [18]
-LaTeX Info: Redefining \. on input line 829.
-LaTeX Info: Redefining \% on input line 829.
-LaTeX Info: Redefining \. on input line 829.
-LaTeX Info: Redefining \% on input line 829.
+LaTeX Info: Redefining \. on input line 827.
+LaTeX Info: Redefining \% on input line 827.
+LaTeX Info: Redefining \. on input line 827.
+LaTeX Info: Redefining \% on input line 827.
  [19]
-LaTeX Info: Redefining \. on input line 837.
-LaTeX Info: Redefining \% on input line 837.
-LaTeX Info: Redefining \. on input line 837.
-LaTeX Info: Redefining \% on input line 837.
+LaTeX Info: Redefining \. on input line 835.
+LaTeX Info: Redefining \% on input line 835.
+LaTeX Info: Redefining \. on input line 835.
+LaTeX Info: Redefining \% on input line 835.
  [20]
 Capítulo 2.
-Package biblatex Info: Resetting trackers on input line 837.
-LaTeX Info: Redefining \. on input line 848.
-LaTeX Info: Redefining \% on input line 848.
-LaTeX Info: Redefining \. on input line 848.
-LaTeX Info: Redefining \% on input line 848.
+Package biblatex Info: Resetting trackers on input line 835.
+
+LaTeX Warning: Citation '@7065-WOLF2004' on page 21 undefined on input line 839
+.
+
+LaTeX Info: Redefining \. on input line 846.
+LaTeX Info: Redefining \% on input line 846.
+LaTeX Info: Redefining \. on input line 846.
+LaTeX Info: Redefining \% on input line 846.
 [21
 
 ]
-LaTeX Info: Redefining \. on input line 856.
-LaTeX Info: Redefining \% on input line 856.
-LaTeX Info: Redefining \. on input line 856.
-LaTeX Info: Redefining \% on input line 856.
+LaTeX Info: Redefining \. on input line 854.
+LaTeX Info: Redefining \% on input line 854.
+LaTeX Info: Redefining \. on input line 854.
+LaTeX Info: Redefining \% on input line 854.
  [22]
 
 LaTeX Warning: Citation '@6974-BELIZ1998' on page 23 undefined on input line 85
-7.
+5.
 
-LaTeX Info: Redefining \. on input line 864.
-LaTeX Info: Redefining \% on input line 864.
-LaTeX Info: Redefining \. on input line 864.
-LaTeX Info: Redefining \% on input line 864.
+LaTeX Info: Redefining \. on input line 862.
+LaTeX Info: Redefining \% on input line 862.
+LaTeX Info: Redefining \. on input line 862.
+LaTeX Info: Redefining \% on input line 862.
 [23]
 
 LaTeX Warning: Citation '@6967-CESAR2013' on page 24 undefined on input line 86
-7.
+5.
 
 
 LaTeX Warning: Citation '@7056-STEFONI2013' on page 24 undefined on input line 
-872.
+870.
 
-LaTeX Info: Redefining \. on input line 873.
-LaTeX Info: Redefining \% on input line 873.
-LaTeX Info: Redefining \. on input line 873.
-LaTeX Info: Redefining \% on input line 873.
+LaTeX Info: Redefining \. on input line 871.
+LaTeX Info: Redefining \% on input line 871.
+LaTeX Info: Redefining \. on input line 871.
+LaTeX Info: Redefining \% on input line 871.
 [24]
 
-LaTeX Warning: Citation '@7058-URE2014' on page 25 undefined on input line 875.
+LaTeX Warning: Citation '@7058-URE2014' on page 25 undefined on input line 873.
 
 
 
-LaTeX Warning: Citation '@7065-WOLF2004' on page 25 undefined on input line 883
+LaTeX Warning: Citation '@7065-WOLF2004' on page 25 undefined on input line 879
 .
 
-LaTeX Info: Redefining \. on input line 884.
-LaTeX Info: Redefining \% on input line 884.
-LaTeX Info: Redefining \. on input line 884.
-LaTeX Info: Redefining \% on input line 884.
+
+LaTeX Warning: Citation '@7065-WOLF2004' on page 25 undefined on input line 881
+.
+
+LaTeX Info: Redefining \. on input line 882.
+LaTeX Info: Redefining \% on input line 882.
+LaTeX Info: Redefining \. on input line 882.
+LaTeX Info: Redefining \% on input line 882.
 [25]
-LaTeX Info: Redefining \. on input line 900.
-LaTeX Info: Redefining \% on input line 900.
-LaTeX Info: Redefining \. on input line 900.
-LaTeX Info: Redefining \% on input line 900.
- [26]
-LaTeX Info: Redefining \. on input line 907.
-LaTeX Info: Redefining \% on input line 907.
-LaTeX Info: Redefining \. on input line 907.
-LaTeX Info: Redefining \% on input line 907.
- [27]
-LaTeX Info: Redefining \. on input line 927.
-LaTeX Info: Redefining \% on input line 927.
-LaTeX Info: Redefining \. on input line 927.
-LaTeX Info: Redefining \% on input line 927.
- [28]
-LaTeX Info: Redefining \. on input line 947.
-LaTeX Info: Redefining \% on input line 947.
-LaTeX Info: Redefining \. on input line 947.
-LaTeX Info: Redefining \% on input line 947.
- [29]
-LaTeX Info: Redefining \. on input line 958.
-LaTeX Info: Redefining \% on input line 958.
-LaTeX Info: Redefining \. on input line 958.
-LaTeX Info: Redefining \% on input line 958.
+
+LaTeX Warning: Citation '@7027-MENESESFERNANDEZ2008' on page 26 undefined on in
+put line 883.
+
+
+LaTeX Warning: Citation '@7026-MENESESFERNANDEZ2010' on page 26 undefined on in
+put line 886.
+
+LaTeX Info: Redefining \. on input line 897.
+LaTeX Info: Redefining \% on input line 897.
+LaTeX Info: Redefining \. on input line 897.
+LaTeX Info: Redefining \% on input line 897.
+[26]
+
+LaTeX Warning: Citation '@6984-BOURDIEU1997' on page 27 undefined on input line
+ 903.
+
+LaTeX Info: Redefining \. on input line 904.
+LaTeX Info: Redefining \% on input line 904.
+LaTeX Info: Redefining \. on input line 904.
+LaTeX Info: Redefining \% on input line 904.
+[27]
+
+LaTeX Warning: Citation '@6983-BOURDIEU2008' on page 28 undefined on input line
+ 909.
+
+LaTeX Info: Redefining \. on input line 923.
+LaTeX Info: Redefining \% on input line 923.
+LaTeX Info: Redefining \. on input line 923.
+LaTeX Info: Redefining \% on input line 923.
+[28]
+
+LaTeX Warning: Citation '@6983-BOURDIEU2008' on page 29 undefined on input line
+ 924.
+
+LaTeX Info: Redefining \. on input line 941.
+LaTeX Info: Redefining \% on input line 941.
+LaTeX Info: Redefining \. on input line 941.
+LaTeX Info: Redefining \% on input line 941.
+[29]
+LaTeX Info: Redefining \. on input line 955.
+LaTeX Info: Redefining \% on input line 955.
+LaTeX Info: Redefining \. on input line 955.
+LaTeX Info: Redefining \% on input line 955.
  [30]
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/it' will be
-(Font)              scaled to size 11.79993pt on input line 961.
-LaTeX Info: Redefining \. on input line 973.
-LaTeX Info: Redefining \% on input line 973.
-LaTeX Info: Redefining \. on input line 973.
-LaTeX Info: Redefining \% on input line 973.
+(Font)              scaled to size 11.79993pt on input line 959.
+LaTeX Info: Redefining \. on input line 971.
+LaTeX Info: Redefining \% on input line 971.
+LaTeX Info: Redefining \. on input line 971.
+LaTeX Info: Redefining \% on input line 971.
  [31]
-LaTeX Info: Redefining \. on input line 995.
-LaTeX Info: Redefining \% on input line 995.
-LaTeX Info: Redefining \. on input line 995.
-LaTeX Info: Redefining \% on input line 995.
+LaTeX Info: Redefining \. on input line 988.
+LaTeX Info: Redefining \% on input line 988.
+LaTeX Info: Redefining \. on input line 988.
+LaTeX Info: Redefining \% on input line 988.
  [32]
-LaTeX Info: Redefining \. on input line 1018.
-LaTeX Info: Redefining \% on input line 1018.
-LaTeX Info: Redefining \. on input line 1018.
-LaTeX Info: Redefining \% on input line 1018.
- [33]
-LaTeX Info: Redefining \. on input line 1027.
-LaTeX Info: Redefining \% on input line 1027.
-LaTeX Info: Redefining \. on input line 1027.
-LaTeX Info: Redefining \% on input line 1027.
+
+LaTeX Warning: Citation '@7060-VERON1987' on page 33 undefined on input line 99
+7.
+
+LaTeX Info: Redefining \. on input line 1013.
+LaTeX Info: Redefining \% on input line 1013.
+LaTeX Info: Redefining \. on input line 1013.
+LaTeX Info: Redefining \% on input line 1013.
+[33]
+LaTeX Info: Redefining \. on input line 1020.
+LaTeX Info: Redefining \% on input line 1020.
+LaTeX Info: Redefining \. on input line 1020.
+LaTeX Info: Redefining \% on input line 1020.
  [34]
-LaTeX Info: Redefining \. on input line 1055.
-LaTeX Info: Redefining \% on input line 1055.
-LaTeX Info: Redefining \. on input line 1055.
-LaTeX Info: Redefining \% on input line 1055.
+LaTeX Info: Redefining \. on input line 1045.
+LaTeX Info: Redefining \% on input line 1045.
+LaTeX Info: Redefining \. on input line 1045.
+LaTeX Info: Redefining \% on input line 1045.
  [35]
-LaTeX Info: Redefining \. on input line 1064.
-LaTeX Info: Redefining \% on input line 1064.
-LaTeX Info: Redefining \. on input line 1064.
-LaTeX Info: Redefining \% on input line 1064.
- [36]
+Overfull \vbox (0.16118pt too high) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 1058.
+LaTeX Info: Redefining \% on input line 1058.
+LaTeX Info: Redefining \. on input line 1058.
+LaTeX Info: Redefining \% on input line 1058.
+
+[36]
 
 LaTeX Warning: Citation '@6983-BOURDIEU2008' on page 37 undefined on input line
- 1075.
+ 1073.
 
-LaTeX Info: Redefining \. on input line 1086.
-LaTeX Info: Redefining \% on input line 1086.
-LaTeX Info: Redefining \. on input line 1086.
-LaTeX Info: Redefining \% on input line 1086.
+LaTeX Info: Redefining \. on input line 1080.
+LaTeX Info: Redefining \% on input line 1080.
+LaTeX Info: Redefining \. on input line 1080.
+LaTeX Info: Redefining \% on input line 1080.
 [37]
-LaTeX Info: Redefining \. on input line 1092.
-LaTeX Info: Redefining \% on input line 1092.
-LaTeX Info: Redefining \. on input line 1092.
-LaTeX Info: Redefining \% on input line 1092.
- [38]
-LaTeX Info: Redefining \. on input line 1103.
-LaTeX Info: Redefining \% on input line 1103.
-LaTeX Info: Redefining \. on input line 1103.
-LaTeX Info: Redefining \% on input line 1103.
- [39]
-LaTeX Info: Redefining \. on input line 1111.
-LaTeX Info: Redefining \% on input line 1111.
-LaTeX Info: Redefining \. on input line 1111.
-LaTeX Info: Redefining \% on input line 1111.
+
+LaTeX Warning: Citation '@6984-BOURDIEU1997' on page 38 undefined on input line
+ 1083.
+
+
+LaTeX Warning: Citation '@6983-BOURDIEU2008' on page 38 undefined on input line
+ 1083.
+
+LaTeX Info: Redefining \. on input line 1089.
+LaTeX Info: Redefining \% on input line 1089.
+LaTeX Info: Redefining \. on input line 1089.
+LaTeX Info: Redefining \% on input line 1089.
+[38]
+
+LaTeX Warning: Citation '@7025-MAUSS2009' on page 39 undefined on input line 10
+89.
+
+LaTeX Info: Redefining \. on input line 1098.
+LaTeX Info: Redefining \% on input line 1098.
+LaTeX Info: Redefining \. on input line 1098.
+LaTeX Info: Redefining \% on input line 1098.
+[39]
+LaTeX Info: Redefining \. on input line 1107.
+LaTeX Info: Redefining \% on input line 1107.
+LaTeX Info: Redefining \. on input line 1107.
+LaTeX Info: Redefining \% on input line 1107.
  [40]
-LaTeX Info: Redefining \. on input line 1122.
-LaTeX Info: Redefining \% on input line 1122.
-LaTeX Info: Redefining \. on input line 1122.
-LaTeX Info: Redefining \% on input line 1122.
- [41]
+
+LaTeX Warning: Citation '@6970-FREDERIC1999' on page 41 undefined on input line
+ 1119.
+
+LaTeX Info: Redefining \. on input line 1120.
+LaTeX Info: Redefining \% on input line 1120.
+LaTeX Info: Redefining \. on input line 1120.
+LaTeX Info: Redefining \% on input line 1120.
+[41]
 
 LaTeX Warning: Citation '@6973-CARLOS2004' on page 42 undefined on input line 1
-123.
+121.
 
-LaTeX Info: Redefining \. on input line 1130.
-LaTeX Info: Redefining \% on input line 1130.
-LaTeX Info: Redefining \. on input line 1130.
-LaTeX Info: Redefining \% on input line 1130.
+
+Overfull \vbox (0.46121pt too high) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 1127.
+LaTeX Info: Redefining \% on input line 1127.
+LaTeX Info: Redefining \. on input line 1127.
+LaTeX Info: Redefining \% on input line 1127.
+
 [42]
-LaTeX Info: Redefining \. on input line 1141.
-LaTeX Info: Redefining \% on input line 1141.
-LaTeX Info: Redefining \. on input line 1141.
-LaTeX Info: Redefining \% on input line 1141.
+LaTeX Info: Redefining \. on input line 1137.
+LaTeX Info: Redefining \% on input line 1137.
+LaTeX Info: Redefining \. on input line 1137.
+LaTeX Info: Redefining \% on input line 1137.
  [43]
-LaTeX Info: Redefining \. on input line 1145.
-LaTeX Info: Redefining \% on input line 1145.
-LaTeX Info: Redefining \. on input line 1145.
-LaTeX Info: Redefining \% on input line 1145.
+LaTeX Info: Redefining \. on input line 1143.
+LaTeX Info: Redefining \% on input line 1143.
+LaTeX Info: Redefining \. on input line 1143.
+LaTeX Info: Redefining \% on input line 1143.
  [44]
+LaTeX Info: Redefining \. on input line 1143.
+LaTeX Info: Redefining \% on input line 1143.
+LaTeX Info: Redefining \. on input line 1143.
+LaTeX Info: Redefining \% on input line 1143.
+ [45
+
+] [46
+
+]
 Capítulo 3.
-Package biblatex Info: Resetting trackers on input line 1145.
-LaTeX Info: Redefining \. on input line 1156.
-LaTeX Info: Redefining \% on input line 1156.
-LaTeX Info: Redefining \. on input line 1156.
-LaTeX Info: Redefining \% on input line 1156.
-[45
+Package biblatex Info: Resetting trackers on input line 1143.
 
-]
-LaTeX Info: Redefining \. on input line 1166.
-LaTeX Info: Redefining \% on input line 1166.
-LaTeX Info: Redefining \. on input line 1166.
-LaTeX Info: Redefining \% on input line 1166.
- [46]
-LaTeX Info: Redefining \. on input line 1179.
-LaTeX Info: Redefining \% on input line 1179.
-LaTeX Info: Redefining \. on input line 1179.
-LaTeX Info: Redefining \% on input line 1179.
- [47]
-LaTeX Info: Redefining \. on input line 1200.
-LaTeX Info: Redefining \% on input line 1200.
-LaTeX Info: Redefining \. on input line 1200.
-LaTeX Info: Redefining \% on input line 1200.
+LaTeX Warning: Citation '@7040-OLIVAN2010' on page 47 undefined on input line 1
+151.
+
+LaTeX Info: Redefining \. on input line 1154.
+LaTeX Info: Redefining \% on input line 1154.
+LaTeX Info: Redefining \. on input line 1154.
+LaTeX Info: Redefining \% on input line 1154.
+[47]
+LaTeX Info: Redefining \. on input line 1164.
+LaTeX Info: Redefining \% on input line 1164.
+LaTeX Info: Redefining \. on input line 1164.
+LaTeX Info: Redefining \% on input line 1164.
  [48]
-LaTeX Info: Redefining \. on input line 1213.
-LaTeX Info: Redefining \% on input line 1213.
-LaTeX Info: Redefining \. on input line 1213.
-LaTeX Info: Redefining \% on input line 1213.
- [49]
-LaTeX Info: Redefining \. on input line 1222.
-LaTeX Info: Redefining \% on input line 1222.
-LaTeX Info: Redefining \. on input line 1222.
-LaTeX Info: Redefining \% on input line 1222.
- [50]
-LaTeX Info: Redefining \. on input line 1229.
-LaTeX Info: Redefining \% on input line 1229.
-LaTeX Info: Redefining \. on input line 1229.
-LaTeX Info: Redefining \% on input line 1229.
+
+LaTeX Warning: Citation '@7040-OLIVAN2010' on page 49 undefined on input line 1
+168.
+
+LaTeX Info: Redefining \. on input line 1177.
+LaTeX Info: Redefining \% on input line 1177.
+LaTeX Info: Redefining \. on input line 1177.
+LaTeX Info: Redefining \% on input line 1177.
+[49]
+
+LaTeX Warning: Citation '@7037-NOVARO2015' on page 50 undefined on input line 1
+197.
+
+LaTeX Info: Redefining \. on input line 1198.
+LaTeX Info: Redefining \% on input line 1198.
+LaTeX Info: Redefining \. on input line 1198.
+LaTeX Info: Redefining \% on input line 1198.
+[50]
+LaTeX Info: Redefining \. on input line 1211.
+LaTeX Info: Redefining \% on input line 1211.
+LaTeX Info: Redefining \. on input line 1211.
+LaTeX Info: Redefining \% on input line 1211.
  [51]
-LaTeX Info: Redefining \. on input line 1253.
-LaTeX Info: Redefining \% on input line 1253.
-LaTeX Info: Redefining \. on input line 1253.
-LaTeX Info: Redefining \% on input line 1253.
+LaTeX Info: Redefining \. on input line 1220.
+LaTeX Info: Redefining \% on input line 1220.
+LaTeX Info: Redefining \. on input line 1220.
+LaTeX Info: Redefining \% on input line 1220.
  [52]
-
-LaTeX Warning: Citation '@7052-SIRVEN2011' on page 53 undefined on input line 1
-282.
-
-LaTeX Info: Redefining \. on input line 1283.
-LaTeX Info: Redefining \% on input line 1283.
-LaTeX Info: Redefining \. on input line 1283.
-LaTeX Info: Redefining \% on input line 1283.
-[53]
-LaTeX Info: Redefining \. on input line 1307.
-LaTeX Info: Redefining \% on input line 1307.
-LaTeX Info: Redefining \. on input line 1307.
-LaTeX Info: Redefining \% on input line 1307.
+LaTeX Info: Redefining \. on input line 1227.
+LaTeX Info: Redefining \% on input line 1227.
+LaTeX Info: Redefining \. on input line 1227.
+LaTeX Info: Redefining \% on input line 1227.
+ [53]
+LaTeX Info: Redefining \. on input line 1251.
+LaTeX Info: Redefining \% on input line 1251.
+LaTeX Info: Redefining \. on input line 1251.
+LaTeX Info: Redefining \% on input line 1251.
  [54]
-LaTeX Info: Redefining \. on input line 1321.
-LaTeX Info: Redefining \% on input line 1321.
-LaTeX Info: Redefining \. on input line 1321.
-LaTeX Info: Redefining \% on input line 1321.
- [55]
-LaTeX Info: Redefining \. on input line 1329.
-LaTeX Info: Redefining \% on input line 1329.
-LaTeX Info: Redefining \. on input line 1329.
-LaTeX Info: Redefining \% on input line 1329.
- [56]
+
+LaTeX Warning: Citation '@7052-SIRVEN2011' on page 55 undefined on input line 1
+280.
+
+LaTeX Info: Redefining \. on input line 1281.
+LaTeX Info: Redefining \% on input line 1281.
+LaTeX Info: Redefining \. on input line 1281.
+LaTeX Info: Redefining \% on input line 1281.
+[55]
+
+LaTeX Warning: Citation '@6972-ORLANDO2011' on page 56 undefined on input line 
+1290.
+
+LaTeX Info: Redefining \. on input line 1305.
+LaTeX Info: Redefining \% on input line 1305.
+LaTeX Info: Redefining \. on input line 1305.
+LaTeX Info: Redefining \% on input line 1305.
+[56]
+LaTeX Info: Redefining \. on input line 1319.
+LaTeX Info: Redefining \% on input line 1319.
+LaTeX Info: Redefining \. on input line 1319.
+LaTeX Info: Redefining \% on input line 1319.
+ [57]
+LaTeX Info: Redefining \. on input line 1327.
+LaTeX Info: Redefining \% on input line 1327.
+LaTeX Info: Redefining \. on input line 1327.
+LaTeX Info: Redefining \% on input line 1327.
+ [58]
 Capítulo 4.
-Package biblatex Info: Resetting trackers on input line 1329.
+Package biblatex Info: Resetting trackers on input line 1327.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/it' will be
-(Font)              scaled to size 16.95224pt on input line 1329.
-LaTeX Info: Redefining \. on input line 1349.
-LaTeX Info: Redefining \% on input line 1349.
-LaTeX Info: Redefining \. on input line 1349.
-LaTeX Info: Redefining \% on input line 1349.
-[57
+(Font)              scaled to size 16.95224pt on input line 1327.
+LaTeX Info: Redefining \. on input line 1347.
+LaTeX Info: Redefining \% on input line 1347.
+LaTeX Info: Redefining \. on input line 1347.
+LaTeX Info: Redefining \% on input line 1347.
+[59
 
 ]
 
-LaTeX Warning: Citation '@6996-DIAZ2009' on page 58 undefined on input line 135
-6.
+LaTeX Warning: Citation '@6996-DIAZ2009' on page 60 undefined on input line 135
+4.
 
-LaTeX Info: Redefining \. on input line 1363.
-LaTeX Info: Redefining \% on input line 1363.
-LaTeX Info: Redefining \. on input line 1363.
-LaTeX Info: Redefining \% on input line 1363.
-[58]
-LaTeX Info: Redefining \. on input line 1378.
-LaTeX Info: Redefining \% on input line 1378.
-LaTeX Info: Redefining \. on input line 1378.
-LaTeX Info: Redefining \% on input line 1378.
- [59]
-LaTeX Info: Redefining \. on input line 1384.
-LaTeX Info: Redefining \% on input line 1384.
-LaTeX Info: Redefining \. on input line 1384.
-LaTeX Info: Redefining \% on input line 1384.
- [60]
-LaTeX Info: Redefining \. on input line 1398.
-LaTeX Info: Redefining \% on input line 1398.
-LaTeX Info: Redefining \. on input line 1398.
-LaTeX Info: Redefining \% on input line 1398.
- [61]
+LaTeX Info: Redefining \. on input line 1361.
+LaTeX Info: Redefining \% on input line 1361.
+LaTeX Info: Redefining \. on input line 1361.
+LaTeX Info: Redefining \% on input line 1361.
+[60]
+
+LaTeX Warning: Citation '@7040-OLIVAN2010' on page 61 undefined on input line 1
+372.
+
+LaTeX Info: Redefining \. on input line 1376.
+LaTeX Info: Redefining \% on input line 1376.
+LaTeX Info: Redefining \. on input line 1376.
+LaTeX Info: Redefining \% on input line 1376.
+[61]
+
+LaTeX Warning: Citation '@7040-OLIVAN2010' on page 62 undefined on input line 1
+378.
+
+LaTeX Info: Redefining \. on input line 1382.
+LaTeX Info: Redefining \% on input line 1382.
+LaTeX Info: Redefining \. on input line 1382.
+LaTeX Info: Redefining \% on input line 1382.
+[62]
+LaTeX Info: Redefining \. on input line 1396.
+LaTeX Info: Redefining \% on input line 1396.
+LaTeX Info: Redefining \. on input line 1396.
+LaTeX Info: Redefining \% on input line 1396.
+ [63]
+
+LaTeX Warning: Citation '@6990-CECCHINI2010' on page 64 undefined on input line
+ 1416.
+
+
 Overfull \vbox (0.20837pt too high) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 1419.
-LaTeX Info: Redefining \% on input line 1419.
-LaTeX Info: Redefining \. on input line 1419.
-LaTeX Info: Redefining \% on input line 1419.
+LaTeX Info: Redefining \. on input line 1417.
+LaTeX Info: Redefining \% on input line 1417.
+LaTeX Info: Redefining \. on input line 1417.
+LaTeX Info: Redefining \% on input line 1417.
 
-[62]
+[64]
 
-LaTeX Warning: Citation '@6990-CECCHINI2010' on page 63 undefined on input line
- 1430.
+LaTeX Warning: Citation '@6990-CECCHINI2010' on page 65 undefined on input line
+ 1422.
 
-LaTeX Info: Redefining \. on input line 1431.
-LaTeX Info: Redefining \% on input line 1431.
-LaTeX Info: Redefining \. on input line 1431.
-LaTeX Info: Redefining \% on input line 1431.
-[63]
-LaTeX Info: Redefining \. on input line 1445.
-LaTeX Info: Redefining \% on input line 1445.
-LaTeX Info: Redefining \. on input line 1445.
-LaTeX Info: Redefining \% on input line 1445.
- [64]
-LaTeX Info: Redefining \. on input line 1455.
-LaTeX Info: Redefining \% on input line 1455.
-LaTeX Info: Redefining \. on input line 1455.
-LaTeX Info: Redefining \% on input line 1455.
- [65]
-LaTeX Info: Redefining \. on input line 1473.
-LaTeX Info: Redefining \% on input line 1473.
-LaTeX Info: Redefining \. on input line 1473.
-LaTeX Info: Redefining \% on input line 1473.
- [66]
+
+LaTeX Warning: Citation '@6990-CECCHINI2010' on page 65 undefined on input line
+ 1428.
+
+LaTeX Info: Redefining \. on input line 1429.
+LaTeX Info: Redefining \% on input line 1429.
+LaTeX Info: Redefining \. on input line 1429.
+LaTeX Info: Redefining \% on input line 1429.
+[65]
+
+LaTeX Warning: Citation '@7029-MOCHKOFSKY2011' on page 66 undefined on input li
+ne 1442.
+
+LaTeX Info: Redefining \. on input line 1443.
+LaTeX Info: Redefining \% on input line 1443.
+LaTeX Info: Redefining \. on input line 1443.
+LaTeX Info: Redefining \% on input line 1443.
+[66]
 
 LaTeX Warning: Citation '@7067-ZUNINO2011' on page 67 undefined on input line 1
-483.
+452.
 
-LaTeX Info: Redefining \. on input line 1485.
-LaTeX Info: Redefining \% on input line 1485.
-LaTeX Info: Redefining \. on input line 1485.
-LaTeX Info: Redefining \% on input line 1485.
+LaTeX Info: Redefining \. on input line 1453.
+LaTeX Info: Redefining \% on input line 1453.
+LaTeX Info: Redefining \. on input line 1453.
+LaTeX Info: Redefining \% on input line 1453.
 [67]
 
 LaTeX Warning: Citation '@7067-ZUNINO2011' on page 68 undefined on input line 1
-486.
+455.
 
-LaTeX Info: Redefining \. on input line 1501.
-LaTeX Info: Redefining \% on input line 1501.
-LaTeX Info: Redefining \. on input line 1501.
-LaTeX Info: Redefining \% on input line 1501.
+
+LaTeX Warning: Citation '@7067-ZUNINO2011' on page 68 undefined on input line 1
+464.
+
+
+LaTeX Warning: Citation '@7067-ZUNINO2011' on page 68 undefined on input line 1
+470.
+
+LaTeX Info: Redefining \. on input line 1471.
+LaTeX Info: Redefining \% on input line 1471.
+LaTeX Info: Redefining \. on input line 1471.
+LaTeX Info: Redefining \% on input line 1471.
 [68]
 
 LaTeX Warning: Citation '@7067-ZUNINO2011' on page 69 undefined on input line 1
-510.
+481.
 
-LaTeX Info: Redefining \. on input line 1516.
-LaTeX Info: Redefining \% on input line 1516.
-LaTeX Info: Redefining \. on input line 1516.
-LaTeX Info: Redefining \% on input line 1516.
+LaTeX Info: Redefining \. on input line 1483.
+LaTeX Info: Redefining \% on input line 1483.
+LaTeX Info: Redefining \. on input line 1483.
+LaTeX Info: Redefining \% on input line 1483.
 [69]
-LaTeX Info: Redefining \. on input line 1526.
-LaTeX Info: Redefining \% on input line 1526.
-LaTeX Info: Redefining \. on input line 1526.
-LaTeX Info: Redefining \% on input line 1526.
- [70]
-LaTeX Info: Redefining \. on input line 1543.
-LaTeX Info: Redefining \% on input line 1543.
-LaTeX Info: Redefining \. on input line 1543.
-LaTeX Info: Redefining \% on input line 1543.
- [71]
-LaTeX Info: Redefining \. on input line 1555.
-LaTeX Info: Redefining \% on input line 1555.
-LaTeX Info: Redefining \. on input line 1555.
-LaTeX Info: Redefining \% on input line 1555.
- [72]
 
-LaTeX Warning: Citation '@7067-ZUNINO2011' on page 73 undefined on input line 1
+LaTeX Warning: Citation '@7067-ZUNINO2011' on page 70 undefined on input line 1
+484.
+
+
+LaTeX Warning: Citation '@7067-ZUNINO2011' on page 70 undefined on input line 1
+492.
+
+
+LaTeX Warning: Citation '@7067-ZUNINO2011' on page 70 undefined on input line 1
+498.
+
+LaTeX Info: Redefining \. on input line 1499.
+LaTeX Info: Redefining \% on input line 1499.
+LaTeX Info: Redefining \. on input line 1499.
+LaTeX Info: Redefining \% on input line 1499.
+[70]
+
+LaTeX Warning: Citation '@7067-ZUNINO2011' on page 71 undefined on input line 1
+508.
+
+LaTeX Info: Redefining \. on input line 1514.
+LaTeX Info: Redefining \% on input line 1514.
+LaTeX Info: Redefining \. on input line 1514.
+LaTeX Info: Redefining \% on input line 1514.
+[71]
+
+LaTeX Warning: Citation '@7067-ZUNINO2011' on page 72 undefined on input line 1
+520.
+
+LaTeX Info: Redefining \. on input line 1524.
+LaTeX Info: Redefining \% on input line 1524.
+LaTeX Info: Redefining \. on input line 1524.
+LaTeX Info: Redefining \% on input line 1524.
+[72]
+LaTeX Info: Redefining \. on input line 1541.
+LaTeX Info: Redefining \% on input line 1541.
+LaTeX Info: Redefining \. on input line 1541.
+LaTeX Info: Redefining \% on input line 1541.
+ [73]
+
+LaTeX Warning: Citation '@7067-ZUNINO2011' on page 74 undefined on input line 1
+552.
+
+LaTeX Info: Redefining \. on input line 1553.
+LaTeX Info: Redefining \% on input line 1553.
+LaTeX Info: Redefining \. on input line 1553.
+LaTeX Info: Redefining \% on input line 1553.
+[74]
+
+LaTeX Warning: Citation '@7067-ZUNINO2011' on page 75 undefined on input line 1
+559.
+
+
+LaTeX Warning: Citation '@7067-ZUNINO2011' on page 75 undefined on input line 1
 561.
 
 
-LaTeX Warning: Citation '@7067-ZUNINO2011' on page 73 undefined on input line 1
-563.
+LaTeX Warning: Citation '@7067-ZUNINO2011' on page 75 undefined on input line 1
+572.
 
-LaTeX Info: Redefining \. on input line 1575.
-LaTeX Info: Redefining \% on input line 1575.
-LaTeX Info: Redefining \. on input line 1575.
-LaTeX Info: Redefining \% on input line 1575.
-[73]
-LaTeX Info: Redefining \. on input line 1584.
-LaTeX Info: Redefining \% on input line 1584.
-LaTeX Info: Redefining \. on input line 1584.
-LaTeX Info: Redefining \% on input line 1584.
- [74]
-LaTeX Info: Redefining \. on input line 1598.
-LaTeX Info: Redefining \% on input line 1598.
-LaTeX Info: Redefining \. on input line 1598.
-LaTeX Info: Redefining \% on input line 1598.
- [75]
-LaTeX Info: Redefining \. on input line 1611.
-LaTeX Info: Redefining \% on input line 1611.
-LaTeX Info: Redefining \. on input line 1611.
-LaTeX Info: Redefining \% on input line 1611.
+LaTeX Info: Redefining \. on input line 1573.
+LaTeX Info: Redefining \% on input line 1573.
+LaTeX Info: Redefining \. on input line 1573.
+LaTeX Info: Redefining \% on input line 1573.
+[75]
+LaTeX Info: Redefining \. on input line 1582.
+LaTeX Info: Redefining \% on input line 1582.
+LaTeX Info: Redefining \. on input line 1582.
+LaTeX Info: Redefining \% on input line 1582.
  [76]
-LaTeX Info: Redefining \. on input line 1621.
-LaTeX Info: Redefining \% on input line 1621.
-LaTeX Info: Redefining \. on input line 1621.
-LaTeX Info: Redefining \% on input line 1621.
+LaTeX Info: Redefining \. on input line 1596.
+LaTeX Info: Redefining \% on input line 1596.
+LaTeX Info: Redefining \. on input line 1596.
+LaTeX Info: Redefining \% on input line 1596.
  [77]
-LaTeX Info: Redefining \. on input line 1632.
-LaTeX Info: Redefining \% on input line 1632.
-LaTeX Info: Redefining \. on input line 1632.
-LaTeX Info: Redefining \% on input line 1632.
+LaTeX Info: Redefining \. on input line 1609.
+LaTeX Info: Redefining \% on input line 1609.
+LaTeX Info: Redefining \. on input line 1609.
+LaTeX Info: Redefining \% on input line 1609.
  [78]
+LaTeX Info: Redefining \. on input line 1619.
+LaTeX Info: Redefining \% on input line 1619.
+LaTeX Info: Redefining \. on input line 1619.
+LaTeX Info: Redefining \% on input line 1619.
+ [79]
+LaTeX Info: Redefining \. on input line 1630.
+LaTeX Info: Redefining \% on input line 1630.
+LaTeX Info: Redefining \. on input line 1630.
+LaTeX Info: Redefining \% on input line 1630.
+ [80]
 
-LaTeX Warning: Citation '@7022-MARQUEZ2010' on page 79 undefined on input line 
-1633.
+LaTeX Warning: Citation '@7022-MARQUEZ2010' on page 81 undefined on input line 
+1631.
 
 
-LaTeX Warning: Citation '@7022-MARQUEZ2010' on page 79 undefined on input line 
-1636.
+LaTeX Warning: Citation '@7022-MARQUEZ2010' on page 81 undefined on input line 
+1634.
 
-LaTeX Info: Redefining \. on input line 1643.
-LaTeX Info: Redefining \% on input line 1643.
-LaTeX Info: Redefining \. on input line 1643.
-LaTeX Info: Redefining \% on input line 1643.
-[79]
+LaTeX Info: Redefining \. on input line 1641.
+LaTeX Info: Redefining \% on input line 1641.
+LaTeX Info: Redefining \. on input line 1641.
+LaTeX Info: Redefining \% on input line 1641.
+[81]
 Overfull \vbox (2.95837pt too high) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 1650.
-LaTeX Info: Redefining \% on input line 1650.
-LaTeX Info: Redefining \. on input line 1650.
-LaTeX Info: Redefining \% on input line 1650.
+LaTeX Info: Redefining \. on input line 1648.
+LaTeX Info: Redefining \% on input line 1648.
+LaTeX Info: Redefining \. on input line 1648.
+LaTeX Info: Redefining \% on input line 1648.
 
-[80]
+[82]
 Overfull \vbox (2.20837pt too high) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 1660.
-LaTeX Info: Redefining \% on input line 1660.
-LaTeX Info: Redefining \. on input line 1660.
-LaTeX Info: Redefining \% on input line 1660.
+LaTeX Info: Redefining \. on input line 1658.
+LaTeX Info: Redefining \% on input line 1658.
+LaTeX Info: Redefining \. on input line 1658.
+LaTeX Info: Redefining \% on input line 1658.
 
-[81]
-LaTeX Info: Redefining \. on input line 1676.
-LaTeX Info: Redefining \% on input line 1676.
-LaTeX Info: Redefining \. on input line 1676.
-LaTeX Info: Redefining \% on input line 1676.
- [82]
-LaTeX Info: Redefining \. on input line 1693.
-LaTeX Info: Redefining \% on input line 1693.
-LaTeX Info: Redefining \. on input line 1693.
-LaTeX Info: Redefining \% on input line 1693.
- [83]
-LaTeX Info: Redefining \. on input line 1709.
-LaTeX Info: Redefining \% on input line 1709.
-LaTeX Info: Redefining \. on input line 1709.
-LaTeX Info: Redefining \% on input line 1709.
+[83]
+LaTeX Info: Redefining \. on input line 1674.
+LaTeX Info: Redefining \% on input line 1674.
+LaTeX Info: Redefining \. on input line 1674.
+LaTeX Info: Redefining \% on input line 1674.
  [84]
-LaTeX Info: Redefining \. on input line 1715.
-LaTeX Info: Redefining \% on input line 1715.
-LaTeX Info: Redefining \. on input line 1715.
-LaTeX Info: Redefining \% on input line 1715.
- [85]
-LaTeX Info: Redefining \. on input line 1723.
-LaTeX Info: Redefining \% on input line 1723.
-LaTeX Info: Redefining \. on input line 1723.
-LaTeX Info: Redefining \% on input line 1723.
- [86]
-LaTeX Info: Redefining \. on input line 1735.
-LaTeX Info: Redefining \% on input line 1735.
-LaTeX Info: Redefining \. on input line 1735.
-LaTeX Info: Redefining \% on input line 1735.
+
+LaTeX Warning: Citation '@7053-SIRVEN2013' on page 85 undefined on input line 1
+678.
+
+
+LaTeX Warning: Citation '@7053-SIRVEN2013' on page 85 undefined on input line 1
+687.
+
+LaTeX Info: Redefining \. on input line 1691.
+LaTeX Info: Redefining \% on input line 1691.
+LaTeX Info: Redefining \. on input line 1691.
+LaTeX Info: Redefining \% on input line 1691.
+[85]
+
+LaTeX Warning: Citation '@7053-SIRVEN2013' on page 86 undefined on input line 1
+696.
+
+
+LaTeX Warning: Citation '@7053-SIRVEN2013' on page 86 undefined on input line 1
+699.
+
+
+LaTeX Warning: Citation '@7053-SIRVEN2013' on page 86 undefined on input line 1
+705.
+
+LaTeX Info: Redefining \. on input line 1707.
+LaTeX Info: Redefining \% on input line 1707.
+LaTeX Info: Redefining \. on input line 1707.
+LaTeX Info: Redefining \% on input line 1707.
+[86]
+LaTeX Info: Redefining \. on input line 1713.
+LaTeX Info: Redefining \% on input line 1713.
+LaTeX Info: Redefining \. on input line 1713.
+LaTeX Info: Redefining \% on input line 1713.
  [87]
+LaTeX Info: Redefining \. on input line 1721.
+LaTeX Info: Redefining \% on input line 1721.
+LaTeX Info: Redefining \. on input line 1721.
+LaTeX Info: Redefining \% on input line 1721.
+ [88]
 
-LaTeX Warning: Citation '@7016-LEVINAS2013' on page 88 undefined on input line 
-1740.
+LaTeX Warning: Citation '@7016-LEVINAS2013' on page 89 undefined on input line 
+1732.
 
-LaTeX Info: Redefining \. on input line 1747.
-LaTeX Info: Redefining \% on input line 1747.
-LaTeX Info: Redefining \. on input line 1747.
-LaTeX Info: Redefining \% on input line 1747.
-[88]
-LaTeX Info: Redefining \. on input line 1775.
-LaTeX Info: Redefining \% on input line 1775.
-LaTeX Info: Redefining \. on input line 1775.
-LaTeX Info: Redefining \% on input line 1775.
- [89]
-LaTeX Info: Redefining \. on input line 1791.
-LaTeX Info: Redefining \% on input line 1791.
-LaTeX Info: Redefining \. on input line 1791.
-LaTeX Info: Redefining \% on input line 1791.
- [90]
-LaTeX Info: Redefining \. on input line 1794.
-LaTeX Info: Redefining \% on input line 1794.
-LaTeX Info: Redefining \. on input line 1794.
-LaTeX Info: Redefining \% on input line 1794.
- [91]
-LaTeX Info: Redefining \. on input line 1811.
-LaTeX Info: Redefining \% on input line 1811.
-LaTeX Info: Redefining \. on input line 1811.
-LaTeX Info: Redefining \% on input line 1811.
+LaTeX Info: Redefining \. on input line 1733.
+LaTeX Info: Redefining \% on input line 1733.
+LaTeX Info: Redefining \. on input line 1733.
+LaTeX Info: Redefining \% on input line 1733.
+[89]
+
+LaTeX Warning: Citation '@7016-LEVINAS2013' on page 90 undefined on input line 
+1738.
+
+
+LaTeX Warning: Citation '@7016-LEVINAS2013' on page 90 undefined on input line 
+1744.
+
+LaTeX Info: Redefining \. on input line 1745.
+LaTeX Info: Redefining \% on input line 1745.
+LaTeX Info: Redefining \. on input line 1745.
+LaTeX Info: Redefining \% on input line 1745.
+[90]
+
+LaTeX Warning: Citation '@7016-LEVINAS2013' on page 91 undefined on input line 
+1756.
+
+
+LaTeX Warning: Citation '@7016-LEVINAS2013' on page 91 undefined on input line 
+1762.
+
+
+LaTeX Warning: Citation '@7016-LEVINAS2013' on page 91 undefined on input line 
+1765.
+
+LaTeX Info: Redefining \. on input line 1772.
+LaTeX Info: Redefining \% on input line 1772.
+LaTeX Info: Redefining \. on input line 1772.
+LaTeX Info: Redefining \% on input line 1772.
+[91]
+LaTeX Info: Redefining \. on input line 1789.
+LaTeX Info: Redefining \% on input line 1789.
+LaTeX Info: Redefining \. on input line 1789.
+LaTeX Info: Redefining \% on input line 1789.
  [92]
-LaTeX Info: Redefining \. on input line 1827.
-LaTeX Info: Redefining \% on input line 1827.
-LaTeX Info: Redefining \. on input line 1827.
-LaTeX Info: Redefining \% on input line 1827.
+LaTeX Info: Redefining \. on input line 1792.
+LaTeX Info: Redefining \% on input line 1792.
+LaTeX Info: Redefining \. on input line 1792.
+LaTeX Info: Redefining \% on input line 1792.
  [93]
+LaTeX Info: Redefining \. on input line 1809.
+LaTeX Info: Redefining \% on input line 1809.
+LaTeX Info: Redefining \. on input line 1809.
+LaTeX Info: Redefining \% on input line 1809.
+ [94]
+LaTeX Info: Redefining \. on input line 1825.
+LaTeX Info: Redefining \% on input line 1825.
+LaTeX Info: Redefining \. on input line 1825.
+LaTeX Info: Redefining \% on input line 1825.
+ [95]
 Overfull \vbox (0.20837pt too high) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 1843.
-LaTeX Info: Redefining \% on input line 1843.
-LaTeX Info: Redefining \. on input line 1843.
-LaTeX Info: Redefining \% on input line 1843.
+LaTeX Info: Redefining \. on input line 1841.
+LaTeX Info: Redefining \% on input line 1841.
+LaTeX Info: Redefining \. on input line 1841.
+LaTeX Info: Redefining \% on input line 1841.
 
-[94]
-LaTeX Info: Redefining \. on input line 1855.
-LaTeX Info: Redefining \% on input line 1855.
-LaTeX Info: Redefining \. on input line 1855.
-LaTeX Info: Redefining \% on input line 1855.
- [95]
-
-LaTeX Warning: Citation '@6988-CAPASSO2013' on page 96 undefined on input line 
-1860.
-
-
-LaTeX Warning: Citation '@6988-CAPASSO2013' on page 96 undefined on input line 
-1866.
-
-LaTeX Info: Redefining \. on input line 1867.
-LaTeX Info: Redefining \% on input line 1867.
-LaTeX Info: Redefining \. on input line 1867.
-LaTeX Info: Redefining \% on input line 1867.
 [96]
+LaTeX Info: Redefining \. on input line 1853.
+LaTeX Info: Redefining \% on input line 1853.
+LaTeX Info: Redefining \. on input line 1853.
+LaTeX Info: Redefining \% on input line 1853.
+ [97]
 
-LaTeX Warning: Citation '@6988-CAPASSO2013' on page 97 undefined on input line 
-1872.
+LaTeX Warning: Citation '@6988-CAPASSO2013' on page 98 undefined on input line 
+1858.
 
-LaTeX Info: Redefining \. on input line 1873.
-LaTeX Info: Redefining \% on input line 1873.
-LaTeX Info: Redefining \. on input line 1873.
-LaTeX Info: Redefining \% on input line 1873.
-[97]
-LaTeX Info: Redefining \. on input line 1885.
-LaTeX Info: Redefining \% on input line 1885.
-LaTeX Info: Redefining \. on input line 1885.
-LaTeX Info: Redefining \% on input line 1885.
- [98]
-LaTeX Info: Redefining \. on input line 1897.
-LaTeX Info: Redefining \% on input line 1897.
-LaTeX Info: Redefining \. on input line 1897.
-LaTeX Info: Redefining \% on input line 1897.
- [99]
-LaTeX Info: Redefining \. on input line 1908.
-LaTeX Info: Redefining \% on input line 1908.
-LaTeX Info: Redefining \. on input line 1908.
-LaTeX Info: Redefining \% on input line 1908.
- [100]
-LaTeX Info: Redefining \. on input line 1917.
-LaTeX Info: Redefining \% on input line 1917.
-LaTeX Info: Redefining \. on input line 1917.
-LaTeX Info: Redefining \% on input line 1917.
- [101]
-LaTeX Info: Redefining \. on input line 1927.
-LaTeX Info: Redefining \% on input line 1927.
-LaTeX Info: Redefining \. on input line 1927.
-LaTeX Info: Redefining \% on input line 1927.
- [102]
-LaTeX Info: Redefining \. on input line 1927.
-LaTeX Info: Redefining \% on input line 1927.
-LaTeX Info: Redefining \. on input line 1927.
-LaTeX Info: Redefining \% on input line 1927.
- [103]
-LaTeX Info: Redefining \. on input line 1938.
-LaTeX Info: Redefining \% on input line 1938.
-LaTeX Info: Redefining \. on input line 1938.
-LaTeX Info: Redefining \% on input line 1938.
- [104]
-LaTeX Info: Redefining \. on input line 1953.
-LaTeX Info: Redefining \% on input line 1953.
-LaTeX Info: Redefining \. on input line 1953.
-LaTeX Info: Redefining \% on input line 1953.
+
+LaTeX Warning: Citation '@6988-CAPASSO2013' on page 98 undefined on input line 
+1864.
+
+LaTeX Info: Redefining \. on input line 1865.
+LaTeX Info: Redefining \% on input line 1865.
+LaTeX Info: Redefining \. on input line 1865.
+LaTeX Info: Redefining \% on input line 1865.
+[98]
+
+LaTeX Warning: Citation '@6988-CAPASSO2013' on page 99 undefined on input line 
+1870.
+
+LaTeX Info: Redefining \. on input line 1871.
+LaTeX Info: Redefining \% on input line 1871.
+LaTeX Info: Redefining \. on input line 1871.
+LaTeX Info: Redefining \% on input line 1871.
+[99]
+
+LaTeX Warning: Citation '@6988-CAPASSO2013' on page 100 undefined on input line
+ 1878.
+
+LaTeX Info: Redefining \. on input line 1883.
+LaTeX Info: Redefining \% on input line 1883.
+LaTeX Info: Redefining \. on input line 1883.
+LaTeX Info: Redefining \% on input line 1883.
+[100]
+
+LaTeX Warning: Citation '@6978-BLAUSTEIN2013' on page 101 undefined on input li
+ne 1888.
+
+
+LaTeX Warning: Citation '@6978-BLAUSTEIN2013' on page 101 undefined on input li
+ne 1894.
+
+LaTeX Info: Redefining \. on input line 1895.
+LaTeX Info: Redefining \% on input line 1895.
+LaTeX Info: Redefining \. on input line 1895.
+LaTeX Info: Redefining \% on input line 1895.
+[101]
+
+LaTeX Warning: Citation '@6978-BLAUSTEIN2013' on page 102 undefined on input li
+ne 1902.
+
+LaTeX Info: Redefining \. on input line 1906.
+LaTeX Info: Redefining \% on input line 1906.
+LaTeX Info: Redefining \. on input line 1906.
+LaTeX Info: Redefining \% on input line 1906.
+[102]
+
+LaTeX Warning: Citation '@6978-BLAUSTEIN2013' on page 103 undefined on input li
+ne 1910.
+
+LaTeX Info: Redefining \. on input line 1914.
+LaTeX Info: Redefining \% on input line 1914.
+LaTeX Info: Redefining \. on input line 1914.
+LaTeX Info: Redefining \% on input line 1914.
+[103]
+
+LaTeX Warning: Citation '@6978-BLAUSTEIN2013' on page 104 undefined on input li
+ne 1915.
+
+
+LaTeX Warning: Citation '@6978-BLAUSTEIN2013' on page 104 undefined on input li
+ne 1924.
+
+LaTeX Info: Redefining \. on input line 1925.
+LaTeX Info: Redefining \% on input line 1925.
+LaTeX Info: Redefining \. on input line 1925.
+LaTeX Info: Redefining \% on input line 1925.
+[104]
+LaTeX Info: Redefining \. on input line 1925.
+LaTeX Info: Redefining \% on input line 1925.
+LaTeX Info: Redefining \. on input line 1925.
+LaTeX Info: Redefining \% on input line 1925.
  [105]
-LaTeX Info: Redefining \. on input line 1961.
-LaTeX Info: Redefining \% on input line 1961.
-LaTeX Info: Redefining \. on input line 1961.
-LaTeX Info: Redefining \% on input line 1961.
- [106]
-LaTeX Info: Redefining \. on input line 1973.
-LaTeX Info: Redefining \% on input line 1973.
-LaTeX Info: Redefining \. on input line 1973.
-LaTeX Info: Redefining \% on input line 1973.
- [107]
 
-LaTeX Warning: Citation '@7068-ZUNINO2014' on page 108 undefined on input line 
-1990.
+LaTeX Warning: Citation '@6978-BLAUSTEIN2013' on page 106 undefined on input li
+ne 1930.
 
-LaTeX Info: Redefining \. on input line 1995.
-LaTeX Info: Redefining \% on input line 1995.
-LaTeX Info: Redefining \. on input line 1995.
-LaTeX Info: Redefining \% on input line 1995.
-[108]
-LaTeX Info: Redefining \. on input line 2009.
-LaTeX Info: Redefining \% on input line 2009.
-LaTeX Info: Redefining \. on input line 2009.
-LaTeX Info: Redefining \% on input line 2009.
+LaTeX Info: Redefining \. on input line 1935.
+LaTeX Info: Redefining \% on input line 1935.
+LaTeX Info: Redefining \. on input line 1935.
+LaTeX Info: Redefining \% on input line 1935.
+[106]
+
+LaTeX Warning: Citation '@6978-BLAUSTEIN2013' on page 107 undefined on input li
+ne 1938.
+
+
+LaTeX Warning: Citation '@6978-BLAUSTEIN2013' on page 107 undefined on input li
+ne 1944.
+
+LaTeX Info: Redefining \. on input line 1945.
+LaTeX Info: Redefining \% on input line 1945.
+LaTeX Info: Redefining \. on input line 1945.
+LaTeX Info: Redefining \% on input line 1945.
+[107]
+LaTeX Info: Redefining \. on input line 1956.
+LaTeX Info: Redefining \% on input line 1956.
+LaTeX Info: Redefining \. on input line 1956.
+LaTeX Info: Redefining \% on input line 1956.
+ [108]
+LaTeX Info: Redefining \. on input line 1971.
+LaTeX Info: Redefining \% on input line 1971.
+LaTeX Info: Redefining \. on input line 1971.
+LaTeX Info: Redefining \% on input line 1971.
  [109]
-LaTeX Info: Redefining \. on input line 2023.
-LaTeX Info: Redefining \% on input line 2023.
-LaTeX Info: Redefining \. on input line 2023.
-LaTeX Info: Redefining \% on input line 2023.
- [110]
-LaTeX Info: Redefining \. on input line 2029.
-LaTeX Info: Redefining \% on input line 2029.
-LaTeX Info: Redefining \. on input line 2029.
-LaTeX Info: Redefining \% on input line 2029.
+
+LaTeX Warning: Citation '@7068-ZUNINO2014' on page 110 undefined on input line 
+1988.
+
+LaTeX Info: Redefining \. on input line 1989.
+LaTeX Info: Redefining \% on input line 1989.
+LaTeX Info: Redefining \. on input line 1989.
+LaTeX Info: Redefining \% on input line 1989.
+[110]
+LaTeX Info: Redefining \. on input line 2003.
+LaTeX Info: Redefining \% on input line 2003.
+LaTeX Info: Redefining \. on input line 2003.
+LaTeX Info: Redefining \% on input line 2003.
  [111]
-LaTeX Info: Redefining \. on input line 2051.
-LaTeX Info: Redefining \% on input line 2051.
-LaTeX Info: Redefining \. on input line 2051.
-LaTeX Info: Redefining \% on input line 2051.
+LaTeX Info: Redefining \. on input line 2021.
+LaTeX Info: Redefining \% on input line 2021.
+LaTeX Info: Redefining \. on input line 2021.
+LaTeX Info: Redefining \% on input line 2021.
  [112]
-LaTeX Info: Redefining \. on input line 2065.
-LaTeX Info: Redefining \% on input line 2065.
-LaTeX Info: Redefining \. on input line 2065.
-LaTeX Info: Redefining \% on input line 2065.
+LaTeX Info: Redefining \. on input line 2027.
+LaTeX Info: Redefining \% on input line 2027.
+LaTeX Info: Redefining \. on input line 2027.
+LaTeX Info: Redefining \% on input line 2027.
  [113]
-LaTeX Info: Redefining \. on input line 2077.
-LaTeX Info: Redefining \% on input line 2077.
-LaTeX Info: Redefining \. on input line 2077.
-LaTeX Info: Redefining \% on input line 2077.
+LaTeX Info: Redefining \. on input line 2045.
+LaTeX Info: Redefining \% on input line 2045.
+LaTeX Info: Redefining \. on input line 2045.
+LaTeX Info: Redefining \% on input line 2045.
  [114]
-LaTeX Info: Redefining \. on input line 2097.
-LaTeX Info: Redefining \% on input line 2097.
-LaTeX Info: Redefining \. on input line 2097.
-LaTeX Info: Redefining \% on input line 2097.
+LaTeX Info: Redefining \. on input line 2063.
+LaTeX Info: Redefining \% on input line 2063.
+LaTeX Info: Redefining \. on input line 2063.
+LaTeX Info: Redefining \% on input line 2063.
  [115]
-LaTeX Info: Redefining \. on input line 2113.
-LaTeX Info: Redefining \% on input line 2113.
-LaTeX Info: Redefining \. on input line 2113.
-LaTeX Info: Redefining \% on input line 2113.
+LaTeX Info: Redefining \. on input line 2072.
+LaTeX Info: Redefining \% on input line 2072.
+LaTeX Info: Redefining \. on input line 2072.
+LaTeX Info: Redefining \% on input line 2072.
  [116]
-LaTeX Info: Redefining \. on input line 2122.
-LaTeX Info: Redefining \% on input line 2122.
-LaTeX Info: Redefining \. on input line 2122.
-LaTeX Info: Redefining \% on input line 2122.
- [117]
-LaTeX Info: Redefining \. on input line 2137.
-LaTeX Info: Redefining \% on input line 2137.
-LaTeX Info: Redefining \. on input line 2137.
-LaTeX Info: Redefining \% on input line 2137.
- [118]
-LaTeX Info: Redefining \. on input line 2155.
-LaTeX Info: Redefining \% on input line 2155.
-LaTeX Info: Redefining \. on input line 2155.
-LaTeX Info: Redefining \% on input line 2155.
- [119]
-LaTeX Info: Redefining \. on input line 2172.
-LaTeX Info: Redefining \% on input line 2172.
-LaTeX Info: Redefining \. on input line 2172.
-LaTeX Info: Redefining \% on input line 2172.
 
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 117 undefined on input li
+ne 2080.
+
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 117 undefined on input li
+ne 2086.
+
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 117 undefined on input li
+ne 2094.
+
+LaTeX Info: Redefining \. on input line 2095.
+LaTeX Info: Redefining \% on input line 2095.
+LaTeX Info: Redefining \. on input line 2095.
+LaTeX Info: Redefining \% on input line 2095.
+[117]
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 118 undefined on input li
+ne 2100.
+
+LaTeX Info: Redefining \. on input line 2109.
+LaTeX Info: Redefining \% on input line 2109.
+LaTeX Info: Redefining \. on input line 2109.
+LaTeX Info: Redefining \% on input line 2109.
+[118]
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 119 undefined on input li
+ne 2116.
+
+
+Overfull \vbox (0.20837pt too high) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 2120.
+LaTeX Info: Redefining \% on input line 2120.
+LaTeX Info: Redefining \. on input line 2120.
+LaTeX Info: Redefining \% on input line 2120.
+
+[119]
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 120 undefined on input li
+ne 2124.
+
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 120 undefined on input li
+ne 2130.
+
+LaTeX Info: Redefining \. on input line 2134.
+LaTeX Info: Redefining \% on input line 2134.
+LaTeX Info: Redefining \. on input line 2134.
+LaTeX Info: Redefining \% on input line 2134.
 [120]
-LaTeX Info: Redefining \. on input line 2179.
-LaTeX Info: Redefining \% on input line 2179.
-LaTeX Info: Redefining \. on input line 2179.
-LaTeX Info: Redefining \% on input line 2179.
- [121]
-LaTeX Info: Redefining \. on input line 2185.
-LaTeX Info: Redefining \% on input line 2185.
-LaTeX Info: Redefining \. on input line 2185.
-LaTeX Info: Redefining \% on input line 2185.
- [122]
-LaTeX Info: Redefining \. on input line 2198.
-LaTeX Info: Redefining \% on input line 2198.
-LaTeX Info: Redefining \. on input line 2198.
-LaTeX Info: Redefining \% on input line 2198.
- [123]
-LaTeX Info: Redefining \. on input line 2213.
-LaTeX Info: Redefining \% on input line 2213.
-LaTeX Info: Redefining \. on input line 2213.
-LaTeX Info: Redefining \% on input line 2213.
- [124]
-LaTeX Info: Redefining \. on input line 2231.
-LaTeX Info: Redefining \% on input line 2231.
-LaTeX Info: Redefining \. on input line 2231.
-LaTeX Info: Redefining \% on input line 2231.
- [125]
-LaTeX Info: Redefining \. on input line 2243.
-LaTeX Info: Redefining \% on input line 2243.
-LaTeX Info: Redefining \. on input line 2243.
-LaTeX Info: Redefining \% on input line 2243.
- [126]
-LaTeX Info: Redefining \. on input line 2249.
-LaTeX Info: Redefining \% on input line 2249.
-LaTeX Info: Redefining \. on input line 2249.
-LaTeX Info: Redefining \% on input line 2249.
- [127]
-LaTeX Info: Redefining \. on input line 2255.
-LaTeX Info: Redefining \% on input line 2255.
-LaTeX Info: Redefining \. on input line 2255.
-LaTeX Info: Redefining \% on input line 2255.
- [128]
-LaTeX Info: Redefining \. on input line 2273.
-LaTeX Info: Redefining \% on input line 2273.
-LaTeX Info: Redefining \. on input line 2273.
-LaTeX Info: Redefining \% on input line 2273.
- [129]
-LaTeX Info: Redefining \. on input line 2290.
-LaTeX Info: Redefining \% on input line 2290.
-LaTeX Info: Redefining \. on input line 2290.
-LaTeX Info: Redefining \% on input line 2290.
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 121 undefined on input li
+ne 2135.
+
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 121 undefined on input li
+ne 2146.
+
+LaTeX Info: Redefining \. on input line 2147.
+LaTeX Info: Redefining \% on input line 2147.
+LaTeX Info: Redefining \. on input line 2147.
+LaTeX Info: Redefining \% on input line 2147.
+[121]
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 122 undefined on input li
+ne 2152.
+
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 122 undefined on input li
+ne 2160.
+
+LaTeX Info: Redefining \. on input line 2165.
+LaTeX Info: Redefining \% on input line 2165.
+LaTeX Info: Redefining \. on input line 2165.
+LaTeX Info: Redefining \% on input line 2165.
+[122]
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 123 undefined on input li
+ne 2166.
+
+LaTeX Info: Redefining \. on input line 2177.
+LaTeX Info: Redefining \% on input line 2177.
+LaTeX Info: Redefining \. on input line 2177.
+LaTeX Info: Redefining \% on input line 2177.
+[123]
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 124 undefined on input li
+ne 2182.
+
+LaTeX Info: Redefining \. on input line 2183.
+LaTeX Info: Redefining \% on input line 2183.
+LaTeX Info: Redefining \. on input line 2183.
+LaTeX Info: Redefining \% on input line 2183.
+[124]
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 125 undefined on input li
+ne 2188.
+
+LaTeX Info: Redefining \. on input line 2195.
+LaTeX Info: Redefining \% on input line 2195.
+LaTeX Info: Redefining \. on input line 2195.
+LaTeX Info: Redefining \% on input line 2195.
+[125]
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 126 undefined on input li
+ne 2200.
+
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 126 undefined on input li
+ne 2207.
+
+LaTeX Info: Redefining \. on input line 2211.
+LaTeX Info: Redefining \% on input line 2211.
+LaTeX Info: Redefining \. on input line 2211.
+LaTeX Info: Redefining \% on input line 2211.
+[126]
+
+LaTeX Warning: Citation '@6971-A2014' on page 127 undefined on input line 2216.
+
+
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 127 undefined on input li
+ne 2222.
+
+LaTeX Info: Redefining \. on input line 2223.
+LaTeX Info: Redefining \% on input line 2223.
+LaTeX Info: Redefining \. on input line 2223.
+LaTeX Info: Redefining \% on input line 2223.
+[127]
+
+LaTeX Warning: Citation '@6971-A2014' on page 128 undefined on input line 2228.
+
+
+
+LaTeX Warning: Citation '@6971-A2014' on page 128 undefined on input line 2234.
+
+
+LaTeX Info: Redefining \. on input line 2239.
+LaTeX Info: Redefining \% on input line 2239.
+LaTeX Info: Redefining \. on input line 2239.
+LaTeX Info: Redefining \% on input line 2239.
+[128]
+
+LaTeX Warning: Citation '@6971-A2014' on page 129 undefined on input line 2240.
+
+
+
+LaTeX Warning: Citation '@6971-A2014' on page 129 undefined on input line 2246.
+
+
+LaTeX Info: Redefining \. on input line 2247.
+LaTeX Info: Redefining \% on input line 2247.
+LaTeX Info: Redefining \. on input line 2247.
+LaTeX Info: Redefining \% on input line 2247.
+[129]
+LaTeX Info: Redefining \. on input line 2251.
+LaTeX Info: Redefining \% on input line 2251.
+LaTeX Info: Redefining \. on input line 2251.
+LaTeX Info: Redefining \% on input line 2251.
  [130]
-LaTeX Info: Redefining \. on input line 2295.
-LaTeX Info: Redefining \% on input line 2295.
-LaTeX Info: Redefining \. on input line 2295.
-LaTeX Info: Redefining \% on input line 2295.
- [131]
-LaTeX Info: Redefining \. on input line 2319.
-LaTeX Info: Redefining \% on input line 2319.
-LaTeX Info: Redefining \. on input line 2319.
-LaTeX Info: Redefining \% on input line 2319.
 
+LaTeX Warning: Citation '@7015-JORNET2014' on page 131 undefined on input line 
+2264.
+
+LaTeX Info: Redefining \. on input line 2265.
+LaTeX Info: Redefining \% on input line 2265.
+LaTeX Info: Redefining \. on input line 2265.
+LaTeX Info: Redefining \% on input line 2265.
+[131]
+
+LaTeX Warning: Citation '@7015-JORNET2014' on page 132 undefined on input line 
+2270.
+
+LaTeX Info: Redefining \. on input line 2283.
+LaTeX Info: Redefining \% on input line 2283.
+LaTeX Info: Redefining \. on input line 2283.
+LaTeX Info: Redefining \% on input line 2283.
 [132]
-LaTeX Info: Redefining \. on input line 2339.
-LaTeX Info: Redefining \% on input line 2339.
-LaTeX Info: Redefining \. on input line 2339.
-LaTeX Info: Redefining \% on input line 2339.
+LaTeX Info: Redefining \. on input line 2293.
+LaTeX Info: Redefining \% on input line 2293.
+LaTeX Info: Redefining \. on input line 2293.
+LaTeX Info: Redefining \% on input line 2293.
  [133]
-LaTeX Info: Redefining \. on input line 2347.
-LaTeX Info: Redefining \% on input line 2347.
-LaTeX Info: Redefining \. on input line 2347.
-LaTeX Info: Redefining \% on input line 2347.
+LaTeX Info: Redefining \. on input line 2311.
+LaTeX Info: Redefining \% on input line 2311.
+LaTeX Info: Redefining \. on input line 2311.
+LaTeX Info: Redefining \% on input line 2311.
  [134]
-LaTeX Info: Redefining \. on input line 2365.
-LaTeX Info: Redefining \% on input line 2365.
-LaTeX Info: Redefining \. on input line 2365.
-LaTeX Info: Redefining \% on input line 2365.
+LaTeX Info: Redefining \. on input line 2329.
+LaTeX Info: Redefining \% on input line 2329.
+LaTeX Info: Redefining \. on input line 2329.
+LaTeX Info: Redefining \% on input line 2329.
  [135]
-LaTeX Info: Redefining \. on input line 2377.
-LaTeX Info: Redefining \% on input line 2377.
-LaTeX Info: Redefining \. on input line 2377.
-LaTeX Info: Redefining \% on input line 2377.
+LaTeX Info: Redefining \. on input line 2345.
+LaTeX Info: Redefining \% on input line 2345.
+LaTeX Info: Redefining \. on input line 2345.
+LaTeX Info: Redefining \% on input line 2345.
  [136]
-LaTeX Info: Redefining \. on input line 2389.
-LaTeX Info: Redefining \% on input line 2389.
-LaTeX Info: Redefining \. on input line 2389.
-LaTeX Info: Redefining \% on input line 2389.
+LaTeX Info: Redefining \. on input line 2355.
+LaTeX Info: Redefining \% on input line 2355.
+LaTeX Info: Redefining \. on input line 2355.
+LaTeX Info: Redefining \% on input line 2355.
  [137]
-LaTeX Info: Redefining \. on input line 2397.
-LaTeX Info: Redefining \% on input line 2397.
-LaTeX Info: Redefining \. on input line 2397.
-LaTeX Info: Redefining \% on input line 2397.
+LaTeX Info: Redefining \. on input line 2373.
+LaTeX Info: Redefining \% on input line 2373.
+LaTeX Info: Redefining \. on input line 2373.
+LaTeX Info: Redefining \% on input line 2373.
  [138]
-LaTeX Info: Redefining \. on input line 2402.
-LaTeX Info: Redefining \% on input line 2402.
-LaTeX Info: Redefining \. on input line 2402.
-LaTeX Info: Redefining \% on input line 2402.
+LaTeX Info: Redefining \. on input line 2387.
+LaTeX Info: Redefining \% on input line 2387.
+LaTeX Info: Redefining \. on input line 2387.
+LaTeX Info: Redefining \% on input line 2387.
  [139]
-LaTeX Info: Redefining \. on input line 2413.
-LaTeX Info: Redefining \% on input line 2413.
-LaTeX Info: Redefining \. on input line 2413.
-LaTeX Info: Redefining \% on input line 2413.
+LaTeX Info: Redefining \. on input line 2391.
+LaTeX Info: Redefining \% on input line 2391.
+LaTeX Info: Redefining \. on input line 2391.
+LaTeX Info: Redefining \% on input line 2391.
  [140]
-LaTeX Info: Redefining \. on input line 2425.
-LaTeX Info: Redefining \% on input line 2425.
-LaTeX Info: Redefining \. on input line 2425.
-LaTeX Info: Redefining \% on input line 2425.
+LaTeX Info: Redefining \. on input line 2398.
+LaTeX Info: Redefining \% on input line 2398.
+LaTeX Info: Redefining \. on input line 2398.
+LaTeX Info: Redefining \% on input line 2398.
  [141]
-LaTeX Info: Redefining \. on input line 2431.
-LaTeX Info: Redefining \% on input line 2431.
-LaTeX Info: Redefining \. on input line 2431.
-LaTeX Info: Redefining \% on input line 2431.
- [142]
-LaTeX Info: Redefining \. on input line 2440.
-LaTeX Info: Redefining \% on input line 2440.
-LaTeX Info: Redefining \. on input line 2440.
-LaTeX Info: Redefining \% on input line 2440.
- [143]
-LaTeX Info: Redefining \. on input line 2456.
-LaTeX Info: Redefining \% on input line 2456.
-LaTeX Info: Redefining \. on input line 2456.
-LaTeX Info: Redefining \% on input line 2456.
 
+LaTeX Warning: Citation '@7017-LEVINAS2015' on page 142 undefined on input line
+ 2399.
+
+
+LaTeX Warning: Citation '@7017-LEVINAS2015' on page 142 undefined on input line
+ 2402.
+
+LaTeX Info: Redefining \. on input line 2409.
+LaTeX Info: Redefining \% on input line 2409.
+LaTeX Info: Redefining \. on input line 2409.
+LaTeX Info: Redefining \% on input line 2409.
+[142]
+
+LaTeX Warning: Citation '@7017-LEVINAS2015' on page 143 undefined on input line
+ 2410.
+
+
+LaTeX Warning: Citation '@7017-LEVINAS2015' on page 143 undefined on input line
+ 2416.
+
+LaTeX Info: Redefining \. on input line 2417.
+LaTeX Info: Redefining \% on input line 2417.
+LaTeX Info: Redefining \. on input line 2417.
+LaTeX Info: Redefining \% on input line 2417.
+[143]
+
+LaTeX Warning: Citation '@7017-LEVINAS2015' on page 144 undefined on input line
+ 2422.
+
+LaTeX Info: Redefining \. on input line 2426.
+LaTeX Info: Redefining \% on input line 2426.
+LaTeX Info: Redefining \. on input line 2426.
+LaTeX Info: Redefining \% on input line 2426.
 [144]
-LaTeX Info: Redefining \. on input line 2463.
-LaTeX Info: Redefining \% on input line 2463.
-LaTeX Info: Redefining \. on input line 2463.
-LaTeX Info: Redefining \% on input line 2463.
- [145]
-LaTeX Info: Redefining \. on input line 2475.
-LaTeX Info: Redefining \% on input line 2475.
-LaTeX Info: Redefining \. on input line 2475.
-LaTeX Info: Redefining \% on input line 2475.
- [146]
-LaTeX Info: Redefining \. on input line 2487.
-LaTeX Info: Redefining \% on input line 2487.
-LaTeX Info: Redefining \. on input line 2487.
-LaTeX Info: Redefining \% on input line 2487.
- [147]
-LaTeX Info: Redefining \. on input line 2499.
-LaTeX Info: Redefining \% on input line 2499.
-LaTeX Info: Redefining \. on input line 2499.
-LaTeX Info: Redefining \% on input line 2499.
- [148]
-LaTeX Info: Redefining \. on input line 2499.
-LaTeX Info: Redefining \% on input line 2499.
-LaTeX Info: Redefining \. on input line 2499.
-LaTeX Info: Redefining \% on input line 2499.
- [149]
-LaTeX Info: Redefining \. on input line 2513.
-LaTeX Info: Redefining \% on input line 2513.
-LaTeX Info: Redefining \. on input line 2513.
-LaTeX Info: Redefining \% on input line 2513.
- [150]
-LaTeX Info: Redefining \. on input line 2527.
-LaTeX Info: Redefining \% on input line 2527.
-LaTeX Info: Redefining \. on input line 2527.
-LaTeX Info: Redefining \% on input line 2527.
- [151]
-LaTeX Info: Redefining \. on input line 2537.
-LaTeX Info: Redefining \% on input line 2537.
-LaTeX Info: Redefining \. on input line 2537.
-LaTeX Info: Redefining \% on input line 2537.
- [152]
-LaTeX Info: Redefining \. on input line 2549.
-LaTeX Info: Redefining \% on input line 2549.
-LaTeX Info: Redefining \. on input line 2549.
-LaTeX Info: Redefining \% on input line 2549.
- [153]
-LaTeX Info: Redefining \. on input line 2557.
-LaTeX Info: Redefining \% on input line 2557.
-LaTeX Info: Redefining \. on input line 2557.
-LaTeX Info: Redefining \% on input line 2557.
- [154]
-LaTeX Info: Redefining \. on input line 2573.
-LaTeX Info: Redefining \% on input line 2573.
-LaTeX Info: Redefining \. on input line 2573.
-LaTeX Info: Redefining \% on input line 2573.
- [155]
-LaTeX Info: Redefining \. on input line 2577.
-LaTeX Info: Redefining \% on input line 2577.
-LaTeX Info: Redefining \. on input line 2577.
-LaTeX Info: Redefining \% on input line 2577.
 
-[156]
-Capítulo 5.
-Package biblatex Info: Resetting trackers on input line 2577.
-LaTeX Info: Redefining \. on input line 2586.
-LaTeX Info: Redefining \% on input line 2586.
-LaTeX Info: Redefining \. on input line 2586.
-LaTeX Info: Redefining \% on input line 2586.
-[157
+LaTeX Warning: Citation '@7017-LEVINAS2015' on page 145 undefined on input line
+ 2428.
+
+LaTeX Info: Redefining \. on input line 2429.
+LaTeX Info: Redefining \% on input line 2429.
+LaTeX Info: Redefining \. on input line 2429.
+LaTeX Info: Redefining \% on input line 2429.
+[145]
+
+LaTeX Warning: Citation '@7017-LEVINAS2015' on page 146 undefined on input line
+ 2434.
+
+
+LaTeX Warning: Citation '@7017-LEVINAS2015' on page 146 undefined on input line
+ 2440.
+
+
+LaTeX Warning: Citation '@7017-LEVINAS2015' on page 146 undefined on input line
+ 2446.
+
+LaTeX Info: Redefining \. on input line 2448.
+LaTeX Info: Redefining \% on input line 2448.
+LaTeX Info: Redefining \. on input line 2448.
+LaTeX Info: Redefining \% on input line 2448.
+[146]
+
+LaTeX Warning: Citation '@7017-LEVINAS2015' on page 147 undefined on input line
+ 2448.
+
+
+LaTeX Warning: Citation '@7017-LEVINAS2015' on page 147 undefined on input line
+ 2450.
+
+LaTeX Info: Redefining \. on input line 2457.
+LaTeX Info: Redefining \% on input line 2457.
+LaTeX Info: Redefining \. on input line 2457.
+LaTeX Info: Redefining \% on input line 2457.
+[147]
+LaTeX Info: Redefining \. on input line 2467.
+LaTeX Info: Redefining \% on input line 2467.
+LaTeX Info: Redefining \. on input line 2467.
+LaTeX Info: Redefining \% on input line 2467.
+ [148]
+LaTeX Info: Redefining \. on input line 2479.
+LaTeX Info: Redefining \% on input line 2479.
+LaTeX Info: Redefining \. on input line 2479.
+LaTeX Info: Redefining \% on input line 2479.
+ [149]
+LaTeX Info: Redefining \. on input line 2491.
+LaTeX Info: Redefining \% on input line 2491.
+LaTeX Info: Redefining \. on input line 2491.
+LaTeX Info: Redefining \% on input line 2491.
+ [150]
+LaTeX Info: Redefining \. on input line 2497.
+LaTeX Info: Redefining \% on input line 2497.
+LaTeX Info: Redefining \. on input line 2497.
+LaTeX Info: Redefining \% on input line 2497.
+ [151]
+LaTeX Info: Redefining \. on input line 2506.
+LaTeX Info: Redefining \% on input line 2506.
+LaTeX Info: Redefining \. on input line 2506.
+LaTeX Info: Redefining \% on input line 2506.
+ [152]
+LaTeX Info: Redefining \. on input line 2516.
+LaTeX Info: Redefining \% on input line 2516.
+LaTeX Info: Redefining \. on input line 2516.
+LaTeX Info: Redefining \% on input line 2516.
+ [153]
+
+LaTeX Warning: Citation '@7041-PICCONE2015' on page 154 undefined on input line
+ 2518.
+
+
+LaTeX Warning: Citation '@7041-PICCONE2015' on page 154 undefined on input line
+ 2524.
+
+LaTeX Info: Redefining \. on input line 2525.
+LaTeX Info: Redefining \% on input line 2525.
+LaTeX Info: Redefining \. on input line 2525.
+LaTeX Info: Redefining \% on input line 2525.
+[154]
+LaTeX Info: Redefining \. on input line 2538.
+LaTeX Info: Redefining \% on input line 2538.
+LaTeX Info: Redefining \. on input line 2538.
+LaTeX Info: Redefining \% on input line 2538.
+ [155]
+LaTeX Info: Redefining \. on input line 2551.
+LaTeX Info: Redefining \% on input line 2551.
+LaTeX Info: Redefining \. on input line 2551.
+LaTeX Info: Redefining \% on input line 2551.
+ [156]
+
+LaTeX Warning: Citation '@7037-NOVARO2015' on page 157 undefined on input line 
+2554.
+
+
+LaTeX Warning: Citation '@7037-NOVARO2015' on page 157 undefined on input line 
+2560.
+
+LaTeX Info: Redefining \. on input line 2561.
+LaTeX Info: Redefining \% on input line 2561.
+LaTeX Info: Redefining \. on input line 2561.
+LaTeX Info: Redefining \% on input line 2561.
+[157]
+LaTeX Info: Redefining \. on input line 2574.
+LaTeX Info: Redefining \% on input line 2574.
+LaTeX Info: Redefining \. on input line 2574.
+LaTeX Info: Redefining \% on input line 2574.
+ [158]
+LaTeX Info: Redefining \. on input line 2575.
+LaTeX Info: Redefining \% on input line 2575.
+LaTeX Info: Redefining \. on input line 2575.
+LaTeX Info: Redefining \% on input line 2575.
+ [159] [160
 
 ]
-LaTeX Info: Redefining \. on input line 2593.
-LaTeX Info: Redefining \% on input line 2593.
-LaTeX Info: Redefining \. on input line 2593.
-LaTeX Info: Redefining \% on input line 2593.
- [158]
-LaTeX Info: Redefining \. on input line 2605.
-LaTeX Info: Redefining \% on input line 2605.
-LaTeX Info: Redefining \. on input line 2605.
-LaTeX Info: Redefining \% on input line 2605.
- [159]
-LaTeX Info: Redefining \. on input line 2615.
-LaTeX Info: Redefining \% on input line 2615.
-LaTeX Info: Redefining \. on input line 2615.
-LaTeX Info: Redefining \% on input line 2615.
- [160]
-LaTeX Info: Redefining \. on input line 2622.
-LaTeX Info: Redefining \% on input line 2622.
-LaTeX Info: Redefining \. on input line 2622.
-LaTeX Info: Redefining \% on input line 2622.
- [161]
-LaTeX Info: Redefining \. on input line 2627.
-LaTeX Info: Redefining \% on input line 2627.
-LaTeX Info: Redefining \. on input line 2627.
-LaTeX Info: Redefining \% on input line 2627.
+Capítulo 5.
+Package biblatex Info: Resetting trackers on input line 2575.
+LaTeX Info: Redefining \. on input line 2584.
+LaTeX Info: Redefining \% on input line 2584.
+LaTeX Info: Redefining \. on input line 2584.
+LaTeX Info: Redefining \% on input line 2584.
+[161]
+LaTeX Info: Redefining \. on input line 2591.
+LaTeX Info: Redefining \% on input line 2591.
+LaTeX Info: Redefining \. on input line 2591.
+LaTeX Info: Redefining \% on input line 2591.
  [162]
-LaTeX Info: Redefining \. on input line 2638.
-LaTeX Info: Redefining \% on input line 2638.
-LaTeX Info: Redefining \. on input line 2638.
-LaTeX Info: Redefining \% on input line 2638.
+LaTeX Info: Redefining \. on input line 2603.
+LaTeX Info: Redefining \% on input line 2603.
+LaTeX Info: Redefining \. on input line 2603.
+LaTeX Info: Redefining \% on input line 2603.
  [163]
-LaTeX Info: Redefining \. on input line 2655.
-LaTeX Info: Redefining \% on input line 2655.
-LaTeX Info: Redefining \. on input line 2655.
-LaTeX Info: Redefining \% on input line 2655.
+LaTeX Info: Redefining \. on input line 2613.
+LaTeX Info: Redefining \% on input line 2613.
+LaTeX Info: Redefining \. on input line 2613.
+LaTeX Info: Redefining \% on input line 2613.
  [164]
-LaTeX Info: Redefining \. on input line 2668.
-LaTeX Info: Redefining \% on input line 2668.
-LaTeX Info: Redefining \. on input line 2668.
-LaTeX Info: Redefining \% on input line 2668.
+LaTeX Info: Redefining \. on input line 2620.
+LaTeX Info: Redefining \% on input line 2620.
+LaTeX Info: Redefining \. on input line 2620.
+LaTeX Info: Redefining \% on input line 2620.
  [165]
-LaTeX Info: Redefining \. on input line 2680.
-LaTeX Info: Redefining \% on input line 2680.
-LaTeX Info: Redefining \. on input line 2680.
-LaTeX Info: Redefining \% on input line 2680.
+LaTeX Info: Redefining \. on input line 2625.
+LaTeX Info: Redefining \% on input line 2625.
+LaTeX Info: Redefining \. on input line 2625.
+LaTeX Info: Redefining \% on input line 2625.
  [166]
-LaTeX Info: Redefining \. on input line 2697.
-LaTeX Info: Redefining \% on input line 2697.
-LaTeX Info: Redefining \. on input line 2697.
-LaTeX Info: Redefining \% on input line 2697.
+LaTeX Info: Redefining \. on input line 2636.
+LaTeX Info: Redefining \% on input line 2636.
+LaTeX Info: Redefining \. on input line 2636.
+LaTeX Info: Redefining \% on input line 2636.
  [167]
-LaTeX Info: Redefining \. on input line 2706.
-LaTeX Info: Redefining \% on input line 2706.
-LaTeX Info: Redefining \. on input line 2706.
-LaTeX Info: Redefining \% on input line 2706.
+LaTeX Info: Redefining \. on input line 2653.
+LaTeX Info: Redefining \% on input line 2653.
+LaTeX Info: Redefining \. on input line 2653.
+LaTeX Info: Redefining \% on input line 2653.
  [168]
-LaTeX Info: Redefining \. on input line 2710.
-LaTeX Info: Redefining \% on input line 2710.
-LaTeX Info: Redefining \. on input line 2710.
-LaTeX Info: Redefining \% on input line 2710.
+LaTeX Info: Redefining \. on input line 2666.
+LaTeX Info: Redefining \% on input line 2666.
+LaTeX Info: Redefining \. on input line 2666.
+LaTeX Info: Redefining \% on input line 2666.
+ [169]
+LaTeX Info: Redefining \. on input line 2678.
+LaTeX Info: Redefining \% on input line 2678.
+LaTeX Info: Redefining \. on input line 2678.
+LaTeX Info: Redefining \% on input line 2678.
+ [170]
+LaTeX Info: Redefining \. on input line 2695.
+LaTeX Info: Redefining \% on input line 2695.
+LaTeX Info: Redefining \. on input line 2695.
+LaTeX Info: Redefining \% on input line 2695.
+ [171]
+LaTeX Info: Redefining \. on input line 2704.
+LaTeX Info: Redefining \% on input line 2704.
+LaTeX Info: Redefining \. on input line 2704.
+LaTeX Info: Redefining \% on input line 2704.
+ [172]
+LaTeX Info: Redefining \. on input line 2708.
+LaTeX Info: Redefining \% on input line 2708.
+LaTeX Info: Redefining \. on input line 2708.
+LaTeX Info: Redefining \% on input line 2708.
 
-[169] [170
+[173] [174
 
 ]
 Capítulo 6.
-Package biblatex Info: Resetting trackers on input line 2710.
-LaTeX Info: Redefining \. on input line 2725.
-LaTeX Info: Redefining \% on input line 2725.
-LaTeX Info: Redefining \. on input line 2725.
-LaTeX Info: Redefining \% on input line 2725.
-[171] [172
+Package biblatex Info: Resetting trackers on input line 2708.
+LaTeX Info: Redefining \. on input line 2723.
+LaTeX Info: Redefining \% on input line 2723.
+LaTeX Info: Redefining \. on input line 2723.
+LaTeX Info: Redefining \% on input line 2723.
+[175] [176
 
 ]
 Capítulo 7.
-Package biblatex Info: Resetting trackers on input line 2725.
-LaTeX Info: Redefining \. on input line 2747.
-LaTeX Info: Redefining \% on input line 2747.
-LaTeX Info: Redefining \. on input line 2747.
-LaTeX Info: Redefining \% on input line 2747.
-[173]
-LaTeX Info: Redefining \. on input line 2779.
-LaTeX Info: Redefining \% on input line 2779.
-LaTeX Info: Redefining \. on input line 2779.
-LaTeX Info: Redefining \% on input line 2779.
- [174]
-LaTeX Info: Redefining \. on input line 2810.
-LaTeX Info: Redefining \% on input line 2810.
-LaTeX Info: Redefining \. on input line 2810.
-LaTeX Info: Redefining \% on input line 2810.
- [175]
-LaTeX Info: Redefining \. on input line 2841.
-LaTeX Info: Redefining \% on input line 2841.
-LaTeX Info: Redefining \. on input line 2841.
-LaTeX Info: Redefining \% on input line 2841.
- [176]
-LaTeX Info: Redefining \. on input line 2874.
-LaTeX Info: Redefining \% on input line 2874.
-LaTeX Info: Redefining \. on input line 2874.
-LaTeX Info: Redefining \% on input line 2874.
- [177]
-LaTeX Info: Redefining \. on input line 2904.
-LaTeX Info: Redefining \% on input line 2904.
-LaTeX Info: Redefining \. on input line 2904.
-LaTeX Info: Redefining \% on input line 2904.
+Package biblatex Info: Resetting trackers on input line 2723.
+LaTeX Info: Redefining \. on input line 2745.
+LaTeX Info: Redefining \% on input line 2745.
+LaTeX Info: Redefining \. on input line 2745.
+LaTeX Info: Redefining \% on input line 2745.
+[177]
+LaTeX Info: Redefining \. on input line 2777.
+LaTeX Info: Redefining \% on input line 2777.
+LaTeX Info: Redefining \. on input line 2777.
+LaTeX Info: Redefining \% on input line 2777.
  [178]
-LaTeX Info: Redefining \. on input line 2934.
-LaTeX Info: Redefining \% on input line 2934.
-LaTeX Info: Redefining \. on input line 2934.
-LaTeX Info: Redefining \% on input line 2934.
+LaTeX Info: Redefining \. on input line 2808.
+LaTeX Info: Redefining \% on input line 2808.
+LaTeX Info: Redefining \. on input line 2808.
+LaTeX Info: Redefining \% on input line 2808.
  [179]
+LaTeX Info: Redefining \. on input line 2839.
+LaTeX Info: Redefining \% on input line 2839.
+LaTeX Info: Redefining \. on input line 2839.
+LaTeX Info: Redefining \% on input line 2839.
+ [180]
+LaTeX Info: Redefining \. on input line 2872.
+LaTeX Info: Redefining \% on input line 2872.
+LaTeX Info: Redefining \. on input line 2872.
+LaTeX Info: Redefining \% on input line 2872.
+ [181]
+LaTeX Info: Redefining \. on input line 2902.
+LaTeX Info: Redefining \% on input line 2902.
+LaTeX Info: Redefining \. on input line 2902.
+LaTeX Info: Redefining \% on input line 2902.
+ [182]
+LaTeX Info: Redefining \. on input line 2932.
+LaTeX Info: Redefining \% on input line 2932.
+LaTeX Info: Redefining \. on input line 2932.
+LaTeX Info: Redefining \% on input line 2932.
+ [183]
 
-LaTeX Warning: Empty bibliography on input line 2947.
+LaTeX Warning: Empty bibliography on input line 2945.
 
 
 AED: pageslts setting LastPage 
-LaTeX Info: Redefining \. on input line 2948.
-LaTeX Info: Redefining \% on input line 2948.
-LaTeX Info: Redefining \. on input line 2948.
-LaTeX Info: Redefining \% on input line 2948.
+LaTeX Info: Redefining \. on input line 2946.
+LaTeX Info: Redefining \% on input line 2946.
+LaTeX Info: Redefining \. on input line 2946.
+LaTeX Info: Redefining \% on input line 2946.
 (/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-utf32be.def
 File: se-utf32be.def 2019/11/29 v1.12 stringenc: UTF-32BE
 )
 (/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
-) [180]
+) [184]
 
 Package glossaries Warning: No \printnoidxglossary or \printnoidxglossaries
  found. (Remove \makenoidxglossaries if you don't want any glossaries.)
@@ -6445,21 +6825,18 @@ Package logreq Info: Writing requests to 'pdf-20250411MAUROO.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 67037 strings out of 476553
- 6947394,2848258 words of node,token memory allocated
- 5816402 words of node memory still in use:
-   19988 hlist, 39 vlist, 6245 rule, 173 ins, 2 adjust, 76608 disc, 2813 local_p
-ar, 402 math, 104145 glue, 60648 kern, 6506 penalty, 810 margin_kern, 489685 gly
-ph, 83890 attribute, 6288 glue_spec, 11996 attribute_list, 4 write, 38 pdf_liter
-al, 157 pdf_start_link, 163 pdf_end_link, 334 pdf_dest, 133 pdf_action, 1144 pdf
+ 67040 strings out of 476553
+ 6947317,2848258 words of node,token memory allocated
+ 5900387 words of node memory still in use:
+   20269 hlist, 39 vlist, 6245 rule, 173 ins, 2 adjust, 77465 disc, 2828 local_p
+ar, 402 math, 105237 glue, 61201 kern, 6599 penalty, 881 margin_kern, 497398 gly
+ph, 86872 attribute, 6318 glue_spec, 12422 attribute_list, 4 write, 38 pdf_liter
+al, 155 pdf_start_link, 161 pdf_end_link, 334 pdf_dest, 132 pdf_action, 1154 pdf
 _colorstack, 4 pdf_setmatrix, 4 pdf_save, 4 pdf_restore nodes
-   avail lists: 1:10,2:276,3:210,4:42,5:202,6:23,7:3134,8:136,9:133,10:31,11:363
-
+   avail lists: 1:9,2:276,3:210,4:42,5:202,6:23,7:3134,8:136,9:133,10:31,11:363
  86968 multiletter control sequences out of 65536+600000
- 102 fonts using 27878487 bytes
- 117i,11n,123p,5845b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-warning  (pdf backend): unreferenced destination with name '_bookmark8'
+ 102 fonts using 27878283 bytes
+ 117i,11n,123p,5926b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinus
 Serif-BoldItalic.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMP
 lexSansCondensed-Italic.otf></usr/share/texlive/texmf-dist/fonts/opentype/public
@@ -6469,10 +6846,10 @@ st/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Italic.otf></usr/share
 /texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.otf></u
 sr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSer
 if-Regular.otf>
-Output written on pdf-20250411MAUROO.pdf (198 pages, 744575 bytes).
+Output written on pdf-20250411MAUROO.pdf (202 pages, 751691 bytes).
 
-PDF statistics: 1383 PDF objects out of 1440 (max. 8388607)
- 1032 compressed objects within 11 object streams
- 371 named destinations out of 1000 (max. 131072)
+PDF statistics: 1399 PDF objects out of 1440 (max. 8388607)
+ 1043 compressed objects within 11 object streams
+ 374 named destinations out of 1000 (max. 131072)
  365 words of extra memory for PDF output out of 10000 (max. 100000000)
 
