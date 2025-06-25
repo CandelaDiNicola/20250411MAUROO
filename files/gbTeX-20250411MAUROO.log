@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.4)  24 JUN 2025 23:57
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.4)  25 JUN 2025 00:04
  restricted system commands enabled.
 **pdf-20250411MAUROO.tex
 (./pdf-20250411MAUROO.tex
@@ -6826,14 +6826,14 @@ Package logreq Info: Writing requests to 'pdf-20250411MAUROO.run.xml'.
 
 Here is how much of LuaTeX's memory you used:
  67040 strings out of 476553
- 6947317,2848258 words of node,token memory allocated
- 5900387 words of node memory still in use:
-   20269 hlist, 39 vlist, 6245 rule, 173 ins, 2 adjust, 77465 disc, 2828 local_p
-ar, 402 math, 105237 glue, 61201 kern, 6599 penalty, 881 margin_kern, 497398 gly
+ 6947359,2848258 words of node,token memory allocated
+ 5906363 words of node memory still in use:
+   20271 hlist, 39 vlist, 6245 rule, 173 ins, 2 adjust, 77567 disc, 2827 local_p
+ar, 402 math, 105312 glue, 61236 kern, 6598 penalty, 885 margin_kern, 497989 gly
 ph, 86872 attribute, 6318 glue_spec, 12422 attribute_list, 4 write, 38 pdf_liter
-al, 155 pdf_start_link, 161 pdf_end_link, 334 pdf_dest, 132 pdf_action, 1154 pdf
+al, 155 pdf_start_link, 161 pdf_end_link, 334 pdf_dest, 132 pdf_action, 1152 pdf
 _colorstack, 4 pdf_setmatrix, 4 pdf_save, 4 pdf_restore nodes
-   avail lists: 1:9,2:276,3:210,4:42,5:202,6:23,7:3134,8:136,9:133,10:31,11:363
+   avail lists: 1:7,2:276,3:210,4:42,5:202,6:23,7:3134,8:136,9:133,10:31,11:363
  86968 multiletter control sequences out of 65536+600000
  102 fonts using 27878283 bytes
  117i,11n,123p,5926b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -6846,7 +6846,7 @@ st/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Italic.otf></usr/share
 /texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.otf></u
 sr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSer
 if-Regular.otf>
-Output written on pdf-20250411MAUROO.pdf (202 pages, 751691 bytes).
+Output written on pdf-20250411MAUROO.pdf (202 pages, 752001 bytes).
 
 PDF statistics: 1399 PDF objects out of 1440 (max. 8388607)
  1043 compressed objects within 11 object streams
