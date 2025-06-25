@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.4)  25 JUN 2025 00:04
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.4)  25 JUN 2025 19:43
  restricted system commands enabled.
 **pdf-20250411MAUROO.tex
 (./pdf-20250411MAUROO.tex
@@ -3042,21 +3042,21 @@ LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 20.39026pt on input line 19.
  [3] [4]
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
-(Font)              scaled to size 11.79993pt on input line 31.
+(Font)              scaled to size 11.79993pt on input line 32.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
-(Font)              scaled to size 14.15991pt on input line 31.
+(Font)              scaled to size 14.15991pt on input line 32.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 16.99188pt on input line 39.
+(Font)              scaled to size 16.99188pt on input line 40.
 <./media/logo-imago-ByW.png, id=113, 85.2786pt x 42.1575pt>
 File: ./media/logo-imago-ByW.png Graphic file (type png)
 <use ./media/logo-imago-ByW.png>
-Package luatex.def Info: ./media/logo-imago-ByW.png  used on input line 46.
+Package luatex.def Info: ./media/logo-imago-ByW.png  used on input line 47.
 (luatex.def)             Requested size: 56.9055pt x 28.1315pt.
  [5<./media/logo-imago-ByW.png>]
 <./media/desconocido.png, id=120, 85.2786pt x 98.0463pt>
 File: ./media/desconocido.png Graphic file (type png)
 <use ./media/desconocido.png>
-Package luatex.def Info: ./media/desconocido.png  used on input line 55.
+Package luatex.def Info: ./media/desconocido.png  used on input line 56.
 (luatex.def)             Requested size: 56.9055pt x 65.42586pt.
 
 
@@ -3138,18 +3138,11 @@ LaTeX Info: Redefining \% on input line 534.
 
 ]
 Package biblatex Info: Resetting trackers on input line 534.
-
-
-LaTeX Warning: Citation '@6982-BOURDIEU2008' on page 17 undefined on input line
- 538.
-
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 11.79993pt on input line 538.
 LaTeX Info: Redefining \. on input line 541.
 LaTeX Info: Redefining \% on input line 541.
 LaTeX Info: Redefining \. on input line 541.
 LaTeX Info: Redefining \% on input line 541.
-[17]
+ [17]
 LaTeX Info: Redefining \. on input line 542.
 LaTeX Info: Redefining \% on input line 542.
 LaTeX Info: Redefining \. on input line 542.
@@ -3175,18 +3168,11 @@ LaTeX Font Info:    Font shape `TU/LibertinusMath(3)/m/n' will be
 (Font)              scaled to size 5.89996pt on input line 551.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
 (Font)              scaled to size 10.61993pt on input line 551.
-
-
-LaTeX Warning: Citation '@6980-BORGES1967' on page 1 undefined on input line 55
-1.
-
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 10.61993pt on input line 551.
 LaTeX Info: Redefining \. on input line 553.
 LaTeX Info: Redefining \% on input line 553.
 LaTeX Info: Redefining \. on input line 553.
 LaTeX Info: Redefining \% on input line 553.
-[1
+ [1
 
 ] [2
 
@@ -3203,10 +3189,6 @@ LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 8.25995pt on input line 559.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
 (Font)              scaled to size 6.86723pt on input line 559.
-
-LaTeX Warning: Citation '@6993-DEDIEGO2012' on page 3 undefined on input line 5
-61.
-
 LaTeX Info: Redefining \. on input line 566.
 LaTeX Info: Redefining \% on input line 566.
 LaTeX Info: Redefining \. on input line 566.
@@ -3232,19 +3214,11 @@ LaTeX Info: Redefining \% on input line 614.
 LaTeX Info: Redefining \. on input line 614.
 LaTeX Info: Redefining \% on input line 614.
  [7]
-
-LaTeX Warning: Citation '@6982-BOURDIEU2008' on page 8 undefined on input line 
-619.
-
-
-LaTeX Warning: Citation '@6982-BOURDIEU2008' on page 8 undefined on input line 
-619.
-
 LaTeX Info: Redefining \. on input line 625.
 LaTeX Info: Redefining \% on input line 625.
 LaTeX Info: Redefining \. on input line 625.
 LaTeX Info: Redefining \% on input line 625.
-[8]
+ [8]
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
 (Font)              scaled to size 11.7724pt on input line 638.
 LaTeX Info: Redefining \. on input line 641.
@@ -3252,6 +3226,8 @@ LaTeX Info: Redefining \% on input line 641.
 LaTeX Info: Redefining \. on input line 641.
 LaTeX Info: Redefining \% on input line 641.
  [9]
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
+(Font)              scaled to size 11.79993pt on input line 648.
 LaTeX Info: Redefining \. on input line 649.
 LaTeX Info: Redefining \% on input line 649.
 LaTeX Info: Redefining \. on input line 649.
@@ -3259,6 +3235,8 @@ LaTeX Info: Redefining \% on input line 649.
  [10]
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
 (Font)              scaled to size 7.84827pt on input line 651.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
+(Font)              scaled to size 10.61993pt on input line 653.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
 (Font)              scaled to size 7.75806pt on input line 656.
 
@@ -5429,29 +5407,21 @@ LaTeX Info: Redefining \% on input line 744.
 LaTeX Info: Redefining \. on input line 744.
 LaTeX Info: Redefining \% on input line 744.
  [13]
-
-LaTeX Warning: Citation '@7013-HUMPHREYS2008' on page 14 undefined on input lin
-e 749.
-
 LaTeX Info: Redefining \. on input line 761.
 LaTeX Info: Redefining \% on input line 761.
 LaTeX Info: Redefining \. on input line 761.
 LaTeX Info: Redefining \% on input line 761.
-[14]
+ [14]
 LaTeX Info: Redefining \. on input line 775.
 LaTeX Info: Redefining \% on input line 775.
 LaTeX Info: Redefining \. on input line 775.
 LaTeX Info: Redefining \% on input line 775.
  [15]
-
-LaTeX Warning: Citation '@7064-WINAZKI2000' on page 16 undefined on input line 
-780.
-
 LaTeX Info: Redefining \. on input line 781.
 LaTeX Info: Redefining \% on input line 781.
 LaTeX Info: Redefining \. on input line 781.
 LaTeX Info: Redefining \% on input line 781.
-[16]
+ [16]
 LaTeX Info: Redefining \. on input line 793.
 LaTeX Info: Redefining \% on input line 793.
 LaTeX Info: Redefining \. on input line 793.
@@ -5474,10 +5444,6 @@ LaTeX Info: Redefining \% on input line 835.
  [20]
 Capítulo 2.
 Package biblatex Info: Resetting trackers on input line 835.
-
-LaTeX Warning: Citation '@7065-WOLF2004' on page 21 undefined on input line 839
-.
-
 LaTeX Info: Redefining \. on input line 846.
 LaTeX Info: Redefining \% on input line 846.
 LaTeX Info: Redefining \. on input line 846.
@@ -5490,85 +5456,41 @@ LaTeX Info: Redefining \% on input line 854.
 LaTeX Info: Redefining \. on input line 854.
 LaTeX Info: Redefining \% on input line 854.
  [22]
-
-LaTeX Warning: Citation '@6974-BELIZ1998' on page 23 undefined on input line 85
-5.
-
 LaTeX Info: Redefining \. on input line 862.
 LaTeX Info: Redefining \% on input line 862.
 LaTeX Info: Redefining \. on input line 862.
 LaTeX Info: Redefining \% on input line 862.
-[23]
-
-LaTeX Warning: Citation '@6967-CESAR2013' on page 24 undefined on input line 86
-5.
-
-
-LaTeX Warning: Citation '@7056-STEFONI2013' on page 24 undefined on input line 
-870.
-
+ [23]
 LaTeX Info: Redefining \. on input line 871.
 LaTeX Info: Redefining \% on input line 871.
 LaTeX Info: Redefining \. on input line 871.
 LaTeX Info: Redefining \% on input line 871.
-[24]
-
-LaTeX Warning: Citation '@7058-URE2014' on page 25 undefined on input line 873.
-
-
-
-LaTeX Warning: Citation '@7065-WOLF2004' on page 25 undefined on input line 879
-.
-
-
-LaTeX Warning: Citation '@7065-WOLF2004' on page 25 undefined on input line 881
-.
-
+ [24]
 LaTeX Info: Redefining \. on input line 882.
 LaTeX Info: Redefining \% on input line 882.
 LaTeX Info: Redefining \. on input line 882.
 LaTeX Info: Redefining \% on input line 882.
-[25]
-
-LaTeX Warning: Citation '@7027-MENESESFERNANDEZ2008' on page 26 undefined on in
-put line 883.
-
-
-LaTeX Warning: Citation '@7026-MENESESFERNANDEZ2010' on page 26 undefined on in
-put line 886.
-
+ [25]
 LaTeX Info: Redefining \. on input line 897.
 LaTeX Info: Redefining \% on input line 897.
 LaTeX Info: Redefining \. on input line 897.
 LaTeX Info: Redefining \% on input line 897.
-[26]
-
-LaTeX Warning: Citation '@6984-BOURDIEU1997' on page 27 undefined on input line
- 903.
-
+ [26]
 LaTeX Info: Redefining \. on input line 904.
 LaTeX Info: Redefining \% on input line 904.
 LaTeX Info: Redefining \. on input line 904.
 LaTeX Info: Redefining \% on input line 904.
-[27]
-
-LaTeX Warning: Citation '@6983-BOURDIEU2008' on page 28 undefined on input line
- 909.
-
+ [27]
 LaTeX Info: Redefining \. on input line 923.
 LaTeX Info: Redefining \% on input line 923.
 LaTeX Info: Redefining \. on input line 923.
 LaTeX Info: Redefining \% on input line 923.
-[28]
-
-LaTeX Warning: Citation '@6983-BOURDIEU2008' on page 29 undefined on input line
- 924.
-
+ [28]
 LaTeX Info: Redefining \. on input line 941.
 LaTeX Info: Redefining \% on input line 941.
 LaTeX Info: Redefining \. on input line 941.
 LaTeX Info: Redefining \% on input line 941.
-[29]
+ [29]
 LaTeX Info: Redefining \. on input line 955.
 LaTeX Info: Redefining \% on input line 955.
 LaTeX Info: Redefining \. on input line 955.
@@ -5586,15 +5508,11 @@ LaTeX Info: Redefining \% on input line 988.
 LaTeX Info: Redefining \. on input line 988.
 LaTeX Info: Redefining \% on input line 988.
  [32]
-
-LaTeX Warning: Citation '@7060-VERON1987' on page 33 undefined on input line 99
-7.
-
 LaTeX Info: Redefining \. on input line 1013.
 LaTeX Info: Redefining \% on input line 1013.
 LaTeX Info: Redefining \. on input line 1013.
 LaTeX Info: Redefining \% on input line 1013.
-[33]
+ [33]
 LaTeX Info: Redefining \. on input line 1020.
 LaTeX Info: Redefining \% on input line 1020.
 LaTeX Info: Redefining \. on input line 1020.
@@ -5613,56 +5531,31 @@ LaTeX Info: Redefining \. on input line 1058.
 LaTeX Info: Redefining \% on input line 1058.
 
 [36]
-
-LaTeX Warning: Citation '@6983-BOURDIEU2008' on page 37 undefined on input line
- 1073.
-
 LaTeX Info: Redefining \. on input line 1080.
 LaTeX Info: Redefining \% on input line 1080.
 LaTeX Info: Redefining \. on input line 1080.
 LaTeX Info: Redefining \% on input line 1080.
-[37]
-
-LaTeX Warning: Citation '@6984-BOURDIEU1997' on page 38 undefined on input line
- 1083.
-
-
-LaTeX Warning: Citation '@6983-BOURDIEU2008' on page 38 undefined on input line
- 1083.
-
+ [37]
 LaTeX Info: Redefining \. on input line 1089.
 LaTeX Info: Redefining \% on input line 1089.
 LaTeX Info: Redefining \. on input line 1089.
 LaTeX Info: Redefining \% on input line 1089.
-[38]
-
-LaTeX Warning: Citation '@7025-MAUSS2009' on page 39 undefined on input line 10
-89.
-
+ [38]
 LaTeX Info: Redefining \. on input line 1098.
 LaTeX Info: Redefining \% on input line 1098.
 LaTeX Info: Redefining \. on input line 1098.
 LaTeX Info: Redefining \% on input line 1098.
-[39]
+ [39]
 LaTeX Info: Redefining \. on input line 1107.
 LaTeX Info: Redefining \% on input line 1107.
 LaTeX Info: Redefining \. on input line 1107.
 LaTeX Info: Redefining \% on input line 1107.
  [40]
-
-LaTeX Warning: Citation '@6970-FREDERIC1999' on page 41 undefined on input line
- 1119.
-
 LaTeX Info: Redefining \. on input line 1120.
 LaTeX Info: Redefining \% on input line 1120.
 LaTeX Info: Redefining \. on input line 1120.
 LaTeX Info: Redefining \% on input line 1120.
-[41]
-
-LaTeX Warning: Citation '@6973-CARLOS2004' on page 42 undefined on input line 1
-121.
-
-
+ [41]
 Overfull \vbox (0.46121pt too high) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 1127.
@@ -5692,10 +5585,6 @@ LaTeX Info: Redefining \% on input line 1143.
 ]
 Capítulo 3.
 Package biblatex Info: Resetting trackers on input line 1143.
-
-LaTeX Warning: Citation '@7040-OLIVAN2010' on page 47 undefined on input line 1
-151.
-
 LaTeX Info: Redefining \. on input line 1154.
 LaTeX Info: Redefining \% on input line 1154.
 LaTeX Info: Redefining \. on input line 1154.
@@ -5706,66 +5595,50 @@ LaTeX Info: Redefining \% on input line 1164.
 LaTeX Info: Redefining \. on input line 1164.
 LaTeX Info: Redefining \% on input line 1164.
  [48]
-
-LaTeX Warning: Citation '@7040-OLIVAN2010' on page 49 undefined on input line 1
-168.
-
 LaTeX Info: Redefining \. on input line 1177.
 LaTeX Info: Redefining \% on input line 1177.
 LaTeX Info: Redefining \. on input line 1177.
 LaTeX Info: Redefining \% on input line 1177.
-[49]
-
-LaTeX Warning: Citation '@7037-NOVARO2015' on page 50 undefined on input line 1
-197.
-
+ [49]
 LaTeX Info: Redefining \. on input line 1198.
 LaTeX Info: Redefining \% on input line 1198.
 LaTeX Info: Redefining \. on input line 1198.
 LaTeX Info: Redefining \% on input line 1198.
-[50]
+ [50]
 LaTeX Info: Redefining \. on input line 1211.
 LaTeX Info: Redefining \% on input line 1211.
 LaTeX Info: Redefining \. on input line 1211.
 LaTeX Info: Redefining \% on input line 1211.
  [51]
-LaTeX Info: Redefining \. on input line 1220.
-LaTeX Info: Redefining \% on input line 1220.
-LaTeX Info: Redefining \. on input line 1220.
-LaTeX Info: Redefining \% on input line 1220.
+LaTeX Info: Redefining \. on input line 1219.
+LaTeX Info: Redefining \% on input line 1219.
+LaTeX Info: Redefining \. on input line 1219.
+LaTeX Info: Redefining \% on input line 1219.
  [52]
-LaTeX Info: Redefining \. on input line 1227.
-LaTeX Info: Redefining \% on input line 1227.
-LaTeX Info: Redefining \. on input line 1227.
-LaTeX Info: Redefining \% on input line 1227.
+LaTeX Info: Redefining \. on input line 1226.
+LaTeX Info: Redefining \% on input line 1226.
+LaTeX Info: Redefining \. on input line 1226.
+LaTeX Info: Redefining \% on input line 1226.
  [53]
 LaTeX Info: Redefining \. on input line 1251.
 LaTeX Info: Redefining \% on input line 1251.
 LaTeX Info: Redefining \. on input line 1251.
 LaTeX Info: Redefining \% on input line 1251.
  [54]
-
-LaTeX Warning: Citation '@7052-SIRVEN2011' on page 55 undefined on input line 1
-280.
-
 LaTeX Info: Redefining \. on input line 1281.
 LaTeX Info: Redefining \% on input line 1281.
 LaTeX Info: Redefining \. on input line 1281.
 LaTeX Info: Redefining \% on input line 1281.
-[55]
-
-LaTeX Warning: Citation '@6972-ORLANDO2011' on page 56 undefined on input line 
-1290.
-
-LaTeX Info: Redefining \. on input line 1305.
-LaTeX Info: Redefining \% on input line 1305.
-LaTeX Info: Redefining \. on input line 1305.
-LaTeX Info: Redefining \% on input line 1305.
-[56]
-LaTeX Info: Redefining \. on input line 1319.
-LaTeX Info: Redefining \% on input line 1319.
-LaTeX Info: Redefining \. on input line 1319.
-LaTeX Info: Redefining \% on input line 1319.
+ [55]
+LaTeX Info: Redefining \. on input line 1304.
+LaTeX Info: Redefining \% on input line 1304.
+LaTeX Info: Redefining \. on input line 1304.
+LaTeX Info: Redefining \% on input line 1304.
+ [56]
+LaTeX Info: Redefining \. on input line 1315.
+LaTeX Info: Redefining \% on input line 1315.
+LaTeX Info: Redefining \. on input line 1315.
+LaTeX Info: Redefining \% on input line 1315.
  [57]
 LaTeX Info: Redefining \. on input line 1327.
 LaTeX Info: Redefining \% on input line 1327.
@@ -5783,43 +5656,26 @@ LaTeX Info: Redefining \% on input line 1347.
 [59
 
 ]
-
-LaTeX Warning: Citation '@6996-DIAZ2009' on page 60 undefined on input line 135
-4.
-
 LaTeX Info: Redefining \. on input line 1361.
 LaTeX Info: Redefining \% on input line 1361.
 LaTeX Info: Redefining \. on input line 1361.
 LaTeX Info: Redefining \% on input line 1361.
-[60]
-
-LaTeX Warning: Citation '@7040-OLIVAN2010' on page 61 undefined on input line 1
-372.
-
+ [60]
 LaTeX Info: Redefining \. on input line 1376.
 LaTeX Info: Redefining \% on input line 1376.
 LaTeX Info: Redefining \. on input line 1376.
 LaTeX Info: Redefining \% on input line 1376.
-[61]
-
-LaTeX Warning: Citation '@7040-OLIVAN2010' on page 62 undefined on input line 1
-378.
-
+ [61]
 LaTeX Info: Redefining \. on input line 1382.
 LaTeX Info: Redefining \% on input line 1382.
 LaTeX Info: Redefining \. on input line 1382.
 LaTeX Info: Redefining \% on input line 1382.
-[62]
+ [62]
 LaTeX Info: Redefining \. on input line 1396.
 LaTeX Info: Redefining \% on input line 1396.
 LaTeX Info: Redefining \. on input line 1396.
 LaTeX Info: Redefining \% on input line 1396.
  [63]
-
-LaTeX Warning: Citation '@6990-CECCHINI2010' on page 64 undefined on input line
- 1416.
-
-
 Overfull \vbox (0.20837pt too high) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 1417.
@@ -5828,129 +5684,61 @@ LaTeX Info: Redefining \. on input line 1417.
 LaTeX Info: Redefining \% on input line 1417.
 
 [64]
-
-LaTeX Warning: Citation '@6990-CECCHINI2010' on page 65 undefined on input line
- 1422.
-
-
-LaTeX Warning: Citation '@6990-CECCHINI2010' on page 65 undefined on input line
- 1428.
-
 LaTeX Info: Redefining \. on input line 1429.
 LaTeX Info: Redefining \% on input line 1429.
 LaTeX Info: Redefining \. on input line 1429.
 LaTeX Info: Redefining \% on input line 1429.
-[65]
-
-LaTeX Warning: Citation '@7029-MOCHKOFSKY2011' on page 66 undefined on input li
-ne 1442.
-
+ [65]
 LaTeX Info: Redefining \. on input line 1443.
 LaTeX Info: Redefining \% on input line 1443.
 LaTeX Info: Redefining \. on input line 1443.
 LaTeX Info: Redefining \% on input line 1443.
-[66]
-
-LaTeX Warning: Citation '@7067-ZUNINO2011' on page 67 undefined on input line 1
-452.
-
+ [66]
 LaTeX Info: Redefining \. on input line 1453.
 LaTeX Info: Redefining \% on input line 1453.
 LaTeX Info: Redefining \. on input line 1453.
 LaTeX Info: Redefining \% on input line 1453.
-[67]
-
-LaTeX Warning: Citation '@7067-ZUNINO2011' on page 68 undefined on input line 1
-455.
-
-
-LaTeX Warning: Citation '@7067-ZUNINO2011' on page 68 undefined on input line 1
-464.
-
-
-LaTeX Warning: Citation '@7067-ZUNINO2011' on page 68 undefined on input line 1
-470.
-
+ [67]
 LaTeX Info: Redefining \. on input line 1471.
 LaTeX Info: Redefining \% on input line 1471.
 LaTeX Info: Redefining \. on input line 1471.
 LaTeX Info: Redefining \% on input line 1471.
-[68]
-
-LaTeX Warning: Citation '@7067-ZUNINO2011' on page 69 undefined on input line 1
-481.
-
+ [68]
 LaTeX Info: Redefining \. on input line 1483.
 LaTeX Info: Redefining \% on input line 1483.
 LaTeX Info: Redefining \. on input line 1483.
 LaTeX Info: Redefining \% on input line 1483.
-[69]
-
-LaTeX Warning: Citation '@7067-ZUNINO2011' on page 70 undefined on input line 1
-484.
-
-
-LaTeX Warning: Citation '@7067-ZUNINO2011' on page 70 undefined on input line 1
-492.
-
-
-LaTeX Warning: Citation '@7067-ZUNINO2011' on page 70 undefined on input line 1
-498.
-
+ [69]
 LaTeX Info: Redefining \. on input line 1499.
 LaTeX Info: Redefining \% on input line 1499.
 LaTeX Info: Redefining \. on input line 1499.
 LaTeX Info: Redefining \% on input line 1499.
-[70]
-
-LaTeX Warning: Citation '@7067-ZUNINO2011' on page 71 undefined on input line 1
-508.
-
+ [70]
 LaTeX Info: Redefining \. on input line 1514.
 LaTeX Info: Redefining \% on input line 1514.
 LaTeX Info: Redefining \. on input line 1514.
 LaTeX Info: Redefining \% on input line 1514.
-[71]
-
-LaTeX Warning: Citation '@7067-ZUNINO2011' on page 72 undefined on input line 1
-520.
-
+ [71]
 LaTeX Info: Redefining \. on input line 1524.
 LaTeX Info: Redefining \% on input line 1524.
 LaTeX Info: Redefining \. on input line 1524.
 LaTeX Info: Redefining \% on input line 1524.
-[72]
+ [72]
 LaTeX Info: Redefining \. on input line 1541.
 LaTeX Info: Redefining \% on input line 1541.
 LaTeX Info: Redefining \. on input line 1541.
 LaTeX Info: Redefining \% on input line 1541.
  [73]
-
-LaTeX Warning: Citation '@7067-ZUNINO2011' on page 74 undefined on input line 1
-552.
-
 LaTeX Info: Redefining \. on input line 1553.
 LaTeX Info: Redefining \% on input line 1553.
 LaTeX Info: Redefining \. on input line 1553.
 LaTeX Info: Redefining \% on input line 1553.
-[74]
-
-LaTeX Warning: Citation '@7067-ZUNINO2011' on page 75 undefined on input line 1
-559.
-
-
-LaTeX Warning: Citation '@7067-ZUNINO2011' on page 75 undefined on input line 1
-561.
-
-
-LaTeX Warning: Citation '@7067-ZUNINO2011' on page 75 undefined on input line 1
-572.
-
+ [74]
 LaTeX Info: Redefining \. on input line 1573.
 LaTeX Info: Redefining \% on input line 1573.
 LaTeX Info: Redefining \. on input line 1573.
 LaTeX Info: Redefining \% on input line 1573.
-[75]
+ [75]
 LaTeX Info: Redefining \. on input line 1582.
 LaTeX Info: Redefining \% on input line 1582.
 LaTeX Info: Redefining \. on input line 1582.
@@ -5970,25 +5758,18 @@ LaTeX Info: Redefining \. on input line 1619.
 LaTeX Info: Redefining \% on input line 1619.
 LaTeX Info: Redefining \. on input line 1619.
 LaTeX Info: Redefining \% on input line 1619.
- [79]
+
+[79]
 LaTeX Info: Redefining \. on input line 1630.
 LaTeX Info: Redefining \% on input line 1630.
 LaTeX Info: Redefining \. on input line 1630.
 LaTeX Info: Redefining \% on input line 1630.
  [80]
-
-LaTeX Warning: Citation '@7022-MARQUEZ2010' on page 81 undefined on input line 
-1631.
-
-
-LaTeX Warning: Citation '@7022-MARQUEZ2010' on page 81 undefined on input line 
-1634.
-
 LaTeX Info: Redefining \. on input line 1641.
 LaTeX Info: Redefining \% on input line 1641.
 LaTeX Info: Redefining \. on input line 1641.
 LaTeX Info: Redefining \% on input line 1641.
-[81]
+ [81]
 Overfull \vbox (2.95837pt too high) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 1648.
@@ -6010,36 +5791,16 @@ LaTeX Info: Redefining \% on input line 1674.
 LaTeX Info: Redefining \. on input line 1674.
 LaTeX Info: Redefining \% on input line 1674.
  [84]
-
-LaTeX Warning: Citation '@7053-SIRVEN2013' on page 85 undefined on input line 1
-678.
-
-
-LaTeX Warning: Citation '@7053-SIRVEN2013' on page 85 undefined on input line 1
-687.
-
 LaTeX Info: Redefining \. on input line 1691.
 LaTeX Info: Redefining \% on input line 1691.
 LaTeX Info: Redefining \. on input line 1691.
 LaTeX Info: Redefining \% on input line 1691.
-[85]
-
-LaTeX Warning: Citation '@7053-SIRVEN2013' on page 86 undefined on input line 1
-696.
-
-
-LaTeX Warning: Citation '@7053-SIRVEN2013' on page 86 undefined on input line 1
-699.
-
-
-LaTeX Warning: Citation '@7053-SIRVEN2013' on page 86 undefined on input line 1
-705.
-
+ [85]
 LaTeX Info: Redefining \. on input line 1707.
 LaTeX Info: Redefining \% on input line 1707.
 LaTeX Info: Redefining \. on input line 1707.
 LaTeX Info: Redefining \% on input line 1707.
-[86]
+ [86]
 LaTeX Info: Redefining \. on input line 1713.
 LaTeX Info: Redefining \% on input line 1713.
 LaTeX Info: Redefining \. on input line 1713.
@@ -6050,45 +5811,21 @@ LaTeX Info: Redefining \% on input line 1721.
 LaTeX Info: Redefining \. on input line 1721.
 LaTeX Info: Redefining \% on input line 1721.
  [88]
-
-LaTeX Warning: Citation '@7016-LEVINAS2013' on page 89 undefined on input line 
-1732.
-
 LaTeX Info: Redefining \. on input line 1733.
 LaTeX Info: Redefining \% on input line 1733.
 LaTeX Info: Redefining \. on input line 1733.
 LaTeX Info: Redefining \% on input line 1733.
-[89]
-
-LaTeX Warning: Citation '@7016-LEVINAS2013' on page 90 undefined on input line 
-1738.
-
-
-LaTeX Warning: Citation '@7016-LEVINAS2013' on page 90 undefined on input line 
-1744.
-
+ [89]
 LaTeX Info: Redefining \. on input line 1745.
 LaTeX Info: Redefining \% on input line 1745.
 LaTeX Info: Redefining \. on input line 1745.
 LaTeX Info: Redefining \% on input line 1745.
-[90]
-
-LaTeX Warning: Citation '@7016-LEVINAS2013' on page 91 undefined on input line 
-1756.
-
-
-LaTeX Warning: Citation '@7016-LEVINAS2013' on page 91 undefined on input line 
-1762.
-
-
-LaTeX Warning: Citation '@7016-LEVINAS2013' on page 91 undefined on input line 
-1765.
-
+ [90]
 LaTeX Info: Redefining \. on input line 1772.
 LaTeX Info: Redefining \% on input line 1772.
 LaTeX Info: Redefining \. on input line 1772.
 LaTeX Info: Redefining \% on input line 1772.
-[91]
+ [91]
 LaTeX Info: Redefining \. on input line 1789.
 LaTeX Info: Redefining \% on input line 1789.
 LaTeX Info: Redefining \. on input line 1789.
@@ -6122,108 +5859,56 @@ LaTeX Info: Redefining \% on input line 1853.
 LaTeX Info: Redefining \. on input line 1853.
 LaTeX Info: Redefining \% on input line 1853.
  [97]
-
-LaTeX Warning: Citation '@6988-CAPASSO2013' on page 98 undefined on input line 
-1858.
-
-
-LaTeX Warning: Citation '@6988-CAPASSO2013' on page 98 undefined on input line 
-1864.
-
 LaTeX Info: Redefining \. on input line 1865.
 LaTeX Info: Redefining \% on input line 1865.
 LaTeX Info: Redefining \. on input line 1865.
 LaTeX Info: Redefining \% on input line 1865.
-[98]
-
-LaTeX Warning: Citation '@6988-CAPASSO2013' on page 99 undefined on input line 
-1870.
-
+ [98]
 LaTeX Info: Redefining \. on input line 1871.
 LaTeX Info: Redefining \% on input line 1871.
 LaTeX Info: Redefining \. on input line 1871.
 LaTeX Info: Redefining \% on input line 1871.
-[99]
-
-LaTeX Warning: Citation '@6988-CAPASSO2013' on page 100 undefined on input line
- 1878.
-
+ [99]
 LaTeX Info: Redefining \. on input line 1883.
 LaTeX Info: Redefining \% on input line 1883.
 LaTeX Info: Redefining \. on input line 1883.
 LaTeX Info: Redefining \% on input line 1883.
-[100]
-
-LaTeX Warning: Citation '@6978-BLAUSTEIN2013' on page 101 undefined on input li
-ne 1888.
-
-
-LaTeX Warning: Citation '@6978-BLAUSTEIN2013' on page 101 undefined on input li
-ne 1894.
-
+ [100]
 LaTeX Info: Redefining \. on input line 1895.
 LaTeX Info: Redefining \% on input line 1895.
 LaTeX Info: Redefining \. on input line 1895.
 LaTeX Info: Redefining \% on input line 1895.
-[101]
-
-LaTeX Warning: Citation '@6978-BLAUSTEIN2013' on page 102 undefined on input li
-ne 1902.
-
+ [101]
 LaTeX Info: Redefining \. on input line 1906.
 LaTeX Info: Redefining \% on input line 1906.
 LaTeX Info: Redefining \. on input line 1906.
 LaTeX Info: Redefining \% on input line 1906.
-[102]
-
-LaTeX Warning: Citation '@6978-BLAUSTEIN2013' on page 103 undefined on input li
-ne 1910.
-
+ [102]
 LaTeX Info: Redefining \. on input line 1914.
 LaTeX Info: Redefining \% on input line 1914.
 LaTeX Info: Redefining \. on input line 1914.
 LaTeX Info: Redefining \% on input line 1914.
-[103]
-
-LaTeX Warning: Citation '@6978-BLAUSTEIN2013' on page 104 undefined on input li
-ne 1915.
-
-
-LaTeX Warning: Citation '@6978-BLAUSTEIN2013' on page 104 undefined on input li
-ne 1924.
-
+ [103]
 LaTeX Info: Redefining \. on input line 1925.
 LaTeX Info: Redefining \% on input line 1925.
 LaTeX Info: Redefining \. on input line 1925.
 LaTeX Info: Redefining \% on input line 1925.
-[104]
+ [104]
 LaTeX Info: Redefining \. on input line 1925.
 LaTeX Info: Redefining \% on input line 1925.
 LaTeX Info: Redefining \. on input line 1925.
 LaTeX Info: Redefining \% on input line 1925.
  [105]
-
-LaTeX Warning: Citation '@6978-BLAUSTEIN2013' on page 106 undefined on input li
-ne 1930.
-
 LaTeX Info: Redefining \. on input line 1935.
 LaTeX Info: Redefining \% on input line 1935.
 LaTeX Info: Redefining \. on input line 1935.
 LaTeX Info: Redefining \% on input line 1935.
-[106]
-
-LaTeX Warning: Citation '@6978-BLAUSTEIN2013' on page 107 undefined on input li
-ne 1938.
-
-
-LaTeX Warning: Citation '@6978-BLAUSTEIN2013' on page 107 undefined on input li
-ne 1944.
-
+ [106]
 LaTeX Info: Redefining \. on input line 1945.
 LaTeX Info: Redefining \% on input line 1945.
 LaTeX Info: Redefining \. on input line 1945.
 LaTeX Info: Redefining \% on input line 1945.
-[107]
+ [107]
 LaTeX Info: Redefining \. on input line 1956.
 LaTeX Info: Redefining \% on input line 1956.
 LaTeX Info: Redefining \. on input line 1956.
@@ -6233,16 +5918,13 @@ LaTeX Info: Redefining \. on input line 1971.
 LaTeX Info: Redefining \% on input line 1971.
 LaTeX Info: Redefining \. on input line 1971.
 LaTeX Info: Redefining \% on input line 1971.
- [109]
 
-LaTeX Warning: Citation '@7068-ZUNINO2014' on page 110 undefined on input line 
-1988.
-
+[109]
 LaTeX Info: Redefining \. on input line 1989.
 LaTeX Info: Redefining \% on input line 1989.
 LaTeX Info: Redefining \. on input line 1989.
 LaTeX Info: Redefining \% on input line 1989.
-[110]
+ [110]
 LaTeX Info: Redefining \. on input line 2003.
 LaTeX Info: Redefining \% on input line 2003.
 LaTeX Info: Redefining \. on input line 2003.
@@ -6273,37 +5955,16 @@ LaTeX Info: Redefining \% on input line 2072.
 LaTeX Info: Redefining \. on input line 2072.
 LaTeX Info: Redefining \% on input line 2072.
  [116]
-
-LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 117 undefined on input li
-ne 2080.
-
-
-LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 117 undefined on input li
-ne 2086.
-
-
-LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 117 undefined on input li
-ne 2094.
-
 LaTeX Info: Redefining \. on input line 2095.
 LaTeX Info: Redefining \% on input line 2095.
 LaTeX Info: Redefining \. on input line 2095.
 LaTeX Info: Redefining \% on input line 2095.
-[117]
-
-LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 118 undefined on input li
-ne 2100.
-
+ [117]
 LaTeX Info: Redefining \. on input line 2109.
 LaTeX Info: Redefining \% on input line 2109.
 LaTeX Info: Redefining \. on input line 2109.
 LaTeX Info: Redefining \% on input line 2109.
-[118]
-
-LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 119 undefined on input li
-ne 2116.
-
-
+ [118]
 Overfull \vbox (0.20837pt too high) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 2120.
@@ -6312,147 +5973,72 @@ LaTeX Info: Redefining \. on input line 2120.
 LaTeX Info: Redefining \% on input line 2120.
 
 [119]
-
-LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 120 undefined on input li
-ne 2124.
-
-
-LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 120 undefined on input li
-ne 2130.
-
 LaTeX Info: Redefining \. on input line 2134.
 LaTeX Info: Redefining \% on input line 2134.
 LaTeX Info: Redefining \. on input line 2134.
 LaTeX Info: Redefining \% on input line 2134.
-[120]
-
-LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 121 undefined on input li
-ne 2135.
-
-
-LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 121 undefined on input li
-ne 2146.
-
+ [120]
 LaTeX Info: Redefining \. on input line 2147.
 LaTeX Info: Redefining \% on input line 2147.
 LaTeX Info: Redefining \. on input line 2147.
 LaTeX Info: Redefining \% on input line 2147.
-[121]
-
-LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 122 undefined on input li
-ne 2152.
-
-
-LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 122 undefined on input li
-ne 2160.
-
+ [121]
 LaTeX Info: Redefining \. on input line 2165.
 LaTeX Info: Redefining \% on input line 2165.
 LaTeX Info: Redefining \. on input line 2165.
 LaTeX Info: Redefining \% on input line 2165.
-[122]
-
-LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 123 undefined on input li
-ne 2166.
-
+ [122]
 LaTeX Info: Redefining \. on input line 2177.
 LaTeX Info: Redefining \% on input line 2177.
 LaTeX Info: Redefining \. on input line 2177.
 LaTeX Info: Redefining \% on input line 2177.
-[123]
-
-LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 124 undefined on input li
-ne 2182.
-
+ [123]
 LaTeX Info: Redefining \. on input line 2183.
 LaTeX Info: Redefining \% on input line 2183.
 LaTeX Info: Redefining \. on input line 2183.
 LaTeX Info: Redefining \% on input line 2183.
-[124]
-
-LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 125 undefined on input li
-ne 2188.
-
+ [124]
 LaTeX Info: Redefining \. on input line 2195.
 LaTeX Info: Redefining \% on input line 2195.
 LaTeX Info: Redefining \. on input line 2195.
 LaTeX Info: Redefining \% on input line 2195.
-[125]
-
-LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 126 undefined on input li
-ne 2200.
-
-
-LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 126 undefined on input li
-ne 2207.
-
+ [125]
 LaTeX Info: Redefining \. on input line 2211.
 LaTeX Info: Redefining \% on input line 2211.
 LaTeX Info: Redefining \. on input line 2211.
 LaTeX Info: Redefining \% on input line 2211.
-[126]
-
-LaTeX Warning: Citation '@6971-A2014' on page 127 undefined on input line 2216.
-
-
-
-LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 127 undefined on input li
-ne 2222.
-
+ [126]
 LaTeX Info: Redefining \. on input line 2223.
 LaTeX Info: Redefining \% on input line 2223.
 LaTeX Info: Redefining \. on input line 2223.
 LaTeX Info: Redefining \% on input line 2223.
-[127]
-
-LaTeX Warning: Citation '@6971-A2014' on page 128 undefined on input line 2228.
-
-
-
-LaTeX Warning: Citation '@6971-A2014' on page 128 undefined on input line 2234.
-
-
+ [127]
 LaTeX Info: Redefining \. on input line 2239.
 LaTeX Info: Redefining \% on input line 2239.
 LaTeX Info: Redefining \. on input line 2239.
 LaTeX Info: Redefining \% on input line 2239.
-[128]
-
-LaTeX Warning: Citation '@6971-A2014' on page 129 undefined on input line 2240.
-
-
-
-LaTeX Warning: Citation '@6971-A2014' on page 129 undefined on input line 2246.
-
-
+ [128]
 LaTeX Info: Redefining \. on input line 2247.
 LaTeX Info: Redefining \% on input line 2247.
 LaTeX Info: Redefining \. on input line 2247.
 LaTeX Info: Redefining \% on input line 2247.
-[129]
+ [129]
 LaTeX Info: Redefining \. on input line 2251.
 LaTeX Info: Redefining \% on input line 2251.
 LaTeX Info: Redefining \. on input line 2251.
 LaTeX Info: Redefining \% on input line 2251.
  [130]
-
-LaTeX Warning: Citation '@7015-JORNET2014' on page 131 undefined on input line 
-2264.
-
 LaTeX Info: Redefining \. on input line 2265.
 LaTeX Info: Redefining \% on input line 2265.
 LaTeX Info: Redefining \. on input line 2265.
 LaTeX Info: Redefining \% on input line 2265.
+
 [131]
-
-LaTeX Warning: Citation '@7015-JORNET2014' on page 132 undefined on input line 
-2270.
-
 LaTeX Info: Redefining \. on input line 2283.
 LaTeX Info: Redefining \% on input line 2283.
 LaTeX Info: Redefining \. on input line 2283.
 LaTeX Info: Redefining \% on input line 2283.
-[132]
+ [132]
 LaTeX Info: Redefining \. on input line 2293.
 LaTeX Info: Redefining \% on input line 2293.
 LaTeX Info: Redefining \. on input line 2293.
@@ -6498,80 +6084,37 @@ LaTeX Info: Redefining \% on input line 2398.
 LaTeX Info: Redefining \. on input line 2398.
 LaTeX Info: Redefining \% on input line 2398.
  [141]
-
-LaTeX Warning: Citation '@7017-LEVINAS2015' on page 142 undefined on input line
- 2399.
-
-
-LaTeX Warning: Citation '@7017-LEVINAS2015' on page 142 undefined on input line
- 2402.
-
 LaTeX Info: Redefining \. on input line 2409.
 LaTeX Info: Redefining \% on input line 2409.
 LaTeX Info: Redefining \. on input line 2409.
 LaTeX Info: Redefining \% on input line 2409.
-[142]
-
-LaTeX Warning: Citation '@7017-LEVINAS2015' on page 143 undefined on input line
- 2410.
-
-
-LaTeX Warning: Citation '@7017-LEVINAS2015' on page 143 undefined on input line
- 2416.
-
+ [142]
 LaTeX Info: Redefining \. on input line 2417.
 LaTeX Info: Redefining \% on input line 2417.
 LaTeX Info: Redefining \. on input line 2417.
 LaTeX Info: Redefining \% on input line 2417.
+
 [143]
-
-LaTeX Warning: Citation '@7017-LEVINAS2015' on page 144 undefined on input line
- 2422.
-
 LaTeX Info: Redefining \. on input line 2426.
 LaTeX Info: Redefining \% on input line 2426.
 LaTeX Info: Redefining \. on input line 2426.
 LaTeX Info: Redefining \% on input line 2426.
-[144]
-
-LaTeX Warning: Citation '@7017-LEVINAS2015' on page 145 undefined on input line
- 2428.
-
+ [144]
 LaTeX Info: Redefining \. on input line 2429.
 LaTeX Info: Redefining \% on input line 2429.
 LaTeX Info: Redefining \. on input line 2429.
 LaTeX Info: Redefining \% on input line 2429.
-[145]
-
-LaTeX Warning: Citation '@7017-LEVINAS2015' on page 146 undefined on input line
- 2434.
-
-
-LaTeX Warning: Citation '@7017-LEVINAS2015' on page 146 undefined on input line
- 2440.
-
-
-LaTeX Warning: Citation '@7017-LEVINAS2015' on page 146 undefined on input line
- 2446.
-
+ [145]
 LaTeX Info: Redefining \. on input line 2448.
 LaTeX Info: Redefining \% on input line 2448.
 LaTeX Info: Redefining \. on input line 2448.
 LaTeX Info: Redefining \% on input line 2448.
-[146]
-
-LaTeX Warning: Citation '@7017-LEVINAS2015' on page 147 undefined on input line
- 2448.
-
-
-LaTeX Warning: Citation '@7017-LEVINAS2015' on page 147 undefined on input line
- 2450.
-
-LaTeX Info: Redefining \. on input line 2457.
-LaTeX Info: Redefining \% on input line 2457.
-LaTeX Info: Redefining \. on input line 2457.
-LaTeX Info: Redefining \% on input line 2457.
-[147]
+ [146]
+LaTeX Info: Redefining \. on input line 2456.
+LaTeX Info: Redefining \% on input line 2456.
+LaTeX Info: Redefining \. on input line 2456.
+LaTeX Info: Redefining \% on input line 2456.
+ [147]
 LaTeX Info: Redefining \. on input line 2467.
 LaTeX Info: Redefining \% on input line 2467.
 LaTeX Info: Redefining \. on input line 2467.
@@ -6602,42 +6145,27 @@ LaTeX Info: Redefining \% on input line 2516.
 LaTeX Info: Redefining \. on input line 2516.
 LaTeX Info: Redefining \% on input line 2516.
  [153]
-
-LaTeX Warning: Citation '@7041-PICCONE2015' on page 154 undefined on input line
- 2518.
-
-
-LaTeX Warning: Citation '@7041-PICCONE2015' on page 154 undefined on input line
- 2524.
-
 LaTeX Info: Redefining \. on input line 2525.
 LaTeX Info: Redefining \% on input line 2525.
 LaTeX Info: Redefining \. on input line 2525.
 LaTeX Info: Redefining \% on input line 2525.
-[154]
+ [154]
 LaTeX Info: Redefining \. on input line 2538.
 LaTeX Info: Redefining \% on input line 2538.
 LaTeX Info: Redefining \. on input line 2538.
 LaTeX Info: Redefining \% on input line 2538.
- [155]
+
+[155]
 LaTeX Info: Redefining \. on input line 2551.
 LaTeX Info: Redefining \% on input line 2551.
 LaTeX Info: Redefining \. on input line 2551.
 LaTeX Info: Redefining \% on input line 2551.
  [156]
-
-LaTeX Warning: Citation '@7037-NOVARO2015' on page 157 undefined on input line 
-2554.
-
-
-LaTeX Warning: Citation '@7037-NOVARO2015' on page 157 undefined on input line 
-2560.
-
 LaTeX Info: Redefining \. on input line 2561.
 LaTeX Info: Redefining \% on input line 2561.
 LaTeX Info: Redefining \. on input line 2561.
 LaTeX Info: Redefining \% on input line 2561.
-[157]
+ [157]
 LaTeX Info: Redefining \. on input line 2574.
 LaTeX Info: Redefining \% on input line 2574.
 LaTeX Info: Redefining \. on input line 2574.
@@ -6766,9 +6294,33 @@ LaTeX Info: Redefining \% on input line 2932.
 LaTeX Info: Redefining \. on input line 2932.
 LaTeX Info: Redefining \% on input line 2932.
  [183]
+LaTeX Info: Redefining \. on input line 2945.
+LaTeX Info: Redefining \% on input line 2945.
+LaTeX Info: Redefining \. on input line 2945.
+LaTeX Info: Redefining \% on input line 2945.
+ [184]
+Package biblatex Info: Resetting trackers on input line 2945.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
+(Font)              scaled to size 10.61993pt on input line 2945.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
+(Font)              scaled to size 7.07996pt on input line 2945.
+LaTeX Info: Redefining \. on input line 2945.
+LaTeX Info: Redefining \% on input line 2945.
+LaTeX Info: Redefining \. on input line 2945.
+LaTeX Info: Redefining \% on input line 2945.
+ [185
 
-LaTeX Warning: Empty bibliography on input line 2945.
-
+]
+LaTeX Info: Redefining \. on input line 2945.
+LaTeX Info: Redefining \% on input line 2945.
+LaTeX Info: Redefining \. on input line 2945.
+LaTeX Info: Redefining \% on input line 2945.
+ [186]
+LaTeX Info: Redefining \. on input line 2945.
+LaTeX Info: Redefining \% on input line 2945.
+LaTeX Info: Redefining \. on input line 2945.
+LaTeX Info: Redefining \% on input line 2945.
+ [187]
 
 AED: pageslts setting LastPage 
 LaTeX Info: Redefining \. on input line 2946.
@@ -6780,7 +6332,7 @@ File: se-utf32be.def 2019/11/29 v1.12 stringenc: UTF-32BE
 )
 (/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
-) [184]
+) [188]
 
 Package glossaries Warning: No \printnoidxglossary or \printnoidxglossaries
  found. (Remove \makenoidxglossaries if you don't want any glossaries.)
@@ -6808,34 +6360,26 @@ ux file.>
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `pdf-20250411MAUROO.out' has not changed.
 (rerunfilecheck)             Checksum: E46F0DB8F38EE15520F8AAFB074ABCBA;2060.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                pdf-20250411MAUROO
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'pdf-20250411MAUROO.run.xml'.
 
 \openout1 = pdf-20250411MAUROO.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 67040 strings out of 476553
- 6947359,2848258 words of node,token memory allocated
- 5906363 words of node memory still in use:
-   20271 hlist, 39 vlist, 6245 rule, 173 ins, 2 adjust, 77567 disc, 2827 local_p
-ar, 402 math, 105312 glue, 61236 kern, 6598 penalty, 885 margin_kern, 497989 gly
-ph, 86872 attribute, 6318 glue_spec, 12422 attribute_list, 4 write, 38 pdf_liter
-al, 155 pdf_start_link, 161 pdf_end_link, 334 pdf_dest, 132 pdf_action, 1152 pdf
-_colorstack, 4 pdf_setmatrix, 4 pdf_save, 4 pdf_restore nodes
-   avail lists: 1:7,2:276,3:210,4:42,5:202,6:23,7:3134,8:136,9:133,10:31,11:363
- 86968 multiletter control sequences out of 65536+600000
- 102 fonts using 27878283 bytes
+ 67421 strings out of 476553
+ 6947527,3417909 words of node,token memory allocated
+ 6044972 words of node memory still in use:
+   20364 hlist, 39 vlist, 6253 rule, 173 ins, 2 adjust, 78559 disc, 2919 local_p
+ar, 405 math, 107228 glue, 61790 kern, 7272 penalty, 857 margin_kern, 504181 gly
+ph, 108110 attribute, 6578 glue_spec, 15456 attribute_list, 739 write, 38 pdf_li
+teral, 666 pdf_start_link, 676 pdf_end_link, 334 pdf_dest, 463 pdf_action, 2302 
+pdf_colorstack, 4 pdf_setmatrix, 4 pdf_save, 4 pdf_restore nodes
+   avail lists: 1:9,2:420,3:302,4:152,5:306,6:38,7:4246,8:136,9:274,10:31,11:491
+
+ 87307 multiletter control sequences out of 65536+600000
+ 104 fonts using 28723939 bytes
  117i,11n,123p,5926b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinus
 Serif-BoldItalic.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMP
@@ -6846,10 +6390,10 @@ st/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Italic.otf></usr/share
 /texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.otf></u
 sr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSer
 if-Regular.otf>
-Output written on pdf-20250411MAUROO.pdf (202 pages, 752001 bytes).
+Output written on pdf-20250411MAUROO.pdf (206 pages, 778547 bytes).
 
-PDF statistics: 1399 PDF objects out of 1440 (max. 8388607)
- 1043 compressed objects within 11 object streams
- 374 named destinations out of 1000 (max. 131072)
+PDF statistics: 1846 PDF objects out of 2073 (max. 8388607)
+ 1470 compressed objects within 15 object streams
+ 416 named destinations out of 1000 (max. 131072)
  365 words of extra memory for PDF output out of 10000 (max. 100000000)
 
