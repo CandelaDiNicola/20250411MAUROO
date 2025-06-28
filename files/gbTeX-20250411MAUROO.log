@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.4)  28 JUN 2025 20:12
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.4)  28 JUN 2025 20:20
  restricted system commands enabled.
 **pdf-20250411MAUROO.tex
 (./pdf-20250411MAUROO.tex
@@ -6325,18 +6325,18 @@ Package logreq Info: Writing requests to 'pdf-20250411MAUROO.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 67630 strings out of 476553
- 6947539,3417909 words of node,token memory allocated
- 5897508 words of node memory still in use:
-   20345 hlist, 39 vlist, 6237 rule, 173 ins, 2 adjust, 76134 disc, 2869 local_p
-ar, 400 math, 104725 glue, 60606 kern, 7451 penalty, 780 margin_kern, 485964 gly
-ph, 118386 attribute, 6324 glue_spec, 16924 attribute_list, 1239 write, 38 pdf_l
-iteral, 949 pdf_start_link, 957 pdf_end_link, 334 pdf_dest, 597 pdf_action, 2972
+ 67641 strings out of 476553
+ 6947532,3417909 words of node,token memory allocated
+ 5901181 words of node memory still in use:
+   20352 hlist, 39 vlist, 6237 rule, 173 ins, 2 adjust, 76142 disc, 2870 local_p
+ar, 400 math, 104754 glue, 60606 kern, 7459 penalty, 781 margin_kern, 486060 gly
+ph, 119275 attribute, 6328 glue_spec, 17051 attribute_list, 1262 write, 38 pdf_l
+iteral, 969 pdf_start_link, 977 pdf_end_link, 334 pdf_dest, 611 pdf_action, 3014
  pdf_colorstack, 4 pdf_setmatrix, 4 pdf_save, 4 pdf_restore nodes
-   avail lists: 1:11,2:403,3:335,4:155,5:312,6:42,7:4554,8:138,9:295,10:31,11:53
-3
- 87499 multiletter control sequences out of 65536+600000
- 104 fonts using 28723939 bytes
+   avail lists: 1:10,2:364,3:301,4:129,5:292,6:40,7:4240,8:138,9:268,10:31,11:49
+6
+ 87509 multiletter control sequences out of 65536+600000
+ 104 fonts using 28723871 bytes
  117i,11n,123p,5884b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinus
 Serif-BoldItalic.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMP
@@ -6347,10 +6347,10 @@ st/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Italic.otf></usr/share
 /texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.otf></u
 sr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSer
 if-Regular.otf>
-Output written on pdf-20250411MAUROO.pdf (197 pages, 769484 bytes).
+Output written on pdf-20250411MAUROO.pdf (197 pages, 770694 bytes).
 
-PDF statistics: 1964 PDF objects out of 2073 (max. 8388607)
- 1604 compressed objects within 17 object streams
- 433 named destinations out of 1000 (max. 131072)
+PDF statistics: 1979 PDF objects out of 2073 (max. 8388607)
+ 1616 compressed objects within 17 object streams
+ 434 named destinations out of 1000 (max. 131072)
  357 words of extra memory for PDF output out of 10000 (max. 100000000)
 
