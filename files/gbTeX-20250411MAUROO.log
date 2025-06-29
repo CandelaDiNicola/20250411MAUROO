@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.4)  29 JUN 2025 13:55
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.4)  29 JUN 2025 18:03
  restricted system commands enabled.
 **pdf-20250411MAUROO.tex
 (./pdf-20250411MAUROO.tex
@@ -3535,8 +3535,6 @@ LaTeX Info: Redefining \% on input line 1104.
 LaTeX Info: Redefining \. on input line 1104.
 LaTeX Info: Redefining \% on input line 1104.
  [41]
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 11.79993pt on input line 1109.
 LaTeX Info: Redefining \. on input line 1112.
 LaTeX Info: Redefining \% on input line 1112.
 LaTeX Info: Redefining \. on input line 1112.
@@ -3576,6 +3574,8 @@ LaTeX Info: Redefining \% on input line 1182.
 LaTeX Info: Redefining \. on input line 1182.
 LaTeX Info: Redefining \% on input line 1182.
  [48]
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
+(Font)              scaled to size 11.79993pt on input line 1187.
 LaTeX Info: Redefining \. on input line 1195.
 LaTeX Info: Redefining \% on input line 1195.
 LaTeX Info: Redefining \. on input line 1195.
@@ -4312,17 +4312,17 @@ Package logreq Info: Writing requests to 'pdf-20250411MAUROO.run.xml'.
 
 Here is how much of LuaTeX's memory you used:
  67724 strings out of 476553
- 6947305,3417909 words of node,token memory allocated
- 6141274 words of node memory still in use:
-   23526 hlist, 410 vlist, 7963 rule, 173 ins, 2 adjust, 77047 disc, 3356 local_
-par, 418 math, 116569 glue, 62183 kern, 8741 penalty, 868 margin_kern, 492662 gl
-yph, 133380 attribute, 6593 glue_spec, 19066 attribute_list, 1474 write, 38 pdf_
+ 6947323,3417909 words of node,token memory allocated
+ 6141053 words of node memory still in use:
+   23525 hlist, 410 vlist, 7963 rule, 173 ins, 2 adjust, 77047 disc, 3354 local_
+par, 418 math, 116566 glue, 62170 kern, 8739 penalty, 868 margin_kern, 492654 gl
+yph, 133366 attribute, 6589 glue_spec, 19064 attribute_list, 1474 write, 38 pdf_
 literal, 1147 pdf_start_link, 1155 pdf_end_link, 334 pdf_dest, 722 pdf_action, 3
 428 pdf_colorstack, 4 pdf_setmatrix, 4 pdf_save, 4 pdf_restore nodes
    avail lists: 1:12,2:292,3:263,4:116,5:212,6:27,7:3788,8:138,9:236,10:31,11:43
 6,12:2
  87570 multiletter control sequences out of 65536+600000
- 104 fonts using 28723939 bytes
+ 104 fonts using 28723735 bytes
  117i,11n,123p,5884b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinus
 Serif-BoldItalic.otf></usr/share/texlive/texmf-dist/fonts/opentype/public/libert
@@ -4333,7 +4333,7 @@ e/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Italic.otf></usr/share
 /texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.otf></u
 sr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSer
 if-Regular.otf>
-Output written on pdf-20250411MAUROO.pdf (201 pages, 779853 bytes).
+Output written on pdf-20250411MAUROO.pdf (201 pages, 779675 bytes).
 
 PDF statistics: 2137 PDF objects out of 2487 (max. 8388607)
  1765 compressed objects within 18 object streams
