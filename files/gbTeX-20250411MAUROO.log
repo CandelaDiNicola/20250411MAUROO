@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.4)  28 JUN 2025 21:48
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.4)  29 JUN 2025 13:55
  restricted system commands enabled.
 **pdf-20250411MAUROO.tex
 (./pdf-20250411MAUROO.tex
@@ -3042,21 +3042,21 @@ LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 20.39026pt on input line 19.
  [3] [4]
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
-(Font)              scaled to size 11.79993pt on input line 32.
+(Font)              scaled to size 11.79993pt on input line 31.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
-(Font)              scaled to size 14.15991pt on input line 32.
+(Font)              scaled to size 14.15991pt on input line 31.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 16.99188pt on input line 40.
+(Font)              scaled to size 16.99188pt on input line 39.
 <./media/logo-imago-ByW.png, id=109, 85.2786pt x 42.1575pt>
 File: ./media/logo-imago-ByW.png Graphic file (type png)
 <use ./media/logo-imago-ByW.png>
-Package luatex.def Info: ./media/logo-imago-ByW.png  used on input line 47.
+Package luatex.def Info: ./media/logo-imago-ByW.png  used on input line 46.
 (luatex.def)             Requested size: 56.9055pt x 28.1315pt.
  [5<./media/logo-imago-ByW.png>]
 <./media/desconocido.png, id=116, 85.2786pt x 98.0463pt>
 File: ./media/desconocido.png Graphic file (type png)
 <use ./media/desconocido.png>
-Package luatex.def Info: ./media/desconocido.png  used on input line 56.
+Package luatex.def Info: ./media/desconocido.png  used on input line 55.
 (luatex.def)             Requested size: 56.9055pt x 65.42586pt.
 
 
@@ -3070,2230 +3070,1212 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 ) [6<./media/desconocido.png>]
-Package biblatex Info: Resetting trackers on input line 478.
+Package biblatex Info: Resetting trackers on input line 479.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 14.12686pt on input line 478.
+(Font)              scaled to size 14.12686pt on input line 479.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `IBMPlexSansCondensed' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 16.95224pt on input line 478.
+(Font)              scaled to size 16.95224pt on input line 479.
+ (./pdf-20250411MAUROO.toc
+LaTeX Info: Redefining \sptext on input line 1.
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
+(Font)              scaled to size 9.81033pt on input line 2.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
+(Font)              scaled to size 10.61993pt on input line 2.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
-(Font)              scaled to size 11.79993pt on input line 484.
-LaTeX Info: Redefining \. on input line 487.
-LaTeX Info: Redefining \% on input line 487.
-LaTeX Info: Redefining \. on input line 487.
-LaTeX Info: Redefining \% on input line 487.
+(Font)              scaled to size 11.79993pt on input line 30.
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/it' will be
+(Font)              scaled to size 9.81033pt on input line 30.
+)
+\tf@toc=\write11
+
+\openout11 = pdf-20250411MAUROO.toc
+LaTeX Info: Redefining \. on input line 481.
+LaTeX Info: Redefining \% on input line 481.
+LaTeX Info: Redefining \. on input line 481.
+LaTeX Info: Redefining \% on input line 481.
  [7
 
+] [8
+
 ]
-LaTeX Info: Redefining \. on input line 488.
-LaTeX Info: Redefining \% on input line 488.
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 9.81033pt on input line 488.
+Package biblatex Info: Resetting trackers on input line 481.
+LaTeX Info: Redefining \. on input line 490.
+LaTeX Info: Redefining \% on input line 490.
+LaTeX Info: Redefining \. on input line 490.
+LaTeX Info: Redefining \% on input line 490.
+ [9]
+LaTeX Info: Redefining \. on input line 491.
+LaTeX Info: Redefining \% on input line 491.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 9.69757pt on input line 488.
-LaTeX Info: Redefining \. on input line 488.
-LaTeX Info: Redefining \% on input line 488.
- [8]
-Package biblatex Info: Resetting trackers on input line 488.
+(Font)              scaled to size 9.69757pt on input line 491.
 LaTeX Info: Redefining \. on input line 491.
 LaTeX Info: Redefining \% on input line 491.
-LaTeX Info: Redefining \. on input line 491.
-LaTeX Info: Redefining \% on input line 491.
- [9
-
-] [10
-
-]
+ [10]
 Package biblatex Info: Resetting trackers on input line 491.
-LaTeX Info: Redefining \. on input line 500.
-LaTeX Info: Redefining \% on input line 500.
-LaTeX Info: Redefining \. on input line 500.
-LaTeX Info: Redefining \% on input line 500.
- [11]
-LaTeX Info: Redefining \. on input line 501.
-LaTeX Info: Redefining \% on input line 501.
-LaTeX Info: Redefining \. on input line 501.
-LaTeX Info: Redefining \% on input line 501.
- [12]
-Package biblatex Info: Resetting trackers on input line 501.
-LaTeX Info: Redefining \. on input line 506.
-LaTeX Info: Redefining \% on input line 506.
-LaTeX Info: Redefining \. on input line 506.
-LaTeX Info: Redefining \% on input line 506.
- [13
+LaTeX Info: Redefining \. on input line 494.
+LaTeX Info: Redefining \% on input line 494.
+LaTeX Info: Redefining \. on input line 494.
+LaTeX Info: Redefining \% on input line 494.
 
-] [14
+[11
+
+] [12
 
 ]
-Package biblatex Info: Resetting trackers on input line 506.
-LaTeX Info: Redefining \. on input line 516.
-LaTeX Info: Redefining \% on input line 516.
-LaTeX Info: Redefining \. on input line 516.
-LaTeX Info: Redefining \% on input line 516.
- [15]
-[16
+Package biblatex Info: Resetting trackers on input line 494.
+LaTeX Info: Redefining \. on input line 503.
+LaTeX Info: Redefining \% on input line 503.
+LaTeX Info: Redefining \. on input line 503.
+LaTeX Info: Redefining \% on input line 503.
+ [13]
+LaTeX Info: Redefining \. on input line 504.
+LaTeX Info: Redefining \% on input line 504.
+LaTeX Info: Redefining \. on input line 504.
+LaTeX Info: Redefining \% on input line 504.
+ [14]
+Package biblatex Info: Resetting trackers on input line 504.
+LaTeX Info: Redefining \. on input line 509.
+LaTeX Info: Redefining \% on input line 509.
+LaTeX Info: Redefining \. on input line 509.
+LaTeX Info: Redefining \% on input line 509.
+ [15
+
+] [16
 
 ]
-Package biblatex Info: Resetting trackers on input line 516.
-LaTeX Info: Redefining \. on input line 523.
-LaTeX Info: Redefining \% on input line 523.
-LaTeX Info: Redefining \. on input line 523.
-LaTeX Info: Redefining \% on input line 523.
- [17]
-LaTeX Info: Redefining \. on input line 524.
-LaTeX Info: Redefining \% on input line 524.
-LaTeX Info: Redefining \. on input line 524.
-LaTeX Info: Redefining \% on input line 524.
- [18]
+Package biblatex Info: Resetting trackers on input line 509.
+LaTeX Info: Redefining \. on input line 519.
+LaTeX Info: Redefining \% on input line 519.
+LaTeX Info: Redefining \. on input line 519.
+LaTeX Info: Redefining \% on input line 519.
+ [17] [18
+
+]
+Package biblatex Info: Resetting trackers on input line 519.
+LaTeX Info: Redefining \. on input line 526.
+LaTeX Info: Redefining \% on input line 526.
+LaTeX Info: Redefining \. on input line 526.
+LaTeX Info: Redefining \% on input line 526.
+ [19]
+LaTeX Info: Redefining \. on input line 527.
+LaTeX Info: Redefining \% on input line 527.
+LaTeX Info: Redefining \. on input line 527.
+LaTeX Info: Redefining \% on input line 527.
+ [20]
 \c@pagesLTS.roman.1.local.count=\count611
 \c@pagesLTS.pnc.arabic=\count612
 \c@pagesLTS.double.arabic=\count613
 \c@pagesLTS.current.local.arabic=\count614
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 10.61993pt on input line 533.
 LaTeX Font Info:    Font shape `TU/LibertinusMath(1)/m/n' will be
-(Font)              scaled to size 10.61993pt on input line 533.
+(Font)              scaled to size 10.61993pt on input line 536.
 LaTeX Font Info:    Font shape `TU/LibertinusMath(1)/m/n' will be
-(Font)              scaled to size 5.89996pt on input line 533.
+(Font)              scaled to size 5.89996pt on input line 536.
 LaTeX Font Info:    Font shape `TU/LibertinusMath(2)/m/n' will be
-(Font)              scaled to size 10.61993pt on input line 533.
+(Font)              scaled to size 10.61993pt on input line 536.
 LaTeX Font Info:    Font shape `TU/LibertinusMath(2)/m/n' will be
-(Font)              scaled to size 5.89996pt on input line 533.
+(Font)              scaled to size 5.89996pt on input line 536.
 LaTeX Font Info:    Font shape `TU/LibertinusMath(3)/m/n' will be
-(Font)              scaled to size 10.61993pt on input line 533.
+(Font)              scaled to size 10.61993pt on input line 536.
 LaTeX Font Info:    Font shape `TU/LibertinusMath(3)/m/n' will be
-(Font)              scaled to size 5.89996pt on input line 533.
+(Font)              scaled to size 5.89996pt on input line 536.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
-(Font)              scaled to size 10.61993pt on input line 533.
-LaTeX Info: Redefining \. on input line 535.
-LaTeX Info: Redefining \% on input line 535.
-LaTeX Info: Redefining \. on input line 535.
-LaTeX Info: Redefining \% on input line 535.
+(Font)              scaled to size 10.61993pt on input line 536.
+LaTeX Info: Redefining \. on input line 538.
+LaTeX Info: Redefining \% on input line 538.
+LaTeX Info: Redefining \. on input line 538.
+LaTeX Info: Redefining \% on input line 538.
  [1
 
 ] [2
 
 ]
 Capítulo 1.
-Package biblatex Info: Resetting trackers on input line 537.
+Package biblatex Info: Resetting trackers on input line 540.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
-(Font)              scaled to size 16.99188pt on input line 537.
+(Font)              scaled to size 16.99188pt on input line 540.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 11.63708pt on input line 539.
+(Font)              scaled to size 11.63708pt on input line 542.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 9.43994pt on input line 541.
+(Font)              scaled to size 9.43994pt on input line 544.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 8.25995pt on input line 541.
+(Font)              scaled to size 8.25995pt on input line 544.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 6.86723pt on input line 541.
-LaTeX Info: Redefining \. on input line 548.
-LaTeX Info: Redefining \% on input line 548.
-LaTeX Info: Redefining \. on input line 548.
-LaTeX Info: Redefining \% on input line 548.
+(Font)              scaled to size 6.86723pt on input line 544.
+LaTeX Info: Redefining \. on input line 551.
+LaTeX Info: Redefining \% on input line 551.
+LaTeX Info: Redefining \. on input line 551.
+LaTeX Info: Redefining \% on input line 551.
 [3]
-LaTeX Info: Redefining \. on input line 558.
-LaTeX Info: Redefining \% on input line 558.
-LaTeX Info: Redefining \. on input line 558.
-LaTeX Info: Redefining \% on input line 558.
+LaTeX Info: Redefining \. on input line 561.
+LaTeX Info: Redefining \% on input line 561.
+LaTeX Info: Redefining \. on input line 561.
+LaTeX Info: Redefining \% on input line 561.
  [4]
-LaTeX Info: Redefining \. on input line 577.
-LaTeX Info: Redefining \% on input line 577.
-LaTeX Info: Redefining \. on input line 577.
-LaTeX Info: Redefining \% on input line 577.
+LaTeX Info: Redefining \. on input line 580.
+LaTeX Info: Redefining \% on input line 580.
+LaTeX Info: Redefining \. on input line 580.
+LaTeX Info: Redefining \% on input line 580.
  [5]
-LaTeX Info: Redefining \. on input line 585.
-LaTeX Info: Redefining \% on input line 585.
-LaTeX Info: Redefining \. on input line 585.
-LaTeX Info: Redefining \% on input line 585.
+LaTeX Info: Redefining \. on input line 588.
+LaTeX Info: Redefining \% on input line 588.
+LaTeX Info: Redefining \. on input line 588.
+LaTeX Info: Redefining \% on input line 588.
  [6]
-LaTeX Info: Redefining \. on input line 596.
-LaTeX Info: Redefining \% on input line 596.
-LaTeX Info: Redefining \. on input line 596.
-LaTeX Info: Redefining \% on input line 596.
+LaTeX Info: Redefining \. on input line 599.
+LaTeX Info: Redefining \% on input line 599.
+LaTeX Info: Redefining \. on input line 599.
+LaTeX Info: Redefining \% on input line 599.
  [7]
-LaTeX Info: Redefining \. on input line 607.
-LaTeX Info: Redefining \% on input line 607.
-LaTeX Info: Redefining \. on input line 607.
-LaTeX Info: Redefining \% on input line 607.
+LaTeX Info: Redefining \. on input line 610.
+LaTeX Info: Redefining \% on input line 610.
+LaTeX Info: Redefining \. on input line 610.
+LaTeX Info: Redefining \% on input line 610.
  [8]
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 11.7724pt on input line 620.
-LaTeX Info: Redefining \. on input line 623.
-LaTeX Info: Redefining \% on input line 623.
-LaTeX Info: Redefining \. on input line 623.
-LaTeX Info: Redefining \% on input line 623.
+(Font)              scaled to size 11.7724pt on input line 623.
+LaTeX Info: Redefining \. on input line 626.
+LaTeX Info: Redefining \% on input line 626.
+LaTeX Info: Redefining \. on input line 626.
+LaTeX Info: Redefining \% on input line 626.
  [9]
-LaTeX Info: Redefining \. on input line 631.
-LaTeX Info: Redefining \% on input line 631.
-LaTeX Info: Redefining \. on input line 631.
-LaTeX Info: Redefining \% on input line 631.
+LaTeX Info: Redefining \. on input line 634.
+LaTeX Info: Redefining \% on input line 634.
+LaTeX Info: Redefining \. on input line 634.
+LaTeX Info: Redefining \% on input line 634.
  [10]
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 7.84827pt on input line 633.
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 10.61993pt on input line 635.
+(Font)              scaled to size 7.84827pt on input line 636.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 7.75806pt on input line 638.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 640
-l.640 		\textbf{Medio} & \textbf
-                              {2010} & \textbf{2011} & \textbf{2012} & \text...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 640
-l.640 		\textbf{Medio} & \textbf{2010} & \textbf
-                                              {2011} & \textbf{2012} & \text...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 640
-l.640 ...} & \textbf{2010} & \textbf{2011} & \textbf
-                                                  {2012} & \textbf{2013} & \...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 640
-l.640 ...} & \textbf{2011} & \textbf{2012} & \textbf
-                                                  {2013} & \textbf{2014} & \...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 640
-l.640 ...} & \textbf{2012} & \textbf{2013} & \textbf
-                                                  {2014} & \textbf{2015} & \...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 640
-l.640 ...} & \textbf{2013} & \textbf{2014} & \textbf
-                                                  {2015} & \textbf{2016} & \...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 640
-l.640 ...} & \textbf{2014} & \textbf{2015} & \textbf
-                                                  {2016} & \textbf{2017} & \...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 640
-l.640 ...} & \textbf{2015} & \textbf{2016} & \textbf
-                                                  {2017} & \textbf{2018} \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 640
-l.640 ...} & \textbf{2016} & \textbf{2017} & \textbf
-                                                  {2018} \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 642
-l.642 		\textbf{Televisión abierta y cable} & 4
-                                              7.7 & 44.4 & 45 & 46.9 & 39.5 ...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 642
-l.642 ...tbf{Televisión abierta y cable} & 47.7 & 4
-                                                  4.4 & 45 & 46.9 & 39.5 & 3...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 642
-l.642 ...evisión abierta y cable} & 47.7 & 44.4 & 4
-                                                  5 & 46.9 & 39.5 & 38.6 & 3...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 642
-l.642 ...ón abierta y cable} & 47.7 & 44.4 & 45 & 4
-                                                  6.9 & 39.5 & 38.6 & 39 & 4...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 642
-l.642 ...erta y cable} & 47.7 & 44.4 & 45 & 46.9 & 3
-                                                  9.5 & 38.6 & 39 & 41 & 41 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 642
-l.642 ...cable} & 47.7 & 44.4 & 45 & 46.9 & 39.5 & 3
-                                                  8.6 & 39 & 41 & 41 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 642
-l.642 ...& 47.7 & 44.4 & 45 & 46.9 & 39.5 & 38.6 & 3
-                                                  9 & 41 & 41 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 642
-l.642 ...7 & 44.4 & 45 & 46.9 & 39.5 & 38.6 & 39 & 4
-                                                  1 & 41 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 642
-l.642 ...4.4 & 45 & 46.9 & 39.5 & 38.6 & 39 & 41 & 4
-                                                  1 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 644
-l.644 		\textbf{Radios en AMBA e interior} & 3
-                                            .2 & 3.2 & 3.7 & 4.0 & 4.6 & 5 &...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 644
-l.644 		\textbf{Radios en AMBA e interior} & 3.2 & 3
-                                                  .2 & 3.7 & 4.0 & 4.6 & 5 &...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 644
-l.644 ...{Radios en AMBA e interior} & 3.2 & 3.2 & 3
-                                                  .7 & 4.0 & 4.6 & 5 & 8 & 8...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 644
-l.644 ...s en AMBA e interior} & 3.2 & 3.2 & 3.7 & 4
-                                                  .0 & 4.6 & 5 & 8 & 8 & 8 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 644
-l.644 ...MBA e interior} & 3.2 & 3.2 & 3.7 & 4.0 & 4
-                                                  .6 & 5 & 8 & 8 & 8 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 644
-l.644 ...interior} & 3.2 & 3.2 & 3.7 & 4.0 & 4.6 & 5
-                                                   & 8 & 8 & 8 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 644
-l.644 ...rior} & 3.2 & 3.2 & 3.7 & 4.0 & 4.6 & 5 & 8
-                                                   & 8 & 8 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 644
-l.644 ...} & 3.2 & 3.2 & 3.7 & 4.0 & 4.6 & 5 & 8 & 8
-                                                   & 8 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 644
-l.644 ...3.2 & 3.2 & 3.7 & 4.0 & 4.6 & 5 & 8 & 8 & 8
-                                                   \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 646
-l.646 		\textbf{Diarios en AMBA e interior} & 3
-                                             4 & 35 & 34 & 31 & 25 & 22 & 21...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 646
-l.646 		\textbf{Diarios en AMBA e interior} & 34 & 3
-                                                  5 & 34 & 31 & 25 & 22 & 21...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 646
-l.646 ...f{Diarios en AMBA e interior} & 34 & 35 & 3
-                                                  4 & 31 & 25 & 22 & 21 & 16...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 646
-l.646 ...rios en AMBA e interior} & 34 & 35 & 34 & 3
-                                                  1 & 25 & 22 & 21 & 16 & 15 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 646
-l.646 ...en AMBA e interior} & 34 & 35 & 34 & 31 & 2
-                                                  5 & 22 & 21 & 16 & 15 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 646
-l.646 ...BA e interior} & 34 & 35 & 34 & 31 & 25 & 2
-                                                  2 & 21 & 16 & 15 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 646
-l.646 ...interior} & 34 & 35 & 34 & 31 & 25 & 22 & 2
-                                                  1 & 16 & 15 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 646
-l.646 ...ior} & 34 & 35 & 34 & 31 & 25 & 22 & 21 & 1
-                                                  6 & 15 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 646
-l.646 ...& 34 & 35 & 34 & 31 & 25 & 22 & 21 & 16 & 1
-                                                  5 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 648
-l.648 		\textbf{Revistas} & 4
-                           .7 & 4.8 & 4.6 & 4.2 & 3.1 & 3 & 3 & 2 & 2 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 648
-l.648 		\textbf{Revistas} & 4.7 & 4
-                                 .8 & 4.6 & 4.2 & 3.1 & 3 & 3 & 2 & 2 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 648
-l.648 		\textbf{Revistas} & 4.7 & 4.8 & 4
-                                       .6 & 4.2 & 3.1 & 3 & 3 & 2 & 2 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 648
-l.648 		\textbf{Revistas} & 4.7 & 4.8 & 4.6 & 4
-                                             .2 & 3.1 & 3 & 3 & 2 & 2 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 648
-l.648 ...extbf{Revistas} & 4.7 & 4.8 & 4.6 & 4.2 & 3
-                                                  .1 & 3 & 3 & 2 & 2 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 648
-l.648 ...Revistas} & 4.7 & 4.8 & 4.6 & 4.2 & 3.1 & 3
-                                                   & 3 & 2 & 2 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 648
-l.648 ...stas} & 4.7 & 4.8 & 4.6 & 4.2 & 3.1 & 3 & 3
-                                                   & 2 & 2 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 648
-l.648 ...} & 4.7 & 4.8 & 4.6 & 4.2 & 3.1 & 3 & 3 & 2
-                                                   & 2 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 648
-l.648 ...4.7 & 4.8 & 4.6 & 4.2 & 3.1 & 3 & 3 & 2 & 2
-                                                   \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 650
-l.650 		\textbf{Vía pública} & 5
-                                .5 & 5.2 & 4.3 & 4.3 & 4.5 & 5 & 5 & 5 & 7 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 650
-l.650 		\textbf{Vía pública} & 5.5 & 5
-                                      .2 & 4.3 & 4.3 & 4.5 & 5 & 5 & 5 & 7 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 650
-l.650 		\textbf{Vía pública} & 5.5 & 5.2 & 4
-                                            .3 & 4.3 & 4.5 & 5 & 5 & 5 & 7 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 650
-l.650 		\textbf{Vía pública} & 5.5 & 5.2 & 4.3 & 4
-                                                  .3 & 4.5 & 5 & 5 & 5 & 7 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 650
-l.650 ...{Vía pública} & 5.5 & 5.2 & 4.3 & 4.3 & 4
-                                                  .5 & 5 & 5 & 5 & 7 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 650
-l.650 ...pública} & 5.5 & 5.2 & 4.3 & 4.3 & 4.5 & 5
-                                                   & 5 & 5 & 7 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 650
-l.650 ...lica} & 5.5 & 5.2 & 4.3 & 4.3 & 4.5 & 5 & 5
-                                                   & 5 & 7 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 650
-l.650 ...} & 5.5 & 5.2 & 4.3 & 4.3 & 4.5 & 5 & 5 & 5
-                                                   & 7 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 650
-l.650 ...5.5 & 5.2 & 4.3 & 4.3 & 4.5 & 5 & 5 & 5 & 7
-                                                   \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 652
-l.652 		\textbf{Cine} & 1
-                       .3 & 1.2 & 1.3 & 1.3 & 1.2 & 1 & 1 & 1 & 1 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 652
-l.652 		\textbf{Cine} & 1.3 & 1
-                             .2 & 1.3 & 1.3 & 1.2 & 1 & 1 & 1 & 1 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 652
-l.652 		\textbf{Cine} & 1.3 & 1.2 & 1
-                                   .3 & 1.3 & 1.2 & 1 & 1 & 1 & 1 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 652
-l.652 		\textbf{Cine} & 1.3 & 1.2 & 1.3 & 1
-                                         .3 & 1.2 & 1 & 1 & 1 & 1 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 652
-l.652 		\textbf{Cine} & 1.3 & 1.2 & 1.3 & 1.3 & 1
-                                               .2 & 1 & 1 & 1 & 1 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 652
-l.652 ...tbf{Cine} & 1.3 & 1.2 & 1.3 & 1.3 & 1.2 & 1
-                                                   & 1 & 1 & 1 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 652
-l.652 ...Cine} & 1.3 & 1.2 & 1.3 & 1.3 & 1.2 & 1 & 1
-                                                   & 1 & 1 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 652
-l.652 ...} & 1.3 & 1.2 & 1.3 & 1.3 & 1.2 & 1 & 1 & 1
-                                                   & 1 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 652
-l.652 ...1.3 & 1.2 & 1.3 & 1.3 & 1.2 & 1 & 1 & 1 & 1
-                                                   \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 654
-l.654 		\textbf{Internet} & 4
-                           .3 & 6.1 & 7.4 & 8.0 & 16 & 20 & 20 & 24 & 25 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 654
-l.654 		\textbf{Internet} & 4.3 & 6
-                                 .1 & 7.4 & 8.0 & 16 & 20 & 20 & 24 & 25 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 654
-l.654 		\textbf{Internet} & 4.3 & 6.1 & 7
-                                       .4 & 8.0 & 16 & 20 & 20 & 24 & 25 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 654
-l.654 		\textbf{Internet} & 4.3 & 6.1 & 7.4 & 8
-                                             .0 & 16 & 20 & 20 & 24 & 25 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 654
-l.654 ...extbf{Internet} & 4.3 & 6.1 & 7.4 & 8.0 & 1
-                                                  6 & 20 & 20 & 24 & 25 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 654
-l.654 ...{Internet} & 4.3 & 6.1 & 7.4 & 8.0 & 16 & 2
-                                                  0 & 20 & 24 & 25 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 654
-l.654 ...rnet} & 4.3 & 6.1 & 7.4 & 8.0 & 16 & 20 & 2
-                                                  0 & 24 & 25 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 654
-l.654 ... & 4.3 & 6.1 & 7.4 & 8.0 & 16 & 20 & 20 & 2
-                                                  4 & 25 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 654
-l.654 ...3 & 6.1 & 7.4 & 8.0 & 16 & 20 & 20 & 24 & 2
-                                                  5 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
+(Font)              scaled to size 7.75806pt on input line 640.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 11.79993pt on input line 659.
-LaTeX Info: Redefining \. on input line 662.
-LaTeX Info: Redefining \% on input line 662.
-LaTeX Info: Redefining \. on input line 662.
-LaTeX Info: Redefining \% on input line 662.
-[11]
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 669
-l.669 ...extbf{Circulación diarios pagos} & \textbf
-                                                  {2010} & \textbf{2011} & \...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
+(Font)              scaled to size 10.61993pt on input line 659.
+LaTeX Info: Redefining \. on input line 665.
+LaTeX Info: Redefining \% on input line 665.
+LaTeX Info: Redefining \. on input line 665.
+LaTeX Info: Redefining \% on input line 665.
+ [11]
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 669
-l.669 ...n diarios pagos} & \textbf{2010} & \textbf
-                                                  {2011} & \textbf{2012} & \...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
+! LaTeX Error: The key 'siunitx/table-format-3.0' is unknown and is being
+(LaTeX)        ignored.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 669
-l.669 ...} & \textbf{2010} & \textbf{2011} & \textbf
-                                                  {2012} & \textbf{2013} & \...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 669
-l.669 ...} & \textbf{2011} & \textbf{2012} & \textbf
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.671 ...} & \textbf{2011} & \textbf{2012} & \textbf
                                                   {2013} & \textbf{2014} & \...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 669
-l.669 ...} & \textbf{2012} & \textbf{2013} & \textbf
-                                                  {2014} & \textbf{2015} & \...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
+The module 'siunitx' does not have a key called 'siunitx/table-format-3.0'.
+Check that you have spelled the key name correctly.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 669
-l.669 ...} & \textbf{2013} & \textbf{2014} & \textbf
-                                                  {2015} & \textbf{2016} & \...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 669
-l.669 ...} & \textbf{2014} & \textbf{2015} & \textbf
-                                                  {2016} & \textbf{2017} & \...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 669
-l.669 ...} & \textbf{2015} & \textbf{2016} & \textbf
+! LaTeX Error: The key 'siunitx/table-format-3.0' is unknown and is being
+(LaTeX)        ignored.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.671 ...} & \textbf{2015} & \textbf{2016} & \textbf
                                                   {2017} & \textbf{2018} & \...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 669
-l.669 ...} & \textbf{2016} & \textbf{2017} & \textbf
-                                                  {2018} & \textbf{2019} & \...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
+The module 'siunitx' does not have a key called 'siunitx/table-format-3.0'.
+Check that you have spelled the key name correctly.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 669
-l.669 ...} & \textbf{2017} & \textbf{2018} & \textbf
-                                                  {2019} & \textbf{Dif .2010...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 669
-l.669 ...} & \textbf{2018} & \textbf{2019} & \textbf
-                                                  {Dif .2010/2019} \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 671
-l.671 		Clarín & 3
-                 01 & 288 & 271 & 279 & 239 & 238 & 207 & 183 & 206 & 213 & ...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
+! LaTeX Error: The key 'siunitx/table-format-3.0' is unknown and is being
+(LaTeX)        ignored.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 671
-l.671 		Clarín & 301 & 2
-                       88 & 271 & 279 & 239 & 238 & 207 & 183 & 206 & 213 & ...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 671
-l.671 		Clarín & 301 & 288 & 2
-                             71 & 279 & 239 & 238 & 207 & 183 & 206 & 213 & ...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 671
-l.671 		Clarín & 301 & 288 & 271 & 2
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.673 		Clarín & 301 & 288 & 271 & 2
                                    79 & 239 & 238 & 207 & 183 & 206 & 213 & ...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 671
-l.671 		Clarín & 301 & 288 & 271 & 279 & 2
-                                         39 & 238 & 207 & 183 & 206 & 213 & ...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
+The module 'siunitx' does not have a key called 'siunitx/table-format-3.0'.
+Check that you have spelled the key name correctly.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 671
-l.671 		Clarín & 301 & 288 & 271 & 279 & 239 & 2
-                                               38 & 207 & 183 & 206 & 213 & ...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 671
-l.671 ...ín & 301 & 288 & 271 & 279 & 239 & 238 & 2
-                                                  07 & 183 & 206 & 213 & -33 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 671
-l.671 ...301 & 288 & 271 & 279 & 239 & 238 & 207 & 1
+! LaTeX Error: The key 'siunitx/table-format-3.0' is unknown and is being
+(LaTeX)        ignored.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.673 ...301 & 288 & 271 & 279 & 239 & 238 & 207 & 1
                                                   83 & 206 & 213 & -33 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 671
-l.671 ...288 & 271 & 279 & 239 & 238 & 207 & 183 & 2
-                                                  06 & 213 & -33 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
+The module 'siunitx' does not have a key called 'siunitx/table-format-3.0'.
+Check that you have spelled the key name correctly.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 671
-l.671 ...271 & 279 & 239 & 238 & 207 & 183 & 206 & 2
-                                                  13 & -33 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 671
-l.671 ...279 & 239 & 238 & 207 & 183 & 206 & 213 & -
-                                                  33 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 673
-l.673 		La Nación & 1
-                    50 & 160 & 162 & 168 & 164 & 156 & 130 & 122 & 117 & 100...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
+! LaTeX Error: The key 'siunitx/table-format-3.0' is unknown and is being
+(LaTeX)        ignored.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 673
-l.673 		La Nación & 150 & 1
-                          60 & 162 & 168 & 164 & 156 & 130 & 122 & 117 & 100...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 673
-l.673 		La Nación & 150 & 160 & 1
-                                62 & 168 & 164 & 156 & 130 & 122 & 117 & 100...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 673
-l.673 		La Nación & 150 & 160 & 162 & 1
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.675 		La Nación & 150 & 160 & 162 & 1
                                       68 & 164 & 156 & 130 & 122 & 117 & 100...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 673
-l.673 		La Nación & 150 & 160 & 162 & 168 & 1
-                                            64 & 156 & 130 & 122 & 117 & 100...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
+The module 'siunitx' does not have a key called 'siunitx/table-format-3.0'.
+Check that you have spelled the key name correctly.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 673
-l.673 		La Nación & 150 & 160 & 162 & 168 & 164 & 1
-                                                  56 & 130 & 122 & 117 & 100...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 673
-l.673 ...ón & 150 & 160 & 162 & 168 & 164 & 156 & 1
-                                                  30 & 122 & 117 & 100 & -37 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 673
-l.673 ...150 & 160 & 162 & 168 & 164 & 156 & 130 & 1
+! LaTeX Error: The key 'siunitx/table-format-3.0' is unknown and is being
+(LaTeX)        ignored.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.675 ...150 & 160 & 162 & 168 & 164 & 156 & 130 & 1
                                                   22 & 117 & 100 & -37 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 673
-l.673 ...160 & 162 & 168 & 164 & 156 & 130 & 122 & 1
-                                                  17 & 100 & -37 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
+The module 'siunitx' does not have a key called 'siunitx/table-format-3.0'.
+Check that you have spelled the key name correctly.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 673
-l.673 ...162 & 168 & 164 & 156 & 130 & 122 & 117 & 1
-                                                  00 & -37 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 673
-l.673 ...168 & 164 & 156 & 130 & 122 & 117 & 100 & -
-                                                  37 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 675
-l.675 		Diario Popular & 9
-                        0 & 91 & 89 & 88 & 82 & 84 & 78 & 69 & 62 & 51 & -48 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
+! LaTeX Error: The key 'siunitx/table-format-3.0' is unknown and is being
+(LaTeX)        ignored.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 675
-l.675 		Diario Popular & 90 & 9
-                             1 & 89 & 88 & 82 & 84 & 78 & 69 & 62 & 51 & -48 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 675
-l.675 		Diario Popular & 90 & 91 & 8
-                                  9 & 88 & 82 & 84 & 78 & 69 & 62 & 51 & -48 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 675
-l.675 		Diario Popular & 90 & 91 & 89 & 8
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.677 		Diario Popular & 90 & 91 & 89 & 8
                                        8 & 82 & 84 & 78 & 69 & 62 & 51 & -48 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 675
-l.675 		Diario Popular & 90 & 91 & 89 & 88 & 8
-                                            2 & 84 & 78 & 69 & 62 & 51 & -48 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 675
-l.675 		Diario Popular & 90 & 91 & 89 & 88 & 82 & 8
-                                                 4 & 78 & 69 & 62 & 51 & -48 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
+The module 'siunitx' does not have a key called 'siunitx/table-format-3.0'.
+Check that you have spelled the key name correctly.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 675
-l.675 ...o Popular & 90 & 91 & 89 & 88 & 82 & 84 & 7
-                                                  8 & 69 & 62 & 51 & -48 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 675
-l.675 ...ular & 90 & 91 & 89 & 88 & 82 & 84 & 78 & 6
+
+! LaTeX Error: The key 'siunitx/table-format-3.0' is unknown and is being
+(LaTeX)        ignored.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.677 ...ular & 90 & 91 & 89 & 88 & 82 & 84 & 78 & 6
                                                   9 & 62 & 51 & -48 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 675
-l.675 ...& 90 & 91 & 89 & 88 & 82 & 84 & 78 & 69 & 6
-                                                  2 & 51 & -48 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
+The module 'siunitx' does not have a key called 'siunitx/table-format-3.0'.
+Check that you have spelled the key name correctly.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 675
-l.675 ...& 91 & 89 & 88 & 82 & 84 & 78 & 69 & 62 & 5
-                                                  1 & -48 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
 
-! Use of \??? doesn't match its definition.
-<argument> \???  
-      ! LaTeX Error: Misplaced '=' in key-value input on line 675
-l.675 ...& 89 & 88 & 82 & 84 & 78 & 69 & 62 & 51 & -
-                                                  48 \\
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-LaTeX Info: Redefining \. on input line 714.
-LaTeX Info: Redefining \% on input line 714.
-LaTeX Info: Redefining \. on input line 714.
-LaTeX Info: Redefining \% on input line 714.
+LaTeX Info: Redefining \. on input line 717.
+LaTeX Info: Redefining \% on input line 717.
+LaTeX Info: Redefining \. on input line 717.
+LaTeX Info: Redefining \% on input line 717.
 [12]
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/it' will be
-(Font)              scaled to size 9.81033pt on input line 718.
-LaTeX Info: Redefining \. on input line 725.
-LaTeX Info: Redefining \% on input line 725.
-LaTeX Info: Redefining \. on input line 725.
-LaTeX Info: Redefining \% on input line 725.
+LaTeX Info: Redefining \. on input line 728.
+LaTeX Info: Redefining \% on input line 728.
+LaTeX Info: Redefining \. on input line 728.
+LaTeX Info: Redefining \% on input line 728.
  [13]
-LaTeX Info: Redefining \. on input line 742.
-LaTeX Info: Redefining \% on input line 742.
-LaTeX Info: Redefining \. on input line 742.
-LaTeX Info: Redefining \% on input line 742.
+LaTeX Info: Redefining \. on input line 745.
+LaTeX Info: Redefining \% on input line 745.
+LaTeX Info: Redefining \. on input line 745.
+LaTeX Info: Redefining \% on input line 745.
  [14]
-LaTeX Info: Redefining \. on input line 756.
-LaTeX Info: Redefining \% on input line 756.
-LaTeX Info: Redefining \. on input line 756.
-LaTeX Info: Redefining \% on input line 756.
+LaTeX Info: Redefining \. on input line 759.
+LaTeX Info: Redefining \% on input line 759.
+LaTeX Info: Redefining \. on input line 759.
+LaTeX Info: Redefining \% on input line 759.
  [15]
-LaTeX Info: Redefining \. on input line 762.
-LaTeX Info: Redefining \% on input line 762.
-LaTeX Info: Redefining \. on input line 762.
-LaTeX Info: Redefining \% on input line 762.
+LaTeX Info: Redefining \. on input line 765.
+LaTeX Info: Redefining \% on input line 765.
+LaTeX Info: Redefining \. on input line 765.
+LaTeX Info: Redefining \% on input line 765.
  [16]
-LaTeX Info: Redefining \. on input line 774.
-LaTeX Info: Redefining \% on input line 774.
-LaTeX Info: Redefining \. on input line 774.
-LaTeX Info: Redefining \% on input line 774.
+LaTeX Info: Redefining \. on input line 777.
+LaTeX Info: Redefining \% on input line 777.
+LaTeX Info: Redefining \. on input line 777.
+LaTeX Info: Redefining \% on input line 777.
  [17]
-LaTeX Info: Redefining \. on input line 799.
-LaTeX Info: Redefining \% on input line 799.
-LaTeX Info: Redefining \. on input line 799.
-LaTeX Info: Redefining \% on input line 799.
+LaTeX Info: Redefining \. on input line 802.
+LaTeX Info: Redefining \% on input line 802.
+LaTeX Info: Redefining \. on input line 802.
+LaTeX Info: Redefining \% on input line 802.
  [18]
-LaTeX Info: Redefining \. on input line 809.
-LaTeX Info: Redefining \% on input line 809.
-LaTeX Info: Redefining \. on input line 809.
-LaTeX Info: Redefining \% on input line 809.
+LaTeX Info: Redefining \. on input line 812.
+LaTeX Info: Redefining \% on input line 812.
+LaTeX Info: Redefining \. on input line 812.
+LaTeX Info: Redefining \% on input line 812.
  [19]
-LaTeX Info: Redefining \. on input line 816.
-LaTeX Info: Redefining \% on input line 816.
-LaTeX Info: Redefining \. on input line 816.
-LaTeX Info: Redefining \% on input line 816.
+LaTeX Info: Redefining \. on input line 819.
+LaTeX Info: Redefining \% on input line 819.
+LaTeX Info: Redefining \. on input line 819.
+LaTeX Info: Redefining \% on input line 819.
  [20]
 Capítulo 2.
-Package biblatex Info: Resetting trackers on input line 816.
-LaTeX Info: Redefining \. on input line 827.
-LaTeX Info: Redefining \% on input line 827.
-LaTeX Info: Redefining \. on input line 827.
-LaTeX Info: Redefining \% on input line 827.
+Package biblatex Info: Resetting trackers on input line 819.
+LaTeX Info: Redefining \. on input line 830.
+LaTeX Info: Redefining \% on input line 830.
+LaTeX Info: Redefining \. on input line 830.
+LaTeX Info: Redefining \% on input line 830.
 [21
 
 ]
-LaTeX Info: Redefining \. on input line 835.
-LaTeX Info: Redefining \% on input line 835.
-LaTeX Info: Redefining \. on input line 835.
-LaTeX Info: Redefining \% on input line 835.
+LaTeX Info: Redefining \. on input line 838.
+LaTeX Info: Redefining \% on input line 838.
+LaTeX Info: Redefining \. on input line 838.
+LaTeX Info: Redefining \% on input line 838.
  [22]
 Overfull \vbox (0.96939pt too high) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 843.
-LaTeX Info: Redefining \% on input line 843.
-LaTeX Info: Redefining \. on input line 843.
-LaTeX Info: Redefining \% on input line 843.
+LaTeX Info: Redefining \. on input line 846.
+LaTeX Info: Redefining \% on input line 846.
+LaTeX Info: Redefining \. on input line 846.
+LaTeX Info: Redefining \% on input line 846.
 
 [23]
-LaTeX Info: Redefining \. on input line 855.
-LaTeX Info: Redefining \% on input line 855.
-LaTeX Info: Redefining \. on input line 855.
-LaTeX Info: Redefining \% on input line 855.
+LaTeX Info: Redefining \. on input line 858.
+LaTeX Info: Redefining \% on input line 858.
+LaTeX Info: Redefining \. on input line 858.
+LaTeX Info: Redefining \% on input line 858.
  [24]
-LaTeX Info: Redefining \. on input line 864.
-LaTeX Info: Redefining \% on input line 864.
-LaTeX Info: Redefining \. on input line 864.
-LaTeX Info: Redefining \% on input line 864.
+LaTeX Info: Redefining \. on input line 867.
+LaTeX Info: Redefining \% on input line 867.
+LaTeX Info: Redefining \. on input line 867.
+LaTeX Info: Redefining \% on input line 867.
  [25]
-LaTeX Info: Redefining \. on input line 879.
-LaTeX Info: Redefining \% on input line 879.
-LaTeX Info: Redefining \. on input line 879.
-LaTeX Info: Redefining \% on input line 879.
+LaTeX Info: Redefining \. on input line 882.
+LaTeX Info: Redefining \% on input line 882.
+LaTeX Info: Redefining \. on input line 882.
+LaTeX Info: Redefining \% on input line 882.
  [26]
-LaTeX Info: Redefining \. on input line 886.
-LaTeX Info: Redefining \% on input line 886.
-LaTeX Info: Redefining \. on input line 886.
-LaTeX Info: Redefining \% on input line 886.
+LaTeX Info: Redefining \. on input line 889.
+LaTeX Info: Redefining \% on input line 889.
+LaTeX Info: Redefining \. on input line 889.
+LaTeX Info: Redefining \% on input line 889.
  [27]
-LaTeX Info: Redefining \. on input line 906.
-LaTeX Info: Redefining \% on input line 906.
-LaTeX Info: Redefining \. on input line 906.
-LaTeX Info: Redefining \% on input line 906.
+LaTeX Info: Redefining \. on input line 909.
+LaTeX Info: Redefining \% on input line 909.
+LaTeX Info: Redefining \. on input line 909.
+LaTeX Info: Redefining \% on input line 909.
  [28]
-LaTeX Info: Redefining \. on input line 926.
-LaTeX Info: Redefining \% on input line 926.
-LaTeX Info: Redefining \. on input line 926.
-LaTeX Info: Redefining \% on input line 926.
+LaTeX Info: Redefining \. on input line 929.
+LaTeX Info: Redefining \% on input line 929.
+LaTeX Info: Redefining \. on input line 929.
+LaTeX Info: Redefining \% on input line 929.
  [29]
-LaTeX Info: Redefining \. on input line 937.
-LaTeX Info: Redefining \% on input line 937.
-LaTeX Info: Redefining \. on input line 937.
-LaTeX Info: Redefining \% on input line 937.
+LaTeX Info: Redefining \. on input line 940.
+LaTeX Info: Redefining \% on input line 940.
+LaTeX Info: Redefining \. on input line 940.
+LaTeX Info: Redefining \% on input line 940.
  [30]
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/it' will be
-(Font)              scaled to size 11.79993pt on input line 940.
-LaTeX Info: Redefining \. on input line 952.
-LaTeX Info: Redefining \% on input line 952.
-LaTeX Info: Redefining \. on input line 952.
-LaTeX Info: Redefining \% on input line 952.
+(Font)              scaled to size 11.79993pt on input line 943.
+LaTeX Info: Redefining \. on input line 955.
+LaTeX Info: Redefining \% on input line 955.
+LaTeX Info: Redefining \. on input line 955.
+LaTeX Info: Redefining \% on input line 955.
  [31]
-LaTeX Info: Redefining \. on input line 972.
-LaTeX Info: Redefining \% on input line 972.
-LaTeX Info: Redefining \. on input line 972.
-LaTeX Info: Redefining \% on input line 972.
+LaTeX Info: Redefining \. on input line 975.
+LaTeX Info: Redefining \% on input line 975.
+LaTeX Info: Redefining \. on input line 975.
+LaTeX Info: Redefining \% on input line 975.
  [32]
-LaTeX Info: Redefining \. on input line 996.
-LaTeX Info: Redefining \% on input line 996.
-LaTeX Info: Redefining \. on input line 996.
-LaTeX Info: Redefining \% on input line 996.
+LaTeX Info: Redefining \. on input line 999.
+LaTeX Info: Redefining \% on input line 999.
+LaTeX Info: Redefining \. on input line 999.
+LaTeX Info: Redefining \% on input line 999.
  [33]
-LaTeX Info: Redefining \. on input line 1005.
-LaTeX Info: Redefining \% on input line 1005.
-LaTeX Info: Redefining \. on input line 1005.
-LaTeX Info: Redefining \% on input line 1005.
+LaTeX Info: Redefining \. on input line 1008.
+LaTeX Info: Redefining \% on input line 1008.
+LaTeX Info: Redefining \. on input line 1008.
+LaTeX Info: Redefining \% on input line 1008.
  [34]
-LaTeX Info: Redefining \. on input line 1026.
-LaTeX Info: Redefining \% on input line 1026.
-LaTeX Info: Redefining \. on input line 1026.
-LaTeX Info: Redefining \% on input line 1026.
+LaTeX Info: Redefining \. on input line 1029.
+LaTeX Info: Redefining \% on input line 1029.
+LaTeX Info: Redefining \. on input line 1029.
+LaTeX Info: Redefining \% on input line 1029.
  [35]
 Overfull \vbox (0.20837pt too high) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 1039.
-LaTeX Info: Redefining \% on input line 1039.
-LaTeX Info: Redefining \. on input line 1039.
-LaTeX Info: Redefining \% on input line 1039.
+LaTeX Info: Redefining \. on input line 1042.
+LaTeX Info: Redefining \% on input line 1042.
+LaTeX Info: Redefining \. on input line 1042.
+LaTeX Info: Redefining \% on input line 1042.
 
 [36]
-LaTeX Info: Redefining \. on input line 1061.
-LaTeX Info: Redefining \% on input line 1061.
-LaTeX Info: Redefining \. on input line 1061.
-LaTeX Info: Redefining \% on input line 1061.
+LaTeX Info: Redefining \. on input line 1064.
+LaTeX Info: Redefining \% on input line 1064.
+LaTeX Info: Redefining \. on input line 1064.
+LaTeX Info: Redefining \% on input line 1064.
  [37]
-LaTeX Info: Redefining \. on input line 1071.
-LaTeX Info: Redefining \% on input line 1071.
-LaTeX Info: Redefining \. on input line 1071.
-LaTeX Info: Redefining \% on input line 1071.
+LaTeX Info: Redefining \. on input line 1074.
+LaTeX Info: Redefining \% on input line 1074.
+LaTeX Info: Redefining \. on input line 1074.
+LaTeX Info: Redefining \% on input line 1074.
  [38]
-LaTeX Info: Redefining \. on input line 1081.
-LaTeX Info: Redefining \% on input line 1081.
-LaTeX Info: Redefining \. on input line 1081.
-LaTeX Info: Redefining \% on input line 1081.
+LaTeX Info: Redefining \. on input line 1084.
+LaTeX Info: Redefining \% on input line 1084.
+LaTeX Info: Redefining \. on input line 1084.
+LaTeX Info: Redefining \% on input line 1084.
  [39]
-LaTeX Info: Redefining \. on input line 1090.
-LaTeX Info: Redefining \% on input line 1090.
-LaTeX Info: Redefining \. on input line 1090.
-LaTeX Info: Redefining \% on input line 1090.
+LaTeX Info: Redefining \. on input line 1093.
+LaTeX Info: Redefining \% on input line 1093.
+LaTeX Info: Redefining \. on input line 1093.
+LaTeX Info: Redefining \% on input line 1093.
  [40]
-LaTeX Info: Redefining \. on input line 1101.
-LaTeX Info: Redefining \% on input line 1101.
-LaTeX Info: Redefining \. on input line 1101.
-LaTeX Info: Redefining \% on input line 1101.
+LaTeX Info: Redefining \. on input line 1104.
+LaTeX Info: Redefining \% on input line 1104.
+LaTeX Info: Redefining \. on input line 1104.
+LaTeX Info: Redefining \% on input line 1104.
  [41]
-LaTeX Info: Redefining \. on input line 1109.
-LaTeX Info: Redefining \% on input line 1109.
-LaTeX Info: Redefining \. on input line 1109.
-LaTeX Info: Redefining \% on input line 1109.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
+(Font)              scaled to size 11.79993pt on input line 1109.
+LaTeX Info: Redefining \. on input line 1112.
+LaTeX Info: Redefining \% on input line 1112.
+LaTeX Info: Redefining \. on input line 1112.
+LaTeX Info: Redefining \% on input line 1112.
  [42]
-LaTeX Info: Redefining \. on input line 1120.
-LaTeX Info: Redefining \% on input line 1120.
-LaTeX Info: Redefining \. on input line 1120.
-LaTeX Info: Redefining \% on input line 1120.
+LaTeX Info: Redefining \. on input line 1123.
+LaTeX Info: Redefining \% on input line 1123.
+LaTeX Info: Redefining \. on input line 1123.
+LaTeX Info: Redefining \% on input line 1123.
  [43]
-LaTeX Info: Redefining \. on input line 1124.
-LaTeX Info: Redefining \% on input line 1124.
-LaTeX Info: Redefining \. on input line 1124.
-LaTeX Info: Redefining \% on input line 1124.
+LaTeX Info: Redefining \. on input line 1127.
+LaTeX Info: Redefining \% on input line 1127.
+LaTeX Info: Redefining \. on input line 1127.
+LaTeX Info: Redefining \% on input line 1127.
  [44]
 Capítulo 3.
-Package biblatex Info: Resetting trackers on input line 1124.
-LaTeX Info: Redefining \. on input line 1135.
-LaTeX Info: Redefining \% on input line 1135.
-LaTeX Info: Redefining \. on input line 1135.
-LaTeX Info: Redefining \% on input line 1135.
+Package biblatex Info: Resetting trackers on input line 1127.
+LaTeX Info: Redefining \. on input line 1138.
+LaTeX Info: Redefining \% on input line 1138.
+LaTeX Info: Redefining \. on input line 1138.
+LaTeX Info: Redefining \% on input line 1138.
 [45
 
 ]
-LaTeX Info: Redefining \. on input line 1145.
-LaTeX Info: Redefining \% on input line 1145.
-LaTeX Info: Redefining \. on input line 1145.
-LaTeX Info: Redefining \% on input line 1145.
+LaTeX Info: Redefining \. on input line 1148.
+LaTeX Info: Redefining \% on input line 1148.
+LaTeX Info: Redefining \. on input line 1148.
+LaTeX Info: Redefining \% on input line 1148.
  [46]
-LaTeX Info: Redefining \. on input line 1158.
-LaTeX Info: Redefining \% on input line 1158.
-LaTeX Info: Redefining \. on input line 1158.
-LaTeX Info: Redefining \% on input line 1158.
+LaTeX Info: Redefining \. on input line 1161.
+LaTeX Info: Redefining \% on input line 1161.
+LaTeX Info: Redefining \. on input line 1161.
+LaTeX Info: Redefining \% on input line 1161.
  [47]
-LaTeX Info: Redefining \. on input line 1179.
-LaTeX Info: Redefining \% on input line 1179.
-LaTeX Info: Redefining \. on input line 1179.
-LaTeX Info: Redefining \% on input line 1179.
+LaTeX Info: Redefining \. on input line 1182.
+LaTeX Info: Redefining \% on input line 1182.
+LaTeX Info: Redefining \. on input line 1182.
+LaTeX Info: Redefining \% on input line 1182.
  [48]
-LaTeX Info: Redefining \. on input line 1192.
-LaTeX Info: Redefining \% on input line 1192.
-LaTeX Info: Redefining \. on input line 1192.
-LaTeX Info: Redefining \% on input line 1192.
+LaTeX Info: Redefining \. on input line 1195.
+LaTeX Info: Redefining \% on input line 1195.
+LaTeX Info: Redefining \. on input line 1195.
+LaTeX Info: Redefining \% on input line 1195.
  [49]
-LaTeX Info: Redefining \. on input line 1201.
-LaTeX Info: Redefining \% on input line 1201.
-LaTeX Info: Redefining \. on input line 1201.
-LaTeX Info: Redefining \% on input line 1201.
+LaTeX Info: Redefining \. on input line 1204.
+LaTeX Info: Redefining \% on input line 1204.
+LaTeX Info: Redefining \. on input line 1204.
+LaTeX Info: Redefining \% on input line 1204.
  [50]
-LaTeX Info: Redefining \. on input line 1208.
-LaTeX Info: Redefining \% on input line 1208.
-LaTeX Info: Redefining \. on input line 1208.
-LaTeX Info: Redefining \% on input line 1208.
+LaTeX Info: Redefining \. on input line 1211.
+LaTeX Info: Redefining \% on input line 1211.
+LaTeX Info: Redefining \. on input line 1211.
+LaTeX Info: Redefining \% on input line 1211.
  [51]
-LaTeX Info: Redefining \. on input line 1232.
-LaTeX Info: Redefining \% on input line 1232.
-LaTeX Info: Redefining \. on input line 1232.
-LaTeX Info: Redefining \% on input line 1232.
+LaTeX Info: Redefining \. on input line 1251.
+LaTeX Info: Redefining \% on input line 1251.
+LaTeX Info: Redefining \. on input line 1251.
+LaTeX Info: Redefining \% on input line 1251.
  [52]
-LaTeX Info: Redefining \. on input line 1262.
-LaTeX Info: Redefining \% on input line 1262.
-LaTeX Info: Redefining \. on input line 1262.
-LaTeX Info: Redefining \% on input line 1262.
+LaTeX Info: Redefining \. on input line 1279.
+LaTeX Info: Redefining \% on input line 1279.
+LaTeX Info: Redefining \. on input line 1279.
+LaTeX Info: Redefining \% on input line 1279.
  [53]
-LaTeX Info: Redefining \. on input line 1286.
-LaTeX Info: Redefining \% on input line 1286.
-LaTeX Info: Redefining \. on input line 1286.
-LaTeX Info: Redefining \% on input line 1286.
+LaTeX Info: Redefining \. on input line 1295.
+LaTeX Info: Redefining \% on input line 1295.
+LaTeX Info: Redefining \. on input line 1295.
+LaTeX Info: Redefining \% on input line 1295.
  [54]
-LaTeX Info: Redefining \. on input line 1300.
-LaTeX Info: Redefining \% on input line 1300.
-LaTeX Info: Redefining \. on input line 1300.
-LaTeX Info: Redefining \% on input line 1300.
+LaTeX Info: Redefining \. on input line 1313.
+LaTeX Info: Redefining \% on input line 1313.
+LaTeX Info: Redefining \. on input line 1313.
+LaTeX Info: Redefining \% on input line 1313.
  [55]
-LaTeX Info: Redefining \. on input line 1308.
-LaTeX Info: Redefining \% on input line 1308.
-LaTeX Info: Redefining \. on input line 1308.
-LaTeX Info: Redefining \% on input line 1308.
+LaTeX Info: Redefining \. on input line 1326.
+LaTeX Info: Redefining \% on input line 1326.
+LaTeX Info: Redefining \. on input line 1326.
+LaTeX Info: Redefining \% on input line 1326.
  [56]
-Capítulo 4.
-Package biblatex Info: Resetting trackers on input line 1308.
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/it' will be
-(Font)              scaled to size 16.95224pt on input line 1308.
-LaTeX Info: Redefining \. on input line 1328.
-LaTeX Info: Redefining \% on input line 1328.
-LaTeX Info: Redefining \. on input line 1328.
-LaTeX Info: Redefining \% on input line 1328.
-[57
+LaTeX Info: Redefining \. on input line 1327.
+LaTeX Info: Redefining \% on input line 1327.
+LaTeX Info: Redefining \. on input line 1327.
+LaTeX Info: Redefining \% on input line 1327.
+ [57] [58
 
 ]
-LaTeX Info: Redefining \. on input line 1342.
-LaTeX Info: Redefining \% on input line 1342.
-LaTeX Info: Redefining \. on input line 1342.
-LaTeX Info: Redefining \% on input line 1342.
- [58]
-LaTeX Info: Redefining \. on input line 1357.
-LaTeX Info: Redefining \% on input line 1357.
-LaTeX Info: Redefining \. on input line 1357.
-LaTeX Info: Redefining \% on input line 1357.
- [59]
-LaTeX Info: Redefining \. on input line 1363.
-LaTeX Info: Redefining \% on input line 1363.
-LaTeX Info: Redefining \. on input line 1363.
-LaTeX Info: Redefining \% on input line 1363.
+Capítulo 4.
+Package biblatex Info: Resetting trackers on input line 1327.
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/it' will be
+(Font)              scaled to size 16.95224pt on input line 1327.
+LaTeX Info: Redefining \. on input line 1347.
+LaTeX Info: Redefining \% on input line 1347.
+LaTeX Info: Redefining \. on input line 1347.
+LaTeX Info: Redefining \% on input line 1347.
+[59]
+LaTeX Info: Redefining \. on input line 1361.
+LaTeX Info: Redefining \% on input line 1361.
+LaTeX Info: Redefining \. on input line 1361.
+LaTeX Info: Redefining \% on input line 1361.
  [60]
-LaTeX Info: Redefining \. on input line 1377.
-LaTeX Info: Redefining \% on input line 1377.
-LaTeX Info: Redefining \. on input line 1377.
-LaTeX Info: Redefining \% on input line 1377.
+LaTeX Info: Redefining \. on input line 1376.
+LaTeX Info: Redefining \% on input line 1376.
+LaTeX Info: Redefining \. on input line 1376.
+LaTeX Info: Redefining \% on input line 1376.
  [61]
+LaTeX Info: Redefining \. on input line 1382.
+LaTeX Info: Redefining \% on input line 1382.
+LaTeX Info: Redefining \. on input line 1382.
+LaTeX Info: Redefining \% on input line 1382.
+ [62]
+LaTeX Info: Redefining \. on input line 1396.
+LaTeX Info: Redefining \% on input line 1396.
+LaTeX Info: Redefining \. on input line 1396.
+LaTeX Info: Redefining \% on input line 1396.
+ [63]
 Overfull \vbox (0.20837pt too high) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 1398.
-LaTeX Info: Redefining \% on input line 1398.
-LaTeX Info: Redefining \. on input line 1398.
-LaTeX Info: Redefining \% on input line 1398.
+LaTeX Info: Redefining \. on input line 1417.
+LaTeX Info: Redefining \% on input line 1417.
+LaTeX Info: Redefining \. on input line 1417.
+LaTeX Info: Redefining \% on input line 1417.
 
-[62]
-LaTeX Info: Redefining \. on input line 1410.
-LaTeX Info: Redefining \% on input line 1410.
-LaTeX Info: Redefining \. on input line 1410.
-LaTeX Info: Redefining \% on input line 1410.
- [63]
-LaTeX Info: Redefining \. on input line 1424.
-LaTeX Info: Redefining \% on input line 1424.
-LaTeX Info: Redefining \. on input line 1424.
-LaTeX Info: Redefining \% on input line 1424.
- [64]
-LaTeX Info: Redefining \. on input line 1434.
-LaTeX Info: Redefining \% on input line 1434.
-LaTeX Info: Redefining \. on input line 1434.
-LaTeX Info: Redefining \% on input line 1434.
+[64]
+LaTeX Info: Redefining \. on input line 1429.
+LaTeX Info: Redefining \% on input line 1429.
+LaTeX Info: Redefining \. on input line 1429.
+LaTeX Info: Redefining \% on input line 1429.
  [65]
-LaTeX Info: Redefining \. on input line 1452.
-LaTeX Info: Redefining \% on input line 1452.
-LaTeX Info: Redefining \. on input line 1452.
-LaTeX Info: Redefining \% on input line 1452.
+LaTeX Info: Redefining \. on input line 1443.
+LaTeX Info: Redefining \% on input line 1443.
+LaTeX Info: Redefining \. on input line 1443.
+LaTeX Info: Redefining \% on input line 1443.
  [66]
-LaTeX Info: Redefining \. on input line 1464.
-LaTeX Info: Redefining \% on input line 1464.
-LaTeX Info: Redefining \. on input line 1464.
-LaTeX Info: Redefining \% on input line 1464.
+LaTeX Info: Redefining \. on input line 1453.
+LaTeX Info: Redefining \% on input line 1453.
+LaTeX Info: Redefining \. on input line 1453.
+LaTeX Info: Redefining \% on input line 1453.
  [67]
-LaTeX Info: Redefining \. on input line 1480.
-LaTeX Info: Redefining \% on input line 1480.
-LaTeX Info: Redefining \. on input line 1480.
-LaTeX Info: Redefining \% on input line 1480.
+LaTeX Info: Redefining \. on input line 1471.
+LaTeX Info: Redefining \% on input line 1471.
+LaTeX Info: Redefining \. on input line 1471.
+LaTeX Info: Redefining \% on input line 1471.
  [68]
-LaTeX Info: Redefining \. on input line 1495.
-LaTeX Info: Redefining \% on input line 1495.
-LaTeX Info: Redefining \. on input line 1495.
-LaTeX Info: Redefining \% on input line 1495.
+LaTeX Info: Redefining \. on input line 1483.
+LaTeX Info: Redefining \% on input line 1483.
+LaTeX Info: Redefining \. on input line 1483.
+LaTeX Info: Redefining \% on input line 1483.
  [69]
-LaTeX Info: Redefining \. on input line 1505.
-LaTeX Info: Redefining \% on input line 1505.
-LaTeX Info: Redefining \. on input line 1505.
-LaTeX Info: Redefining \% on input line 1505.
+LaTeX Info: Redefining \. on input line 1499.
+LaTeX Info: Redefining \% on input line 1499.
+LaTeX Info: Redefining \. on input line 1499.
+LaTeX Info: Redefining \% on input line 1499.
  [70]
-LaTeX Info: Redefining \. on input line 1522.
-LaTeX Info: Redefining \% on input line 1522.
-LaTeX Info: Redefining \. on input line 1522.
-LaTeX Info: Redefining \% on input line 1522.
+LaTeX Info: Redefining \. on input line 1514.
+LaTeX Info: Redefining \% on input line 1514.
+LaTeX Info: Redefining \. on input line 1514.
+LaTeX Info: Redefining \% on input line 1514.
  [71]
-LaTeX Info: Redefining \. on input line 1534.
-LaTeX Info: Redefining \% on input line 1534.
-LaTeX Info: Redefining \. on input line 1534.
-LaTeX Info: Redefining \% on input line 1534.
+LaTeX Info: Redefining \. on input line 1524.
+LaTeX Info: Redefining \% on input line 1524.
+LaTeX Info: Redefining \. on input line 1524.
+LaTeX Info: Redefining \% on input line 1524.
  [72]
-LaTeX Info: Redefining \. on input line 1554.
-LaTeX Info: Redefining \% on input line 1554.
-LaTeX Info: Redefining \. on input line 1554.
-LaTeX Info: Redefining \% on input line 1554.
+LaTeX Info: Redefining \. on input line 1541.
+LaTeX Info: Redefining \% on input line 1541.
+LaTeX Info: Redefining \. on input line 1541.
+LaTeX Info: Redefining \% on input line 1541.
  [73]
-LaTeX Info: Redefining \. on input line 1563.
-LaTeX Info: Redefining \% on input line 1563.
-LaTeX Info: Redefining \. on input line 1563.
-LaTeX Info: Redefining \% on input line 1563.
+LaTeX Info: Redefining \. on input line 1553.
+LaTeX Info: Redefining \% on input line 1553.
+LaTeX Info: Redefining \. on input line 1553.
+LaTeX Info: Redefining \% on input line 1553.
  [74]
-LaTeX Info: Redefining \. on input line 1577.
-LaTeX Info: Redefining \% on input line 1577.
-LaTeX Info: Redefining \. on input line 1577.
-LaTeX Info: Redefining \% on input line 1577.
+LaTeX Info: Redefining \. on input line 1573.
+LaTeX Info: Redefining \% on input line 1573.
+LaTeX Info: Redefining \. on input line 1573.
+LaTeX Info: Redefining \% on input line 1573.
  [75]
-LaTeX Info: Redefining \. on input line 1593.
-LaTeX Info: Redefining \% on input line 1593.
-LaTeX Info: Redefining \. on input line 1593.
-LaTeX Info: Redefining \% on input line 1593.
+LaTeX Info: Redefining \. on input line 1582.
+LaTeX Info: Redefining \% on input line 1582.
+LaTeX Info: Redefining \. on input line 1582.
+LaTeX Info: Redefining \% on input line 1582.
  [76]
-LaTeX Info: Redefining \. on input line 1600.
-LaTeX Info: Redefining \% on input line 1600.
-LaTeX Info: Redefining \. on input line 1600.
-LaTeX Info: Redefining \% on input line 1600.
-
-[77]
-LaTeX Info: Redefining \. on input line 1611.
-LaTeX Info: Redefining \% on input line 1611.
-LaTeX Info: Redefining \. on input line 1611.
-LaTeX Info: Redefining \% on input line 1611.
+LaTeX Info: Redefining \. on input line 1596.
+LaTeX Info: Redefining \% on input line 1596.
+LaTeX Info: Redefining \. on input line 1596.
+LaTeX Info: Redefining \% on input line 1596.
+ [77]
+LaTeX Info: Redefining \. on input line 1612.
+LaTeX Info: Redefining \% on input line 1612.
+LaTeX Info: Redefining \. on input line 1612.
+LaTeX Info: Redefining \% on input line 1612.
  [78]
-LaTeX Info: Redefining \. on input line 1623.
-LaTeX Info: Redefining \% on input line 1623.
-LaTeX Info: Redefining \. on input line 1623.
-LaTeX Info: Redefining \% on input line 1623.
- [79]
+LaTeX Info: Redefining \. on input line 1619.
+LaTeX Info: Redefining \% on input line 1619.
+LaTeX Info: Redefining \. on input line 1619.
+LaTeX Info: Redefining \% on input line 1619.
+
+[79]
 LaTeX Info: Redefining \. on input line 1630.
 LaTeX Info: Redefining \% on input line 1630.
 LaTeX Info: Redefining \. on input line 1630.
 LaTeX Info: Redefining \% on input line 1630.
  [80]
+LaTeX Info: Redefining \. on input line 1642.
+LaTeX Info: Redefining \% on input line 1642.
+LaTeX Info: Redefining \. on input line 1642.
+LaTeX Info: Redefining \% on input line 1642.
+ [81]
+LaTeX Info: Redefining \. on input line 1649.
+LaTeX Info: Redefining \% on input line 1649.
+LaTeX Info: Redefining \. on input line 1649.
+LaTeX Info: Redefining \% on input line 1649.
+ [82]
 Overfull \vbox (2.20837pt too high) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 1639.
-LaTeX Info: Redefining \% on input line 1639.
-LaTeX Info: Redefining \. on input line 1639.
-LaTeX Info: Redefining \% on input line 1639.
+LaTeX Info: Redefining \. on input line 1658.
+LaTeX Info: Redefining \% on input line 1658.
+LaTeX Info: Redefining \. on input line 1658.
+LaTeX Info: Redefining \% on input line 1658.
 
-[81]
-LaTeX Info: Redefining \. on input line 1655.
-LaTeX Info: Redefining \% on input line 1655.
-LaTeX Info: Redefining \. on input line 1655.
-LaTeX Info: Redefining \% on input line 1655.
- [82]
-LaTeX Info: Redefining \. on input line 1672.
-LaTeX Info: Redefining \% on input line 1672.
-LaTeX Info: Redefining \. on input line 1672.
-LaTeX Info: Redefining \% on input line 1672.
- [83]
-LaTeX Info: Redefining \. on input line 1688.
-LaTeX Info: Redefining \% on input line 1688.
-LaTeX Info: Redefining \. on input line 1688.
-LaTeX Info: Redefining \% on input line 1688.
+[83]
+LaTeX Info: Redefining \. on input line 1674.
+LaTeX Info: Redefining \% on input line 1674.
+LaTeX Info: Redefining \. on input line 1674.
+LaTeX Info: Redefining \% on input line 1674.
  [84]
-LaTeX Info: Redefining \. on input line 1694.
-LaTeX Info: Redefining \% on input line 1694.
-LaTeX Info: Redefining \. on input line 1694.
-LaTeX Info: Redefining \% on input line 1694.
+LaTeX Info: Redefining \. on input line 1691.
+LaTeX Info: Redefining \% on input line 1691.
+LaTeX Info: Redefining \. on input line 1691.
+LaTeX Info: Redefining \% on input line 1691.
  [85]
-LaTeX Info: Redefining \. on input line 1702.
-LaTeX Info: Redefining \% on input line 1702.
-LaTeX Info: Redefining \. on input line 1702.
-LaTeX Info: Redefining \% on input line 1702.
+LaTeX Info: Redefining \. on input line 1707.
+LaTeX Info: Redefining \% on input line 1707.
+LaTeX Info: Redefining \. on input line 1707.
+LaTeX Info: Redefining \% on input line 1707.
  [86]
-LaTeX Info: Redefining \. on input line 1714.
-LaTeX Info: Redefining \% on input line 1714.
-LaTeX Info: Redefining \. on input line 1714.
-LaTeX Info: Redefining \% on input line 1714.
+LaTeX Info: Redefining \. on input line 1713.
+LaTeX Info: Redefining \% on input line 1713.
+LaTeX Info: Redefining \. on input line 1713.
+LaTeX Info: Redefining \% on input line 1713.
  [87]
-LaTeX Info: Redefining \. on input line 1726.
-LaTeX Info: Redefining \% on input line 1726.
-LaTeX Info: Redefining \. on input line 1726.
-LaTeX Info: Redefining \% on input line 1726.
+LaTeX Info: Redefining \. on input line 1721.
+LaTeX Info: Redefining \% on input line 1721.
+LaTeX Info: Redefining \. on input line 1721.
+LaTeX Info: Redefining \% on input line 1721.
  [88]
-LaTeX Info: Redefining \. on input line 1754.
-LaTeX Info: Redefining \% on input line 1754.
-LaTeX Info: Redefining \. on input line 1754.
-LaTeX Info: Redefining \% on input line 1754.
+LaTeX Info: Redefining \. on input line 1733.
+LaTeX Info: Redefining \% on input line 1733.
+LaTeX Info: Redefining \. on input line 1733.
+LaTeX Info: Redefining \% on input line 1733.
  [89]
-LaTeX Info: Redefining \. on input line 1770.
-LaTeX Info: Redefining \% on input line 1770.
-LaTeX Info: Redefining \. on input line 1770.
-LaTeX Info: Redefining \% on input line 1770.
+LaTeX Info: Redefining \. on input line 1745.
+LaTeX Info: Redefining \% on input line 1745.
+LaTeX Info: Redefining \. on input line 1745.
+LaTeX Info: Redefining \% on input line 1745.
  [90]
 LaTeX Info: Redefining \. on input line 1773.
 LaTeX Info: Redefining \% on input line 1773.
 LaTeX Info: Redefining \. on input line 1773.
 LaTeX Info: Redefining \% on input line 1773.
  [91]
-LaTeX Info: Redefining \. on input line 1790.
-LaTeX Info: Redefining \% on input line 1790.
-LaTeX Info: Redefining \. on input line 1790.
-LaTeX Info: Redefining \% on input line 1790.
+LaTeX Info: Redefining \. on input line 1789.
+LaTeX Info: Redefining \% on input line 1789.
+LaTeX Info: Redefining \. on input line 1789.
+LaTeX Info: Redefining \% on input line 1789.
  [92]
-LaTeX Info: Redefining \. on input line 1806.
-LaTeX Info: Redefining \% on input line 1806.
-LaTeX Info: Redefining \. on input line 1806.
-LaTeX Info: Redefining \% on input line 1806.
+LaTeX Info: Redefining \. on input line 1792.
+LaTeX Info: Redefining \% on input line 1792.
+LaTeX Info: Redefining \. on input line 1792.
+LaTeX Info: Redefining \% on input line 1792.
  [93]
+LaTeX Info: Redefining \. on input line 1809.
+LaTeX Info: Redefining \% on input line 1809.
+LaTeX Info: Redefining \. on input line 1809.
+LaTeX Info: Redefining \% on input line 1809.
+ [94]
+LaTeX Info: Redefining \. on input line 1825.
+LaTeX Info: Redefining \% on input line 1825.
+LaTeX Info: Redefining \. on input line 1825.
+LaTeX Info: Redefining \% on input line 1825.
+ [95]
 Overfull \vbox (0.20837pt too high) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 1822.
-LaTeX Info: Redefining \% on input line 1822.
-LaTeX Info: Redefining \. on input line 1822.
-LaTeX Info: Redefining \% on input line 1822.
+LaTeX Info: Redefining \. on input line 1841.
+LaTeX Info: Redefining \% on input line 1841.
+LaTeX Info: Redefining \. on input line 1841.
+LaTeX Info: Redefining \% on input line 1841.
 
-[94]
-LaTeX Info: Redefining \. on input line 1834.
-LaTeX Info: Redefining \% on input line 1834.
-LaTeX Info: Redefining \. on input line 1834.
-LaTeX Info: Redefining \% on input line 1834.
- [95]
-LaTeX Info: Redefining \. on input line 1846.
-LaTeX Info: Redefining \% on input line 1846.
-LaTeX Info: Redefining \. on input line 1846.
-LaTeX Info: Redefining \% on input line 1846.
- [96]
-LaTeX Info: Redefining \. on input line 1852.
-LaTeX Info: Redefining \% on input line 1852.
-LaTeX Info: Redefining \. on input line 1852.
-LaTeX Info: Redefining \% on input line 1852.
+[96]
+LaTeX Info: Redefining \. on input line 1853.
+LaTeX Info: Redefining \% on input line 1853.
+LaTeX Info: Redefining \. on input line 1853.
+LaTeX Info: Redefining \% on input line 1853.
  [97]
-LaTeX Info: Redefining \. on input line 1864.
-LaTeX Info: Redefining \% on input line 1864.
-LaTeX Info: Redefining \. on input line 1864.
-LaTeX Info: Redefining \% on input line 1864.
+LaTeX Info: Redefining \. on input line 1865.
+LaTeX Info: Redefining \% on input line 1865.
+LaTeX Info: Redefining \. on input line 1865.
+LaTeX Info: Redefining \% on input line 1865.
  [98]
-LaTeX Info: Redefining \. on input line 1876.
-LaTeX Info: Redefining \% on input line 1876.
-LaTeX Info: Redefining \. on input line 1876.
-LaTeX Info: Redefining \% on input line 1876.
+LaTeX Info: Redefining \. on input line 1871.
+LaTeX Info: Redefining \% on input line 1871.
+LaTeX Info: Redefining \. on input line 1871.
+LaTeX Info: Redefining \% on input line 1871.
  [99]
-LaTeX Info: Redefining \. on input line 1887.
-LaTeX Info: Redefining \% on input line 1887.
-LaTeX Info: Redefining \. on input line 1887.
-LaTeX Info: Redefining \% on input line 1887.
+LaTeX Info: Redefining \. on input line 1883.
+LaTeX Info: Redefining \% on input line 1883.
+LaTeX Info: Redefining \. on input line 1883.
+LaTeX Info: Redefining \% on input line 1883.
  [100]
-LaTeX Info: Redefining \. on input line 1896.
-LaTeX Info: Redefining \% on input line 1896.
-LaTeX Info: Redefining \. on input line 1896.
-LaTeX Info: Redefining \% on input line 1896.
+LaTeX Info: Redefining \. on input line 1895.
+LaTeX Info: Redefining \% on input line 1895.
+LaTeX Info: Redefining \. on input line 1895.
+LaTeX Info: Redefining \% on input line 1895.
  [101]
 LaTeX Info: Redefining \. on input line 1906.
 LaTeX Info: Redefining \% on input line 1906.
 LaTeX Info: Redefining \. on input line 1906.
 LaTeX Info: Redefining \% on input line 1906.
  [102]
-LaTeX Info: Redefining \. on input line 1906.
-LaTeX Info: Redefining \% on input line 1906.
-LaTeX Info: Redefining \. on input line 1906.
-LaTeX Info: Redefining \% on input line 1906.
+LaTeX Info: Redefining \. on input line 1915.
+LaTeX Info: Redefining \% on input line 1915.
+LaTeX Info: Redefining \. on input line 1915.
+LaTeX Info: Redefining \% on input line 1915.
  [103]
-LaTeX Info: Redefining \. on input line 1917.
-LaTeX Info: Redefining \% on input line 1917.
-LaTeX Info: Redefining \. on input line 1917.
-LaTeX Info: Redefining \% on input line 1917.
+LaTeX Info: Redefining \. on input line 1925.
+LaTeX Info: Redefining \% on input line 1925.
+LaTeX Info: Redefining \. on input line 1925.
+LaTeX Info: Redefining \% on input line 1925.
  [104]
-LaTeX Info: Redefining \. on input line 1932.
-LaTeX Info: Redefining \% on input line 1932.
-LaTeX Info: Redefining \. on input line 1932.
-LaTeX Info: Redefining \% on input line 1932.
+LaTeX Info: Redefining \. on input line 1925.
+LaTeX Info: Redefining \% on input line 1925.
+LaTeX Info: Redefining \. on input line 1925.
+LaTeX Info: Redefining \% on input line 1925.
  [105]
-LaTeX Info: Redefining \. on input line 1940.
-LaTeX Info: Redefining \% on input line 1940.
-LaTeX Info: Redefining \. on input line 1940.
-LaTeX Info: Redefining \% on input line 1940.
+LaTeX Info: Redefining \. on input line 1936.
+LaTeX Info: Redefining \% on input line 1936.
+LaTeX Info: Redefining \. on input line 1936.
+LaTeX Info: Redefining \% on input line 1936.
  [106]
-LaTeX Info: Redefining \. on input line 1952.
-LaTeX Info: Redefining \% on input line 1952.
-LaTeX Info: Redefining \. on input line 1952.
-LaTeX Info: Redefining \% on input line 1952.
-
-[107]
-LaTeX Info: Redefining \. on input line 1974.
-LaTeX Info: Redefining \% on input line 1974.
-LaTeX Info: Redefining \. on input line 1974.
-LaTeX Info: Redefining \% on input line 1974.
+LaTeX Info: Redefining \. on input line 1951.
+LaTeX Info: Redefining \% on input line 1951.
+LaTeX Info: Redefining \. on input line 1951.
+LaTeX Info: Redefining \% on input line 1951.
+ [107]
+LaTeX Info: Redefining \. on input line 1959.
+LaTeX Info: Redefining \% on input line 1959.
+LaTeX Info: Redefining \. on input line 1959.
+LaTeX Info: Redefining \% on input line 1959.
  [108]
-LaTeX Info: Redefining \. on input line 1988.
-LaTeX Info: Redefining \% on input line 1988.
-LaTeX Info: Redefining \. on input line 1988.
-LaTeX Info: Redefining \% on input line 1988.
- [109]
-LaTeX Info: Redefining \. on input line 2002.
-LaTeX Info: Redefining \% on input line 2002.
-LaTeX Info: Redefining \. on input line 2002.
-LaTeX Info: Redefining \% on input line 2002.
- [110]
-LaTeX Info: Redefining \. on input line 2008.
-LaTeX Info: Redefining \% on input line 2008.
-LaTeX Info: Redefining \. on input line 2008.
-LaTeX Info: Redefining \% on input line 2008.
- [111]
-LaTeX Info: Redefining \. on input line 2030.
-LaTeX Info: Redefining \% on input line 2030.
-LaTeX Info: Redefining \. on input line 2030.
-LaTeX Info: Redefining \% on input line 2030.
- [112]
-LaTeX Info: Redefining \. on input line 2044.
-LaTeX Info: Redefining \% on input line 2044.
-LaTeX Info: Redefining \. on input line 2044.
-LaTeX Info: Redefining \% on input line 2044.
- [113]
-LaTeX Info: Redefining \. on input line 2056.
-LaTeX Info: Redefining \% on input line 2056.
-LaTeX Info: Redefining \. on input line 2056.
-LaTeX Info: Redefining \% on input line 2056.
- [114]
-LaTeX Info: Redefining \. on input line 2076.
-LaTeX Info: Redefining \% on input line 2076.
-LaTeX Info: Redefining \. on input line 2076.
-LaTeX Info: Redefining \% on input line 2076.
- [115]
-LaTeX Info: Redefining \. on input line 2092.
-LaTeX Info: Redefining \% on input line 2092.
-LaTeX Info: Redefining \. on input line 2092.
-LaTeX Info: Redefining \% on input line 2092.
- [116]
-LaTeX Info: Redefining \. on input line 2101.
-LaTeX Info: Redefining \% on input line 2101.
-LaTeX Info: Redefining \. on input line 2101.
-LaTeX Info: Redefining \% on input line 2101.
- [117]
-LaTeX Info: Redefining \. on input line 2116.
-LaTeX Info: Redefining \% on input line 2116.
-LaTeX Info: Redefining \. on input line 2116.
-LaTeX Info: Redefining \% on input line 2116.
- [118]
-LaTeX Info: Redefining \. on input line 2134.
-LaTeX Info: Redefining \% on input line 2134.
-LaTeX Info: Redefining \. on input line 2134.
-LaTeX Info: Redefining \% on input line 2134.
+LaTeX Info: Redefining \. on input line 1971.
+LaTeX Info: Redefining \% on input line 1971.
+LaTeX Info: Redefining \. on input line 1971.
+LaTeX Info: Redefining \% on input line 1971.
 
-[119]
-LaTeX Info: Redefining \. on input line 2151.
-LaTeX Info: Redefining \% on input line 2151.
-LaTeX Info: Redefining \. on input line 2151.
-LaTeX Info: Redefining \% on input line 2151.
+[109]
+LaTeX Info: Redefining \. on input line 1993.
+LaTeX Info: Redefining \% on input line 1993.
+LaTeX Info: Redefining \. on input line 1993.
+LaTeX Info: Redefining \% on input line 1993.
+ [110]
+LaTeX Info: Redefining \. on input line 2007.
+LaTeX Info: Redefining \% on input line 2007.
+LaTeX Info: Redefining \. on input line 2007.
+LaTeX Info: Redefining \% on input line 2007.
+ [111]
+LaTeX Info: Redefining \. on input line 2021.
+LaTeX Info: Redefining \% on input line 2021.
+LaTeX Info: Redefining \. on input line 2021.
+LaTeX Info: Redefining \% on input line 2021.
+ [112]
+LaTeX Info: Redefining \. on input line 2027.
+LaTeX Info: Redefining \% on input line 2027.
+LaTeX Info: Redefining \. on input line 2027.
+LaTeX Info: Redefining \% on input line 2027.
+ [113]
+LaTeX Info: Redefining \. on input line 2049.
+LaTeX Info: Redefining \% on input line 2049.
+LaTeX Info: Redefining \. on input line 2049.
+LaTeX Info: Redefining \% on input line 2049.
+ [114]
+LaTeX Info: Redefining \. on input line 2063.
+LaTeX Info: Redefining \% on input line 2063.
+LaTeX Info: Redefining \. on input line 2063.
+LaTeX Info: Redefining \% on input line 2063.
+ [115]
+LaTeX Info: Redefining \. on input line 2075.
+LaTeX Info: Redefining \% on input line 2075.
+LaTeX Info: Redefining \. on input line 2075.
+LaTeX Info: Redefining \% on input line 2075.
+ [116]
+LaTeX Info: Redefining \. on input line 2095.
+LaTeX Info: Redefining \% on input line 2095.
+LaTeX Info: Redefining \. on input line 2095.
+LaTeX Info: Redefining \% on input line 2095.
+ [117]
+LaTeX Info: Redefining \. on input line 2111.
+LaTeX Info: Redefining \% on input line 2111.
+LaTeX Info: Redefining \. on input line 2111.
+LaTeX Info: Redefining \% on input line 2111.
+ [118]
+LaTeX Info: Redefining \. on input line 2120.
+LaTeX Info: Redefining \% on input line 2120.
+LaTeX Info: Redefining \. on input line 2120.
+LaTeX Info: Redefining \% on input line 2120.
+ [119]
+LaTeX Info: Redefining \. on input line 2135.
+LaTeX Info: Redefining \% on input line 2135.
+LaTeX Info: Redefining \. on input line 2135.
+LaTeX Info: Redefining \% on input line 2135.
  [120]
-LaTeX Info: Redefining \. on input line 2158.
-LaTeX Info: Redefining \% on input line 2158.
-LaTeX Info: Redefining \. on input line 2158.
-LaTeX Info: Redefining \% on input line 2158.
- [121]
-LaTeX Info: Redefining \. on input line 2164.
-LaTeX Info: Redefining \% on input line 2164.
-LaTeX Info: Redefining \. on input line 2164.
-LaTeX Info: Redefining \% on input line 2164.
+LaTeX Info: Redefining \. on input line 2153.
+LaTeX Info: Redefining \% on input line 2153.
+LaTeX Info: Redefining \. on input line 2153.
+LaTeX Info: Redefining \% on input line 2153.
+
+[121]
+LaTeX Info: Redefining \. on input line 2170.
+LaTeX Info: Redefining \% on input line 2170.
+LaTeX Info: Redefining \. on input line 2170.
+LaTeX Info: Redefining \% on input line 2170.
  [122]
 LaTeX Info: Redefining \. on input line 2177.
 LaTeX Info: Redefining \% on input line 2177.
 LaTeX Info: Redefining \. on input line 2177.
 LaTeX Info: Redefining \% on input line 2177.
  [123]
-LaTeX Info: Redefining \. on input line 2192.
-LaTeX Info: Redefining \% on input line 2192.
-LaTeX Info: Redefining \. on input line 2192.
-LaTeX Info: Redefining \% on input line 2192.
+LaTeX Info: Redefining \. on input line 2183.
+LaTeX Info: Redefining \% on input line 2183.
+LaTeX Info: Redefining \. on input line 2183.
+LaTeX Info: Redefining \% on input line 2183.
  [124]
-LaTeX Info: Redefining \. on input line 2210.
-LaTeX Info: Redefining \% on input line 2210.
-LaTeX Info: Redefining \. on input line 2210.
-LaTeX Info: Redefining \% on input line 2210.
+LaTeX Info: Redefining \. on input line 2196.
+LaTeX Info: Redefining \% on input line 2196.
+LaTeX Info: Redefining \. on input line 2196.
+LaTeX Info: Redefining \% on input line 2196.
  [125]
-LaTeX Info: Redefining \. on input line 2222.
-LaTeX Info: Redefining \% on input line 2222.
-LaTeX Info: Redefining \. on input line 2222.
-LaTeX Info: Redefining \% on input line 2222.
+LaTeX Info: Redefining \. on input line 2211.
+LaTeX Info: Redefining \% on input line 2211.
+LaTeX Info: Redefining \. on input line 2211.
+LaTeX Info: Redefining \% on input line 2211.
  [126]
-LaTeX Info: Redefining \. on input line 2228.
-LaTeX Info: Redefining \% on input line 2228.
-LaTeX Info: Redefining \. on input line 2228.
-LaTeX Info: Redefining \% on input line 2228.
+LaTeX Info: Redefining \. on input line 2229.
+LaTeX Info: Redefining \% on input line 2229.
+LaTeX Info: Redefining \. on input line 2229.
+LaTeX Info: Redefining \% on input line 2229.
  [127]
-LaTeX Info: Redefining \. on input line 2234.
-LaTeX Info: Redefining \% on input line 2234.
-LaTeX Info: Redefining \. on input line 2234.
-LaTeX Info: Redefining \% on input line 2234.
+LaTeX Info: Redefining \. on input line 2241.
+LaTeX Info: Redefining \% on input line 2241.
+LaTeX Info: Redefining \. on input line 2241.
+LaTeX Info: Redefining \% on input line 2241.
  [128]
-LaTeX Info: Redefining \. on input line 2252.
-LaTeX Info: Redefining \% on input line 2252.
-LaTeX Info: Redefining \. on input line 2252.
-LaTeX Info: Redefining \% on input line 2252.
+LaTeX Info: Redefining \. on input line 2247.
+LaTeX Info: Redefining \% on input line 2247.
+LaTeX Info: Redefining \. on input line 2247.
+LaTeX Info: Redefining \% on input line 2247.
  [129]
-LaTeX Info: Redefining \. on input line 2269.
-LaTeX Info: Redefining \% on input line 2269.
-LaTeX Info: Redefining \. on input line 2269.
-LaTeX Info: Redefining \% on input line 2269.
+LaTeX Info: Redefining \. on input line 2253.
+LaTeX Info: Redefining \% on input line 2253.
+LaTeX Info: Redefining \. on input line 2253.
+LaTeX Info: Redefining \% on input line 2253.
  [130]
-LaTeX Info: Redefining \. on input line 2274.
-LaTeX Info: Redefining \% on input line 2274.
-LaTeX Info: Redefining \. on input line 2274.
-LaTeX Info: Redefining \% on input line 2274.
-
-[131]
-LaTeX Info: Redefining \. on input line 2298.
-LaTeX Info: Redefining \% on input line 2298.
-LaTeX Info: Redefining \. on input line 2298.
-LaTeX Info: Redefining \% on input line 2298.
+LaTeX Info: Redefining \. on input line 2271.
+LaTeX Info: Redefining \% on input line 2271.
+LaTeX Info: Redefining \. on input line 2271.
+LaTeX Info: Redefining \% on input line 2271.
+ [131]
+LaTeX Info: Redefining \. on input line 2288.
+LaTeX Info: Redefining \% on input line 2288.
+LaTeX Info: Redefining \. on input line 2288.
+LaTeX Info: Redefining \% on input line 2288.
  [132]
-LaTeX Info: Redefining \. on input line 2318.
-LaTeX Info: Redefining \% on input line 2318.
-LaTeX Info: Redefining \. on input line 2318.
-LaTeX Info: Redefining \% on input line 2318.
- [133]
-LaTeX Info: Redefining \. on input line 2326.
-LaTeX Info: Redefining \% on input line 2326.
-LaTeX Info: Redefining \. on input line 2326.
-LaTeX Info: Redefining \% on input line 2326.
- [134]
-LaTeX Info: Redefining \. on input line 2344.
-LaTeX Info: Redefining \% on input line 2344.
-LaTeX Info: Redefining \. on input line 2344.
-LaTeX Info: Redefining \% on input line 2344.
- [135]
-LaTeX Info: Redefining \. on input line 2356.
-LaTeX Info: Redefining \% on input line 2356.
-LaTeX Info: Redefining \. on input line 2356.
-LaTeX Info: Redefining \% on input line 2356.
- [136]
-LaTeX Info: Redefining \. on input line 2368.
-LaTeX Info: Redefining \% on input line 2368.
-LaTeX Info: Redefining \. on input line 2368.
-LaTeX Info: Redefining \% on input line 2368.
- [137]
-LaTeX Info: Redefining \. on input line 2376.
-LaTeX Info: Redefining \% on input line 2376.
-LaTeX Info: Redefining \. on input line 2376.
-LaTeX Info: Redefining \% on input line 2376.
- [138]
-LaTeX Info: Redefining \. on input line 2381.
-LaTeX Info: Redefining \% on input line 2381.
-LaTeX Info: Redefining \. on input line 2381.
-LaTeX Info: Redefining \% on input line 2381.
- [139]
-LaTeX Info: Redefining \. on input line 2392.
-LaTeX Info: Redefining \% on input line 2392.
-LaTeX Info: Redefining \. on input line 2392.
-LaTeX Info: Redefining \% on input line 2392.
- [140]
-LaTeX Info: Redefining \. on input line 2404.
-LaTeX Info: Redefining \% on input line 2404.
-LaTeX Info: Redefining \. on input line 2404.
-LaTeX Info: Redefining \% on input line 2404.
- [141]
-LaTeX Info: Redefining \. on input line 2410.
-LaTeX Info: Redefining \% on input line 2410.
-LaTeX Info: Redefining \. on input line 2410.
-LaTeX Info: Redefining \% on input line 2410.
- [142]
-LaTeX Info: Redefining \. on input line 2420.
-LaTeX Info: Redefining \% on input line 2420.
-LaTeX Info: Redefining \. on input line 2420.
-LaTeX Info: Redefining \% on input line 2420.
+LaTeX Info: Redefining \. on input line 2293.
+LaTeX Info: Redefining \% on input line 2293.
+LaTeX Info: Redefining \. on input line 2293.
+LaTeX Info: Redefining \% on input line 2293.
 
-[143]
-LaTeX Info: Redefining \. on input line 2435.
-LaTeX Info: Redefining \% on input line 2435.
-LaTeX Info: Redefining \. on input line 2435.
-LaTeX Info: Redefining \% on input line 2435.
+[133]
+LaTeX Info: Redefining \. on input line 2317.
+LaTeX Info: Redefining \% on input line 2317.
+LaTeX Info: Redefining \. on input line 2317.
+LaTeX Info: Redefining \% on input line 2317.
+ [134]
+LaTeX Info: Redefining \. on input line 2337.
+LaTeX Info: Redefining \% on input line 2337.
+LaTeX Info: Redefining \. on input line 2337.
+LaTeX Info: Redefining \% on input line 2337.
+ [135]
+LaTeX Info: Redefining \. on input line 2345.
+LaTeX Info: Redefining \% on input line 2345.
+LaTeX Info: Redefining \. on input line 2345.
+LaTeX Info: Redefining \% on input line 2345.
+ [136]
+LaTeX Info: Redefining \. on input line 2363.
+LaTeX Info: Redefining \% on input line 2363.
+LaTeX Info: Redefining \. on input line 2363.
+LaTeX Info: Redefining \% on input line 2363.
+ [137]
+LaTeX Info: Redefining \. on input line 2375.
+LaTeX Info: Redefining \% on input line 2375.
+LaTeX Info: Redefining \. on input line 2375.
+LaTeX Info: Redefining \% on input line 2375.
+ [138]
+LaTeX Info: Redefining \. on input line 2387.
+LaTeX Info: Redefining \% on input line 2387.
+LaTeX Info: Redefining \. on input line 2387.
+LaTeX Info: Redefining \% on input line 2387.
+ [139]
+LaTeX Info: Redefining \. on input line 2395.
+LaTeX Info: Redefining \% on input line 2395.
+LaTeX Info: Redefining \. on input line 2395.
+LaTeX Info: Redefining \% on input line 2395.
+ [140]
+LaTeX Info: Redefining \. on input line 2400.
+LaTeX Info: Redefining \% on input line 2400.
+LaTeX Info: Redefining \. on input line 2400.
+LaTeX Info: Redefining \% on input line 2400.
+ [141]
+LaTeX Info: Redefining \. on input line 2411.
+LaTeX Info: Redefining \% on input line 2411.
+LaTeX Info: Redefining \. on input line 2411.
+LaTeX Info: Redefining \% on input line 2411.
+ [142]
+LaTeX Info: Redefining \. on input line 2423.
+LaTeX Info: Redefining \% on input line 2423.
+LaTeX Info: Redefining \. on input line 2423.
+LaTeX Info: Redefining \% on input line 2423.
+ [143]
+LaTeX Info: Redefining \. on input line 2429.
+LaTeX Info: Redefining \% on input line 2429.
+LaTeX Info: Redefining \. on input line 2429.
+LaTeX Info: Redefining \% on input line 2429.
  [144]
-LaTeX Info: Redefining \. on input line 2442.
-LaTeX Info: Redefining \% on input line 2442.
-LaTeX Info: Redefining \. on input line 2442.
-LaTeX Info: Redefining \% on input line 2442.
- [145]
+LaTeX Info: Redefining \. on input line 2439.
+LaTeX Info: Redefining \% on input line 2439.
+LaTeX Info: Redefining \. on input line 2439.
+LaTeX Info: Redefining \% on input line 2439.
+
+[145]
 LaTeX Info: Redefining \. on input line 2454.
 LaTeX Info: Redefining \% on input line 2454.
 LaTeX Info: Redefining \. on input line 2454.
 LaTeX Info: Redefining \% on input line 2454.
  [146]
-LaTeX Info: Redefining \. on input line 2466.
-LaTeX Info: Redefining \% on input line 2466.
-LaTeX Info: Redefining \. on input line 2466.
-LaTeX Info: Redefining \% on input line 2466.
+LaTeX Info: Redefining \. on input line 2461.
+LaTeX Info: Redefining \% on input line 2461.
+LaTeX Info: Redefining \. on input line 2461.
+LaTeX Info: Redefining \% on input line 2461.
  [147]
-LaTeX Info: Redefining \. on input line 2478.
-LaTeX Info: Redefining \% on input line 2478.
-LaTeX Info: Redefining \. on input line 2478.
-LaTeX Info: Redefining \% on input line 2478.
+LaTeX Info: Redefining \. on input line 2473.
+LaTeX Info: Redefining \% on input line 2473.
+LaTeX Info: Redefining \. on input line 2473.
+LaTeX Info: Redefining \% on input line 2473.
  [148]
-LaTeX Info: Redefining \. on input line 2482.
-LaTeX Info: Redefining \% on input line 2482.
-LaTeX Info: Redefining \. on input line 2482.
-LaTeX Info: Redefining \% on input line 2482.
+LaTeX Info: Redefining \. on input line 2485.
+LaTeX Info: Redefining \% on input line 2485.
+LaTeX Info: Redefining \. on input line 2485.
+LaTeX Info: Redefining \% on input line 2485.
  [149]
-LaTeX Info: Redefining \. on input line 2494.
-LaTeX Info: Redefining \% on input line 2494.
-LaTeX Info: Redefining \. on input line 2494.
-LaTeX Info: Redefining \% on input line 2494.
+LaTeX Info: Redefining \. on input line 2497.
+LaTeX Info: Redefining \% on input line 2497.
+LaTeX Info: Redefining \. on input line 2497.
+LaTeX Info: Redefining \% on input line 2497.
  [150]
-LaTeX Info: Redefining \. on input line 2506.
-LaTeX Info: Redefining \% on input line 2506.
-LaTeX Info: Redefining \. on input line 2506.
-LaTeX Info: Redefining \% on input line 2506.
+LaTeX Info: Redefining \. on input line 2501.
+LaTeX Info: Redefining \% on input line 2501.
+LaTeX Info: Redefining \. on input line 2501.
+LaTeX Info: Redefining \% on input line 2501.
  [151]
-LaTeX Info: Redefining \. on input line 2516.
-LaTeX Info: Redefining \% on input line 2516.
-LaTeX Info: Redefining \. on input line 2516.
-LaTeX Info: Redefining \% on input line 2516.
+LaTeX Info: Redefining \. on input line 2513.
+LaTeX Info: Redefining \% on input line 2513.
+LaTeX Info: Redefining \. on input line 2513.
+LaTeX Info: Redefining \% on input line 2513.
  [152]
-LaTeX Info: Redefining \. on input line 2528.
-LaTeX Info: Redefining \% on input line 2528.
-LaTeX Info: Redefining \. on input line 2528.
-LaTeX Info: Redefining \% on input line 2528.
+LaTeX Info: Redefining \. on input line 2525.
+LaTeX Info: Redefining \% on input line 2525.
+LaTeX Info: Redefining \. on input line 2525.
+LaTeX Info: Redefining \% on input line 2525.
  [153]
-LaTeX Info: Redefining \. on input line 2536.
-LaTeX Info: Redefining \% on input line 2536.
-LaTeX Info: Redefining \. on input line 2536.
-LaTeX Info: Redefining \% on input line 2536.
+LaTeX Info: Redefining \. on input line 2535.
+LaTeX Info: Redefining \% on input line 2535.
+LaTeX Info: Redefining \. on input line 2535.
+LaTeX Info: Redefining \% on input line 2535.
  [154]
-LaTeX Info: Redefining \. on input line 2552.
-LaTeX Info: Redefining \% on input line 2552.
-LaTeX Info: Redefining \. on input line 2552.
-LaTeX Info: Redefining \% on input line 2552.
-
-[155]
-LaTeX Info: Redefining \. on input line 2556.
-LaTeX Info: Redefining \% on input line 2556.
-LaTeX Info: Redefining \. on input line 2556.
-LaTeX Info: Redefining \% on input line 2556.
+LaTeX Info: Redefining \. on input line 2547.
+LaTeX Info: Redefining \% on input line 2547.
+LaTeX Info: Redefining \. on input line 2547.
+LaTeX Info: Redefining \% on input line 2547.
+ [155]
+LaTeX Info: Redefining \. on input line 2555.
+LaTeX Info: Redefining \% on input line 2555.
+LaTeX Info: Redefining \. on input line 2555.
+LaTeX Info: Redefining \% on input line 2555.
  [156]
+LaTeX Info: Redefining \. on input line 2571.
+LaTeX Info: Redefining \% on input line 2571.
+LaTeX Info: Redefining \. on input line 2571.
+LaTeX Info: Redefining \% on input line 2571.
+
+[157]
+LaTeX Info: Redefining \. on input line 2575.
+LaTeX Info: Redefining \% on input line 2575.
+LaTeX Info: Redefining \. on input line 2575.
+LaTeX Info: Redefining \% on input line 2575.
+ [158]
 Capítulo 5.
-Package biblatex Info: Resetting trackers on input line 2556.
-LaTeX Info: Redefining \. on input line 2566.
-LaTeX Info: Redefining \% on input line 2566.
-LaTeX Info: Redefining \. on input line 2566.
-LaTeX Info: Redefining \% on input line 2566.
-[157
+Package biblatex Info: Resetting trackers on input line 2575.
+LaTeX Info: Redefining \. on input line 2585.
+LaTeX Info: Redefining \% on input line 2585.
+LaTeX Info: Redefining \. on input line 2585.
+LaTeX Info: Redefining \% on input line 2585.
+[159
 
 ]
 Overfull \vbox (2.16118pt too high) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 2575.
-LaTeX Info: Redefining \% on input line 2575.
-LaTeX Info: Redefining \. on input line 2575.
-LaTeX Info: Redefining \% on input line 2575.
+LaTeX Info: Redefining \. on input line 2594.
+LaTeX Info: Redefining \% on input line 2594.
+LaTeX Info: Redefining \. on input line 2594.
+LaTeX Info: Redefining \% on input line 2594.
 
-[158]
-LaTeX Info: Redefining \. on input line 2588.
-LaTeX Info: Redefining \% on input line 2588.
-LaTeX Info: Redefining \. on input line 2588.
-LaTeX Info: Redefining \% on input line 2588.
- [159]
-LaTeX Info: Redefining \. on input line 2599.
-LaTeX Info: Redefining \% on input line 2599.
-LaTeX Info: Redefining \. on input line 2599.
-LaTeX Info: Redefining \% on input line 2599.
- [160]
-LaTeX Info: Redefining \. on input line 2604.
-LaTeX Info: Redefining \% on input line 2604.
-LaTeX Info: Redefining \. on input line 2604.
-LaTeX Info: Redefining \% on input line 2604.
+[160]
+LaTeX Info: Redefining \. on input line 2607.
+LaTeX Info: Redefining \% on input line 2607.
+LaTeX Info: Redefining \. on input line 2607.
+LaTeX Info: Redefining \% on input line 2607.
  [161]
-LaTeX Info: Redefining \. on input line 2611.
-LaTeX Info: Redefining \% on input line 2611.
-LaTeX Info: Redefining \. on input line 2611.
-LaTeX Info: Redefining \% on input line 2611.
+LaTeX Info: Redefining \. on input line 2618.
+LaTeX Info: Redefining \% on input line 2618.
+LaTeX Info: Redefining \. on input line 2618.
+LaTeX Info: Redefining \% on input line 2618.
  [162]
-LaTeX Info: Redefining \. on input line 2624.
-LaTeX Info: Redefining \% on input line 2624.
-LaTeX Info: Redefining \. on input line 2624.
-LaTeX Info: Redefining \% on input line 2624.
+LaTeX Info: Redefining \. on input line 2623.
+LaTeX Info: Redefining \% on input line 2623.
+LaTeX Info: Redefining \. on input line 2623.
+LaTeX Info: Redefining \% on input line 2623.
  [163]
-LaTeX Info: Redefining \. on input line 2642.
-LaTeX Info: Redefining \% on input line 2642.
-LaTeX Info: Redefining \. on input line 2642.
-LaTeX Info: Redefining \% on input line 2642.
+LaTeX Info: Redefining \. on input line 2630.
+LaTeX Info: Redefining \% on input line 2630.
+LaTeX Info: Redefining \. on input line 2630.
+LaTeX Info: Redefining \% on input line 2630.
  [164]
-LaTeX Info: Redefining \. on input line 2653.
-LaTeX Info: Redefining \% on input line 2653.
-LaTeX Info: Redefining \. on input line 2653.
-LaTeX Info: Redefining \% on input line 2653.
+LaTeX Info: Redefining \. on input line 2643.
+LaTeX Info: Redefining \% on input line 2643.
+LaTeX Info: Redefining \. on input line 2643.
+LaTeX Info: Redefining \% on input line 2643.
  [165]
-LaTeX Info: Redefining \. on input line 2665.
-LaTeX Info: Redefining \% on input line 2665.
-LaTeX Info: Redefining \. on input line 2665.
-LaTeX Info: Redefining \% on input line 2665.
+LaTeX Info: Redefining \. on input line 2661.
+LaTeX Info: Redefining \% on input line 2661.
+LaTeX Info: Redefining \. on input line 2661.
+LaTeX Info: Redefining \% on input line 2661.
  [166]
-LaTeX Info: Redefining \. on input line 2678.
-LaTeX Info: Redefining \% on input line 2678.
-LaTeX Info: Redefining \. on input line 2678.
-LaTeX Info: Redefining \% on input line 2678.
+LaTeX Info: Redefining \. on input line 2672.
+LaTeX Info: Redefining \% on input line 2672.
+LaTeX Info: Redefining \. on input line 2672.
+LaTeX Info: Redefining \% on input line 2672.
  [167]
-LaTeX Info: Redefining \. on input line 2689.
-LaTeX Info: Redefining \% on input line 2689.
-LaTeX Info: Redefining \. on input line 2689.
-LaTeX Info: Redefining \% on input line 2689.
+LaTeX Info: Redefining \. on input line 2684.
+LaTeX Info: Redefining \% on input line 2684.
+LaTeX Info: Redefining \. on input line 2684.
+LaTeX Info: Redefining \% on input line 2684.
  [168]
+LaTeX Info: Redefining \. on input line 2697.
+LaTeX Info: Redefining \% on input line 2697.
+LaTeX Info: Redefining \. on input line 2697.
+LaTeX Info: Redefining \% on input line 2697.
+ [169]
+LaTeX Info: Redefining \. on input line 2708.
+LaTeX Info: Redefining \% on input line 2708.
+LaTeX Info: Redefining \. on input line 2708.
+LaTeX Info: Redefining \% on input line 2708.
+ [170]
 Capítulo 6.
-Package biblatex Info: Resetting trackers on input line 2689.
-LaTeX Info: Redefining \. on input line 2703.
-LaTeX Info: Redefining \% on input line 2703.
-LaTeX Info: Redefining \. on input line 2703.
-LaTeX Info: Redefining \% on input line 2703.
-[169
+Package biblatex Info: Resetting trackers on input line 2708.
+LaTeX Info: Redefining \. on input line 2722.
+LaTeX Info: Redefining \% on input line 2722.
+LaTeX Info: Redefining \. on input line 2722.
+LaTeX Info: Redefining \% on input line 2722.
+[171
 
-] [170
+] [172
 
 ]
-Package biblatex Info: Resetting trackers on input line 2703.
+Package biblatex Info: Resetting trackers on input line 2722.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
-(Font)              scaled to size 10.61993pt on input line 2703.
+(Font)              scaled to size 10.61993pt on input line 2722.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 7.07996pt on input line 2703.
-LaTeX Info: Redefining \. on input line 2703.
-LaTeX Info: Redefining \% on input line 2703.
-LaTeX Info: Redefining \. on input line 2703.
-LaTeX Info: Redefining \% on input line 2703.
- [171]
-LaTeX Info: Redefining \. on input line 2703.
-LaTeX Info: Redefining \% on input line 2703.
-LaTeX Info: Redefining \. on input line 2703.
-LaTeX Info: Redefining \% on input line 2703.
- [172]
-LaTeX Info: Redefining \. on input line 2703.
-LaTeX Info: Redefining \% on input line 2703.
-LaTeX Info: Redefining \. on input line 2703.
-LaTeX Info: Redefining \% on input line 2703.
+(Font)              scaled to size 7.07996pt on input line 2722.
+LaTeX Info: Redefining \. on input line 2722.
+LaTeX Info: Redefining \% on input line 2722.
+LaTeX Info: Redefining \. on input line 2722.
+LaTeX Info: Redefining \% on input line 2722.
  [173]
-LaTeX Info: Redefining \. on input line 2703.
-LaTeX Info: Redefining \% on input line 2703.
-LaTeX Info: Redefining \. on input line 2703.
-LaTeX Info: Redefining \% on input line 2703.
+LaTeX Info: Redefining \. on input line 2722.
+LaTeX Info: Redefining \% on input line 2722.
+LaTeX Info: Redefining \. on input line 2722.
+LaTeX Info: Redefining \% on input line 2722.
  [174]
-LaTeX Info: Redefining \. on input line 2703.
-LaTeX Info: Redefining \% on input line 2703.
-LaTeX Info: Redefining \. on input line 2703.
-LaTeX Info: Redefining \% on input line 2703.
+LaTeX Info: Redefining \. on input line 2722.
+LaTeX Info: Redefining \% on input line 2722.
+LaTeX Info: Redefining \. on input line 2722.
+LaTeX Info: Redefining \% on input line 2722.
  [175]
-LaTeX Info: Redefining \. on input line 2703.
-LaTeX Info: Redefining \% on input line 2703.
-LaTeX Info: Redefining \. on input line 2703.
-LaTeX Info: Redefining \% on input line 2703.
+LaTeX Info: Redefining \. on input line 2722.
+LaTeX Info: Redefining \% on input line 2722.
+LaTeX Info: Redefining \. on input line 2722.
+LaTeX Info: Redefining \% on input line 2722.
  [176]
+LaTeX Info: Redefining \. on input line 2722.
+LaTeX Info: Redefining \% on input line 2722.
+LaTeX Info: Redefining \. on input line 2722.
+LaTeX Info: Redefining \% on input line 2722.
+ [177]
+LaTeX Info: Redefining \. on input line 2722.
+LaTeX Info: Redefining \% on input line 2722.
+LaTeX Info: Redefining \. on input line 2722.
+LaTeX Info: Redefining \% on input line 2722.
+ [178] (./artcap/colofon.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [179]
+[180
 
+]
+Package biblatex Info: Resetting trackers on input line 1.
+) 
 AED: pageslts setting LastPage 
-LaTeX Info: Redefining \. on input line 2704.
-LaTeX Info: Redefining \% on input line 2704.
-LaTeX Info: Redefining \. on input line 2704.
-LaTeX Info: Redefining \% on input line 2704.
+LaTeX Info: Redefining \. on input line 2726.
+LaTeX Info: Redefining \% on input line 2726.
+LaTeX Info: Redefining \. on input line 2726.
+LaTeX Info: Redefining \% on input line 2726.
 (/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-utf32be.def
 File: se-utf32be.def 2019/11/29 v1.12 stringenc: UTF-32BE
 )
 (/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
-) [177]
+) [181]
 
 Package glossaries Warning: No \printnoidxglossary or \printnoidxglossaries
  found. (Remove \makenoidxglossaries if you don't want any glossaries.)
@@ -5322,39 +4304,39 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `pdf-20250411MAUROO.out' has not changed.
-(rerunfilecheck)             Checksum: 4FAC885B526A6D019C55C102D0DCC3D7;1953.
+(rerunfilecheck)             Checksum: 0F12E217FAD36E3137F386E6BDA7B0F4;1953.
 Package logreq Info: Writing requests to 'pdf-20250411MAUROO.run.xml'.
 
 \openout1 = pdf-20250411MAUROO.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 67694 strings out of 476553
- 6947540,3417909 words of node,token memory allocated
- 5989839 words of node memory still in use:
-   21618 hlist, 39 vlist, 6489 rule, 173 ins, 2 adjust, 76154 disc, 2876 local_p
-ar, 400 math, 110428 glue, 61085 kern, 7572 penalty, 786 margin_kern, 487028 gly
-ph, 128543 attribute, 6344 glue_spec, 18375 attribute_list, 1474 write, 38 pdf_l
-iteral, 1122 pdf_start_link, 1130 pdf_end_link, 334 pdf_dest, 709 pdf_action, 33
-28 pdf_colorstack, 4 pdf_setmatrix, 4 pdf_save, 4 pdf_restore nodes
-   avail lists: 1:12,2:428,3:271,4:117,5:285,6:33,7:4397,8:138,9:250,10:31,11:53
-3,12:2
- 87562 multiletter control sequences out of 65536+600000
- 104 fonts using 28724075 bytes
+ 67724 strings out of 476553
+ 6947305,3417909 words of node,token memory allocated
+ 6141274 words of node memory still in use:
+   23526 hlist, 410 vlist, 7963 rule, 173 ins, 2 adjust, 77047 disc, 3356 local_
+par, 418 math, 116569 glue, 62183 kern, 8741 penalty, 868 margin_kern, 492662 gl
+yph, 133380 attribute, 6593 glue_spec, 19066 attribute_list, 1474 write, 38 pdf_
+literal, 1147 pdf_start_link, 1155 pdf_end_link, 334 pdf_dest, 722 pdf_action, 3
+428 pdf_colorstack, 4 pdf_setmatrix, 4 pdf_save, 4 pdf_restore nodes
+   avail lists: 1:12,2:292,3:263,4:116,5:212,6:27,7:3788,8:138,9:236,10:31,11:43
+6,12:2
+ 87570 multiletter control sequences out of 65536+600000
+ 104 fonts using 28723939 bytes
  117i,11n,123p,5884b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinus
-Serif-BoldItalic.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMP
-lexSansCondensed-Italic.otf></usr/share/texlive/texmf-dist/fonts/opentype/public
-/libertinus-fonts/LibertinusSerif-Bold.otf></usr/share/texlive/texmf-dist/fonts/
-opentype/ibm/plex/IBMPlexSansCondensed-SemiBold.otf></usr/share/texlive/texmf-di
-st/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Italic.otf></usr/share
+Serif-BoldItalic.otf></usr/share/texlive/texmf-dist/fonts/opentype/public/libert
+inus-fonts/LibertinusSerif-Bold.otf></usr/share/texlive/texmf-dist/fonts/opentyp
+e/ibm/plex/IBMPlexSansCondensed-SemiBold.otf></usr/share/texlive/texmf-dist/font
+s/opentype/public/libertinus-fonts/LibertinusSerif-Italic.otf></usr/share/texliv
+e/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Italic.otf></usr/share
 /texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.otf></u
 sr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSer
 if-Regular.otf>
-Output written on pdf-20250411MAUROO.pdf (195 pages, 776353 bytes).
+Output written on pdf-20250411MAUROO.pdf (201 pages, 779853 bytes).
 
-PDF statistics: 2082 PDF objects out of 2487 (max. 8388607)
- 1715 compressed objects within 18 object streams
- 434 named destinations out of 1000 (max. 131072)
+PDF statistics: 2137 PDF objects out of 2487 (max. 8388607)
+ 1765 compressed objects within 18 object streams
+ 443 named destinations out of 1000 (max. 131072)
  357 words of extra memory for PDF output out of 10000 (max. 100000000)
 
